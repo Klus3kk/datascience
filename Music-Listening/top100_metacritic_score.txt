@@ -1,0 +1,101 @@
+Artist	Title	Release Year	Genre	Metacritic Critic Score
+Fiona Apple	Fetch the Bolt Cutters	2020	Art Pop	98.0
+Brian Wilson	SMiLE	2004	Rock	97.0
+Loretta Lynn	Van Lear Rose	2004	Country	97.0
+The Wonder Years	The Greatest Generation	2013	Pop Punk	97.0
+Kendrick Lamar	To Pimp a Butterfly	2015	Hip Hop	96.0
+Nick Cave & The Bad Seeds	Ghosteen	2019	Singer-Songwriter	96.0
+Rose City Band	Summerlong	2020	Country Rock	95.0
+D'Angelo and The Vanguard	Black Messiah	2014	Neo-Soul	95.0
+Kendrick Lamar	DAMN.	2017	Hip Hop	95.0
+Nick Cave & The Bad Seeds	Skeleton Tree	2016	Art Rock	95.0
+Joyce Manor	Of All Things I Will Soon Grow Tired	2012	Punk	95.0
+Doe	Some Things Last Longer Than You	2016	Indie Rock	95.0
+Employed to Serve	Eternal Forward Motion	2019	Post-Hardcore	95.0
+OutKast	Stankonia	2000	Hip Hop	95.0
+Bob Dylan	Rough and Rowdy Ways	2020	Singer-Songwriter	95.0
+The Chariot	One Wing	2012	Metalcore	94.0
+Kanye West	My Beautiful Dark Twisted Fantasy	2010	Hip Hop	94.0
+Sleep	Dopesmoker	2003	Stoner Metal	94.0
+Lankum	The Livelong Day	2019	Folk	94.0
+Ali Farka TourÃ©	Savane	2006	World	94.0
+Mount Eerie	A Crow Looked at Me	2017	Singer-Songwriter	93.0
+Noname	Room 25	2018	Hip Hop	93.0
+Bob Dylan	Love and Theft	2001	Singer-Songwriter	93.0
+Madvillain	Madvillainy	2004	Hip Hop	93.0
+Saba	Care for Me	2018	Hip Hop	93.0
+The Menzingers	On the Impossible Past	2012	Punk Rock	93.0
+Mary Gauthier	Rifles & Rosary Beads	2018	Americana	92.0
+Frank Ocean	Channel Orange	2012	Alternative R&B	92.0
+Deafheaven	Sunbather	2013	Blackgaze	92.0
+Every Time I Die	From Parts Unknown	2014	Metalcore	92.0
+Ry Cooder	Pull Up Some Dust and Sit Down	2011	Folk	92.0
+Rolo Tomassi	Time Will Die and Love Will Bury It	2018	Mathcore	92.0
+The White Stripes	Elephant	2003	Garage Rock	92.0
+Leonard Cohen	You Want It Darker	2016	Singer-Songwriter	92.0
+UnderÃ¸ath	Lost in the Sound of Separation	2008	Metalcore	92.0
+BeyoncÃ©	Lemonade	2016	R&B	92.0
+Paradise Lost	Obsidian	2020	Gothic Metal	92.0
+Marius Neset	Golden Xplosion	2011	Jazz	92.0
+Behemoth	The Satanist	2014	Death Metal	92.0
+Dizzee Rascal	Boy in da Corner	2003	Grime	92.0
+Aesop Rock	Labor Days	2001	Hip Hop	92.0
+'68	Two Parts Viper	2017	Noise Rock	92.0
+The Wonder Years	No Closer to Heaven	2015	Pop Punk	91.0
+Lorde	Melodrama	2017	Art Pop	91.0
+Blood Incantation	Hidden History of the Human Race	2019	Death Metal	91.0
+The Hotelier	Home, Like Noplace is There	2014	Emo	91.0
+A Tribe Called Quest	We got it from Here... Thank You 4 Your service	2016	Hip Hop	91.0
+Perfume Genius	Set My Heart on Fire Immediately	2020	Art Pop	91.0
+Janelle MonÃ¡e	The ArchAndroid	2010	R&B	91.0
+Little Simz	GREY Area	2019	UK Hip Hop	91.0
+Machine Head	Unto the Locust	2011	Thrash Metal	91.0
+Kendrick Lamar	good kid, m.A.A.d. city	2012	Hip Hop	91.0
+Weyes Blood	Titanic Rising	2019	Art Pop	91.0
+OutKast	Speakerboxxx/The Love Below	2003	Hip Hop	91.0
+Jamey Johnson	The Guitar Song	2010	Country	91.0
+The Strokes	Is This It	2001	Indie Rock	91.0
+Baroness	Gold & Grey	2019	Stoner Metal	91.0
+The Streets	A Grand Don't Come For Free	2004	Hip Hop	91.0
+Burial	Untrue	2007	Dubstep	90.0
+Architects	Holy Hell	2018	Metalcore	90.0
+Sufjan Stevens	Carrie & Lowell	2015	Indie Folk	90.0
+Raphael Saadiq	Jimmy Lee	2019	Neo-Soul	90.0
+John Coltrane	Both Directions at Once: The Lost Album	2018	Jazz	90.0
+Boston Manor	Glue	2020	Alternative Rock	90.0
+Primal Scream	XTRMNTR	2000	Alternative Dance	90.0
+Phoebe Bridgers	Punisher	2020	Singer-Songwriter	90.0
+The Field	From Here We Go Sublime	2007	Minimal Techno	90.0
+Nils Frahm	Spaces	2013	Ambient	90.0
+Arcade Fire	Funeral	2004	Indie Rock	90.0
+Sufjan Stevens	Illinois	2005	Chamber Pop	90.0
+The Streets	Original Pirate Material	2002	Hip Hop	90.0
+Tom Waits	Alice	2002	Singer-Songwriter	90.0
+Sleater-Kinney	No Cities to Love	2015	Indie Rock	90.0
+My Morning Jacket	Z	2005	Indie Rock	90.0
+Rapsody	Eve	2019	Hip Hop	90.0
+The Bug	London Zoo	2008	Dancehall	90.0
+Dave	Psychodrama	2019	Hip Hop	90.0
+Moses Sumney	grÃ¦	2020	Art Pop	90.0
+Asking Alexandria	The Black	2016	Metalcore	90.0
+Big Boi	Sir Lucious Left Foot: The Son of Chico Dusty	2010	Hip Hop	90.0
+Napalm Death	Apex Predator - Easy Meat	2015	Grindcore	89.0
+Enter Shikari	The Mindsweep	2015	Post-Hardcore	89.0
+Fiona Apple	The Idler Wheel	2012	Singer-Songwriter	89.0
+Shakira	Sale El Sol	2010	Latin Pop	89.0
+Ali Farka Toure & Toumani Diabate	Ali & Toumani	2010	World	89.0
+Yves Tumor	Safe in the Hands of Love	2018	Post-Industrial	89.0
+Robyn	Honey	2018	Electropop	89.0
+Slipknot	We Are Not Your Kind	2019	Alternative Metal	89.0
+Junior Boys	Last Exit	2004	Synthpop	89.0
+Solange	A Seat at the Table	2016	Alternative R&B	89.0
+HAIM	Women in Music Pt. III	2020	Indie Pop	89.0
+Vince Staples	Big Fish Theory	2017	Hip Hop	89.0
+Trophy Scars	Holy Vacants	2014	Blues Rock	89.0
+Michael Kiwanuka	Kiwanuka	2019	Psychedelic Soul	89.0
+Plush	Fed	2008	Chamber Pop	89.0
+Angel Olsen	All Mirrors	2019	Art Pop	89.0
+Queens of the Stone Age	Songs for the Deaf	2002	Alternative Rock	89.0
+Christine and the Queens	La vita nuova	2020	Synthpop	89.0
+ROSALÃA	EL MAL QUERER	2018	Art Pop	89.0
+FKA twigs	M3LL155X	2015	Art Pop	89.0
