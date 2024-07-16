@@ -1,0 +1,9415 @@
+Artist;Average Score
+Roberta Flack;94.5
+The Jimi Hendrix Experience;94.33333333333333
+Caetano Veloso, Gal Costa, Gilberto Gil, Nara LeÃ£o, Os Mutantes E Tom ZÃ©;94.0
+Stan Getz & JoÃ£o Gilberto;94.0
+Kashiwa Daisuke;94.0
+Milton Nascimento & LÃ´ Borges;93.5
+Sarah Vaughan;93.5
+George Benson;93.0
+Max Roach;93.0
+Jamie Lenman;93.0
+The Congos;92.5
+Grant Green;92.5
+Ahmad Jamal;92.5
+Derek and The Dominos;92.0
+Crosby, Stills, Nash & Young;92.0
+Oliver Nelson;92.0
+The Dave Brubeck Quartet;92.0
+Duke Ellington & John Coltrane;92.0
+Yusef Lateef;92.0
+Cannonball Adderley;92.0
+Milt Jackson & John Coltrane;92.0
+Michael Hurley, The Unholy Modal Rounders, Jeffrey Frederick, & The Clamtones;92.0
+Breach;91.5
+Valerio Tricoli;91.5
+Vinterland;91.5
+Waylon Jennings;91.5
+Almendra;91.5
+Dismember;91.5
+Sean McCann;91.5
+Nick Drake;91.16666666666667
+James Carr;91.0
+Global Communication;91.0
+Rahsaan Roland Kirk;91.0
+Paul McCartney & Linda McCartney;91.0
+Keith Jarrett;91.0
+The Modern Lovers;91.0
+Empire! Empire! (I Was A Lonely Estate);91.0
+Wayne Shorter;91.0
+Maria Schneider Orchestra;91.0
+Andrew Hill;90.75
+Hank Mobley;90.5
+Chick Corea;90.5
+Burning Spear;90.5
+Grover Washington, Jr.;90.5
+Esoteric;90.5
+The Velvet Underground & Nico;90.5
+Robert Cray;90.5
+Donald Byrd;90.5
+Sex Pistols;90.5
+Gil Scott-Heron and Brian Jackson;90.5
+The Brave Little Abacus;90.5
+Night Verses;90.5
+Mahavishnu Orchestra;90.5
+Idrees Sulieman, John Coltrane, Kenny Burrell & Tommy Flanagan;90.5
+Freddie Hubbard;90.0
+John Coltrane & Johnny Hartman;90.0
+Jon Hassell & Brian Eno;90.0
+The Everly Brothers;90.0
+Julius Eastman;90.0
+John Mayall with Eric Clapton;90.0
+Marcos Valle;90.0
+Fishmans;90.0
+Silencer;90.0
+Jeff Buckley;90.0
+Madvillain;90.0
+Necrophagist;90.0
+Gram Parsons;89.75
+The Horace Silver Quintet;89.5
+Taj Mahal;89.5
+Moby Grape;89.5
+Stan Getz & Charlie Byrd;89.5
+Lauryn Hill;89.5
+Sonny Clark;89.5
+Juanes;89.5
+AntÃ´nio Carlos Jobim;89.5
+Albert Ayler;89.5
+The Wildhearts;89.25
+Ornette Coleman;89.2
+Carl Perkins;89.0
+Etta James;89.0
+Albert King;89.0
+Lyle Lovett;89.0
+The Paul Butterfield Blues Band;89.0
+Marius Neset;89.0
+Alice Coltrane;89.0
+Bill Withers;89.0
+Sisteray;89.0
+Freestyle Fellowship;89.0
+Arvo PÃ¤rt;89.0
+Stevie Ray Vaughan & Double Trouble;89.0
+Shadow of Intent;89.0
+Woody Guthrie;89.0
+Crosby, Stills & Nash;89.0
+Louis Prima;89.0
+Cecil Taylor;89.0
+Dexter Gordon;89.0
+D'Angelo and The Vanguard;89.0
+Richard & Linda Thompson;88.75
+Don Cherry;88.75
+Weather Report;88.66666666666667
+Peter BrÃ¶tzmann;88.5
+John Martyn;88.5
+Leaders Of The New School;88.5
+JoÃ£o Gilberto;88.5
+Junior Murvin;88.5
+Secos & Molhados;88.5
+Traumprinz;88.5
+Company Flow;88.5
+Sam Cooke;88.5
+Anita Baker;88.5
+Jackie McLean;88.5
+Weakling;88.5
+Herb Alpert & The Tijuana Brass;88.5
+Bud Powell;88.5
+Circle Takes The Square;88.5
+Lydia;88.5
+The Crickets;88.5
+Sun Ra;88.25
+Sonny Rollins;88.0
+The Supremes;88.0
+Black Uhuru;88.0
+Bunbury;88.0
+James Chance & The Contortions;88.0
+Keith Fullerton Whitman;88.0
+Count Basie and His Orchestra;88.0
+Eric Dolphy;87.75
+Boogie Down Productions;87.66666666666667
+Mark Hollis;87.5
+Year of No Light;87.5
+Elis Regina & AntÃ´nio Carlos Jobim;87.5
+Lee Morgan;87.5
+Elucid;87.5
+State Faults;87.5
+Holly Humberstone;87.5
+Robert Rich;87.5
+Ini Kamoze;87.5
+Tribalistas;87.5
+Pylon;87.5
+Iris DeMent;87.5
+Bomb The Music Industry!;87.5
+NegurÄƒ Bunget;87.5
+Milton Nascimento;87.5
+John Surman;87.5
+Metro Area;87.5
+Jorge Ben;87.5
+Toni Tornado;87.5
+Thelonious Monk;87.375
+Portishead;87.33333333333333
+D'Angelo;87.25
+The KLF;87.25
+Marisa Monte;87.25
+Terry Riley;87.16666666666667
+Thinking Fellers Union Local 282;87.0
+Selena;87.0
+Captain, We're Sinking;87.0
+John Parish;87.0
+Flower Travellin' Band;87.0
+Ian Dury;87.0
+DJ Sprinkles;87.0
+Laura Nyro;87.0
+Artillery;87.0
+McCoy Tyner;87.0
+Arrested Development;87.0
+Lula CÃ´rtes and ZÃ© Ramalho;87.0
+Bobby Brown;87.0
+Bobby Hutcherson;87.0
+The Flying Burrito Brothers;87.0
+Sam Lee & Friends;87.0
+Jackson C. Frank;87.0
+The Delfonics;87.0
+Taeko Ohnuki;87.0
+Botch;87.0
+The Wrens;87.0
+Dillard & Clark;87.0
+Charles Mingus;86.9375
+Aretha Franklin;86.91666666666667
+The Allman Brothers Band;86.875
+Otis Redding;86.8
+The Notorious B.I.G.;86.75
+Muddy Waters;86.75
+Terrorizer;86.5
+Taake;86.5
+High Command;86.5
+Edie Brickell & New Bohemians;86.5
+Rev. Gary Davis;86.5
+Minnie Riperton;86.5
+Lullaby for the Working Class;86.5
+Connie Converse;86.5
+3rd Bass;86.5
+Black Star;86.5
+Ashra;86.5
+Rodrigo Amarante;86.5
+Prince Of Denmark;86.5
+Old Gray;86.5
+David Axelrod;86.5
+Young Marble Giants;86.5
+NoMeansNo;86.5
+7 Year Bitch;86.5
+Ella Fitzgerald & Louis Armstrong;86.5
+Alan Braxe & Friends;86.5
+Malevolent Creation;86.5
+LPX;86.5
+The Beatles;86.26923076923077
+Heart;86.25
+13th Floor Elevators;86.25
+Mekons;86.25
+Bob Marley & The Wailers;86.05555555555556
+Mu;86.0
+Al Stewart;86.0
+Masta Ace Incorporated;86.0
+Little Richard;86.0
+Smokey Robinson & the Miracles;86.0
+Bobbie Gentry;86.0
+Our Native Daughters;86.0
+John Zorn;86.0
+Jungle Brothers;86.0
+Wayne Shorter Quartet;86.0
+Astrud Gilberto;86.0
+Archie Shepp;86.0
+P.M. Dawn;86.0
+X-Ray Spex;86.0
+Black Sheep;86.0
+Robbie Basho;86.0
+Elza Soares;86.0
+Divine Styler;86.0
+Gene Clark;86.0
+Ella Fitzgerald;86.0
+Main Source;86.0
+Guy Clark;86.0
+Poison The Well;86.0
+Marley Marl;86.0
+Colin Newman;86.0
+Edan;86.0
+Richard Hell & The Voidoids;86.0
+The La's;86.0
+The Monks;86.0
+Drive Like Jehu;85.75
+Premiata Forneria Marconi;85.75
+The Ruins of Beverast;85.75
+Slow Dakota;85.5
+Gamma Ray;85.5
+Ray Price;85.5
+Galaxie 500;85.5
+Jimmy Smith;85.5
+Funeral Diner;85.5
+Cybotron;85.5
+Shudder To Think;85.5
+Disco Inferno;85.5
+Us3;85.5
+Brigitte Fontaine & Art Ensemble of Chicago;85.5
+Bonnie Tyler;85.5
+The Dead Boys;85.5
+Loreena McKennitt;85.5
+Yellowman;85.5
+KsiÄ™Å¼yc;85.5
+Rachel Stevens;85.5
+Caravan;85.5
+Clifford Brown & Max Roach;85.5
+Sandwell District;85.5
+The United States of America;85.5
+The Gun Club;85.5
+Lloyd Cole;85.5
+Inner City;85.5
+The Boo Radleys;85.5
+Lydia Lunch;85.5
+John Lee Hooker;85.5
+Big Black;85.5
+The Smiths;85.4
+Manuel GÃ¶ttsching;85.25
+AnaÃ¯s Mitchell;85.25
+Bob Dylan & The Band;85.25
+Ichiko Aoba;85.25
+Fields of the Nephilim;85.25
+Celtic Frost;85.125
+Steve Reich / Kronos Quartet / Pat Metheny;85.0
+Chris Rea;85.0
+Capone-n-Noreaga;85.0
+Robin Trower;85.0
+Chavez;85.0
+Casualties of Cool;85.0
+Robert Hood;85.0
+Marty Robbins;85.0
+Sun Ra & His Arkestra;85.0
+Cabaret Voltaire;85.0
+Klaus Schulze;85.0
+Michel Polnareff;85.0
+Joanna Newsom;85.0
+Kenny Burrell & John Coltrane;85.0
+Return To Forever;85.0
+Nordic Giants;85.0
+Tammy Wynette;85.0
+Lee Ann Womack;85.0
+The Mamas & The Papas;85.0
+Blue Cheer;85.0
+Sister Sledge;85.0
+Bark Psychosis;85.0
+John Wiese;85.0
+Binary Star;85.0
+Conjurer;85.0
+La DÃ¼sseldorf;85.0
+Adolescents;85.0
+Paddy McAloon;85.0
+Ahnnu;85.0
+Organized Konfusion;85.0
+Run the Jewels;84.875
+Emperor;84.875
+Gentle Giant;84.83333333333333
+Kendrick Lamar;84.8
+Renaissance;84.75
+Stara Rzeka;84.75
+MF Doom;84.75
+Jimmy Cliff;84.75
+Frank Ocean;84.66666666666667
+Nirvana;84.625
+Fiona Apple;84.6
+Billy Cobham;84.5
+Amon DÃ¼Ã¼l II;84.5
+Un Blonde;84.5
+Alkaloid;84.5
+Slugdge;84.5
+John Foxx;84.5
+Jeru The Damaja;84.5
+Blood, Sweat & Tears;84.5
+Ohio Players;84.5
+Fen;84.5
+MC5;84.5
+Small Faces;84.5
+Tony! Toni! TonÃ©!;84.5
+The Mission;84.5
+Kool & The Gang;84.5
+808 State;84.5
+Agent Orange;84.5
+Walt Mink;84.5
+Enablers;84.5
+Howlin' Wolf;84.5
+Tiamat;84.5
+Rain Parade;84.5
+Kids See Ghosts;84.5
+Sidney Gish;84.5
+Jacques Dutronc;84.5
+The Dictators;84.5
+The dB's;84.5
+Strawbs;84.5
+Delphine Dora;84.5
+Fair To Midland;84.5
+Cheap Trick;84.375
+X;84.375
+Soft Machine;84.375
+Television;84.33333333333333
+This Heat;84.33333333333333
+The Yardbirds;84.25
+Magazine;84.25
+Bill Evans Trio;84.25
+Gastr Del Sol;84.25
+Digable Planets;84.25
+The Pogues;84.25
+This Mortal Coil;84.16666666666667
+OutKast;84.16666666666667
+Joy Division;84.16666666666667
+Astrobrite;84.0
+Altar of Plagues;84.0
+Julee Cruise;84.0
+Asian Dub Foundation;84.0
+Infernal Coil;84.0
+Edgar Froese;84.0
+Blood Incantation;84.0
+Alphaville;84.0
+Acid Mothers Temple & the Melting Paraiso U.F.O.;84.0
+Orbs;84.0
+Serge Gainsbourg & Jane Birkin;84.0
+DrÃ¸ne;84.0
+Little Feat;84.0
+Organ Tapes;84.0
+Carly Simon;84.0
+Nico;84.0
+Marijuana Deathsquads;84.0
+Rollins Band;84.0
+Radio Birdman;84.0
+Jan Jelinek;84.0
+Black Tape For A Blue Girl;84.0
+Roy Orbison;84.0
+El-P;84.0
+Brainticket;84.0
+Big Scary;84.0
+The Fixx;84.0
+Dennis Wilson;84.0
+Trophy Scars;84.0
+Roni Size & Reprazent;84.0
+Labelle;84.0
+Protoje;84.0
+The Chameleons;84.0
+Teddy Pendergrass;84.0
+Pauline Oliveros / Stuart Dempster / Panaiotis;84.0
+Ali Farka TourÃ©;84.0
+Destruction;84.0
+SAULT;83.83333333333333
+The Undertones;83.83333333333333
+Simon & Garfunkel;83.8
+Herbie Hancock;83.77272727272727
+Sugar;83.75
+FKA twigs;83.75
+Death;83.625
+Autopsy;83.5
+Trouble;83.5
+Kim Carnes;83.5
+The Crazy World of Arthur Brown;83.5
+The Shamen;83.5
+Wipers;83.5
+Booker T. & The M.G.'s;83.5
+Frank Sinatra & AntÃ´nio Carlos Jobim;83.5
+Lingua Ignota;83.5
+Flamin' Groovies;83.5
+Crypt Sermon;83.5
+DJ Spooky;83.5
+Marconi Union;83.5
+Joshua Hedley;83.5
+The Avalanches;83.5
+Flipper;83.5
+Bo Diddley;83.5
+Patrice Rushen;83.5
+Bob Seger & The Silver Bullet Band;83.5
+Federico Albanese;83.5
+The Unicorns;83.5
+×ž×–×ž×•×¨;83.5
+Babes in Toyland;83.5
+Elliott Smith;83.5
+Stereo MC's;83.5
+Mary Margaret O'Hara;83.5
+Grant Lee Buffalo;83.5
+John Fullbright;83.5
+Mournful Congregation;83.5
+Ali Farka Toure & Toumani Diabate;83.5
+Throbbing Gristle;83.5
+Kaleida;83.5
+Eberhard Weber;83.5
+Thantifaxath;83.5
+Neurosis & Jarboe;83.5
+Pete Rock & CL Smooth;83.5
+Voices From the Lake;83.5
+Giles Corey;83.5
+Beth Gibbons & Rustin Man;83.5
+Kauan;83.5
+Mbongwana Star;83.5
+Sibylle Baier;83.5
+The Incredible String Band;83.5
+Mediafired;83.5
+Polygon Window;83.5
+Fela Kuti & Africa 70;83.44444444444444
+Isaac Hayes;83.33333333333333
+Susanne SundfÃ¸r;83.33333333333333
+LCD Soundsystem;83.3
+Converge;83.27777777777777
+Rina Sawayama;83.25
+The Comsat Angels;83.25
+John Roberts;83.25
+Janis Joplin;83.25
+John Prine;83.25
+Harmonia;83.25
+Rick James;83.25
+Freddie Gibbs & Madlib;83.25
+Brian Eno & Harold Budd;83.25
+The Olivia Tremor Control;83.25
+Gilberto Gil;83.25
+William Elliott Whitmore;83.16666666666667
+Chet Baker;83.16666666666667
+Accept;83.16666666666667
+Brian Eno & John Cale;83.0
+Men I Trust;83.0
+Non-Prophets;83.0
+Margo Guryan;83.0
+Uada;83.0
+Woods of Ypres;83.0
+The Wake;83.0
+Germs;83.0
+Horace Andy;83.0
+The Runaways;83.0
+St. Lenox;83.0
+Melechesh;83.0
+Dissection;83.0
+Brotha Lynch Hung;83.0
+Helium;83.0
+Miguel ZenÃ³n;83.0
+Ned's Atomic Dustbin;83.0
+Mae;83.0
+Noname;83.0
+Jamie xx;83.0
+Tim Hardin;83.0
+Morbus Chron;83.0
+Yukihiro Takahashi;83.0
+The O'Jays;83.0
+Chris Isaak;83.0
+Game Theory;83.0
+Gang of Youths;83.0
+Death In June;83.0
+Prince & The Revolution;83.0
+Whodini;83.0
+John Howard & The Night Mail;83.0
+Parliament;83.0
+Cluster & Eno;83.0
+Afrika Bambaataa & The Soul Sonic Force;83.0
+CÃ©cile McLorin Salvant;83.0
+The Band;83.0
+Satan;83.0
+The Beat;83.0
+The Stylistics;83.0
+A.R. Kane;83.0
+Red Red Meat;83.0
+Kojey Radical;83.0
+Spacemen 3;82.875
+The Isley Brothers;82.875
+Toots & The Maytals;82.83333333333333
+Chico Buarque;82.75
+The Raincoats;82.75
+Merle Haggard;82.75
+The Soft Boys;82.75
+Souls of Mischief;82.75
+Billie Holiday;82.75
+Sam Rivers;82.75
+The Gloaming;82.75
+Swell Maps;82.75
+Janelle MonÃ¡e;82.75
+Fishbone;82.75
+Phoebe Bridgers;82.75
+Dead Moon;82.75
+Fleet Foxes;82.7
+Deafheaven;82.66666666666667
+Luomo;82.625
+John Fahey;82.625
+Godspeed You! Black Emperor;82.57142857142857
+Deepchord;82.5
+Viper The Rapper;82.5
+Hem;82.5
+John Talabot;82.5
+Segue;82.5
+Freddie Gibbs & The Alchemist;82.5
+Joan Armatrading;82.5
+Cracker;82.5
+Ol' Dirty Bastard;82.5
+The Zombies;82.5
+Thank You Scientist;82.5
+Purple Mountains;82.5
+Ralph Alessi;82.5
+Kool G Rap & DJ Polo;82.5
+Regarde Les Hommes Tomber;82.5
+END;82.5
+Nazareth;82.5
+Jamey Johnson;82.5
+Nocturnus;82.5
+NaÃ°ra;82.5
+He Is Legend;82.5
+Francis Harris;82.5
+Joe Cocker;82.5
+Dawnbringer;82.5
+Save Ferris;82.5
+Rivers of Nihil;82.5
+Kokoroko;82.5
+Employed to Serve;82.5
+Marine Girls;82.5
+Peter, Paul And Mary;82.5
+Vomitface;82.5
+Rapeman;82.5
+Agitation Free;82.5
+Camp Lo;82.5
+Midori;82.5
+Fiddlehead;82.5
+Dr. John;82.5
+emamouse / NicolÃ²;82.5
+Vic Chesnutt;82.41666666666667
+St. Vincent;82.4
+Randy Newman;82.375
+Steve Reich;82.375
+Idles;82.33333333333333
+Bedhead;82.33333333333333
+A Tribe Called Quest;82.33333333333333
+Gal Costa;82.3
+Led Zeppelin;82.27777777777777
+Obsequiae;82.25
+Yellow Eyes;82.25
+Porter Ricks;82.25
+Black Foxxes;82.25
+Duke Ellington;82.2
+Wardruna;82.16666666666667
+Biosphere;82.16666666666667
+Ne Obliviscaris;82.16666666666667
+Ray Charles;82.125
+Laurie Spiegel;82.0
+Angel Witch;82.0
+Thomas Azier;82.0
+Black Crown Initiate;82.0
+The Exploding Hearts;82.0
+Oxbow;82.0
+The Dali Thundering Concept;82.0
+The Republic of Wolves;82.0
+Graham Lambkin / Jason Lescalleet;82.0
+Temple Of The Dog;82.0
+Makaya McCraven;82.0
+The Postal Service;82.0
+Christopher Cross;82.0
+Terry Allen;82.0
+MÃ©lanie De Biasio;82.0
+Elizabeth Colour Wheel;82.0
+Trixie Whitley;82.0
+Vansire;82.0
+Vijay Iyer Sextet;82.0
+NONE;82.0
+Philip Glass;82.0
+ESG;82.0
+The Creatures;82.0
+Girls' Generation-TTS;82.0
+Karine Polwart & Pippa Murphy;82.0
+The Haxan Cloak;82.0
+Die Wilde Jagd;82.0
+Sports;82.0
+Minor Pieces;82.0
+Riki;82.0
+Comus;82.0
+Taemin;82.0
+Julia Kent;82.0
+Taj Mahal Travellers;82.0
+Spectral Voice;82.0
+Aphrodite's Child;82.0
+Lootpack;82.0
+Toumani DiabatÃ© & Sidiki DiabatÃ©;82.0
+Slint;82.0
+The Twilight Singers;82.0
+Suicide;82.0
+Halo Maud;82.0
+Angra;82.0
+The Halo Benders;82.0
+Rita Lee & Tutti Frutti;82.0
+Labradford;82.0
+Fred Neil;82.0
+Steely Dan;82.0
+Olivia Newton-John;82.0
+Mercyful Fate;82.0
+Pg. 99;82.0
+Gerry Rafferty;82.0
+Mano Negra;82.0
+William Bell;82.0
+Obliteration;82.0
+The Art Ensemble of Chicago;82.0
+Karen Dalton;82.0
+Milt Jackson;82.0
+DJ Muggs vs GZA;82.0
+Miles Davis Quartet;82.0
+Don Caballero;81.875
+Talk Talk;81.875
+Deathspell Omega;81.875
+Codeine;81.83333333333333
+Faces;81.83333333333333
+The Replacements;81.8125
+Bon Iver;81.8
+Isis;81.8
+Wake;81.75
+Glenn Branca;81.75
+Adrian Younge;81.75
+Molotov;81.75
+Agalloch;81.75
+The Specials;81.75
+Gustavo Cerati;81.75
+Perfume Genius;81.7
+Budgie;81.66666666666667
+that dog.;81.66666666666667
+Gregory Alan Isakov;81.66666666666667
+Buffy Sainte-Marie;81.66666666666667
+Vashti Bunyan;81.66666666666667
+War;81.66666666666667
+Colin Blunstone;81.5
+Twisted Sister;81.5
+Liquid Liquid;81.5
+Julien Baker;81.5
+Fats Domino;81.5
+Subtle;81.5
+June of 44;81.5
+Hermit and the Recluse;81.5
+Stars of the Lid;81.5
+Diamond Head;81.5
+Jets To Brazil;81.5
+Karate;81.5
+The Associates;81.5
+King Geedorah;81.5
+Barry White;81.5
+David Thomas Broughton;81.5
+Visage;81.5
+Blessed;81.5
+The Sunshine Fix;81.5
+Lords Of The Underground;81.5
+Jinjer;81.5
+Dr. Dre;81.5
+Bonnie 'Prince' Billy & Matt Sweeney;81.5
+Natalia Lafourcade;81.5
+Lin-Manuel Miranda;81.5
+Wailin' Storms;81.5
+Link Wray;81.5
+The Impressions;81.5
+Fever Ray;81.5
+nthng;81.5
+Meitei;81.5
+Os Paralamas Do Sucesso;81.5
+Neu!;81.5
+Sian Alice Group;81.5
+Beat Happening;81.5
+Housewives;81.5
+Carlos Santana & John McLaughlin;81.5
+Concrete Blonde;81.5
+Allison Miller's Boom Tic Boom;81.5
+Apathy & O.C.;81.5
+Happy Mondays;81.5
+Nico Niquo;81.5
+Vaadat Charigim;81.5
+Ancestors;81.5
+Backxwash;81.5
+Western Skies Motel;81.5
+Ellen Allien & Apparat;81.5
+Orchid;81.5
+Eric's Trip;81.5
+Martin Rossiter;81.5
+Ground-Zero;81.5
+Lack The Low;81.5
+Of Feather And Bone;81.5
+'68;81.5
+REO Speedwagon;81.5
+black midi;81.5
+Mother Love Bone;81.5
+Chuck Person;81.5
+Chandra;81.5
+Hieroglyphic Being & J.I.T.U. Ahn-Sahm-Buhl;81.5
+Television Personalities;81.5
+Tiny Hazard;81.5
+Roy Harper;81.5
+MÃ¸l;81.5
+Infinite Body;81.5
+ROSALÃA;81.5
+Dead Prez;81.5
+RM Hubbert;81.5
+Booka Shade;81.5
+dnÃ©;81.5
+Those Who Walk Away;81.5
+Faust;81.4
+CunninLynguists;81.33333333333333
+Entombed;81.33333333333333
+Septicflesh;81.33333333333333
+Tom Waits;81.33333333333333
+Art Blakey & The Jazz Messengers;81.25
+Fontaines D.C.;81.25
+Barker;81.25
+Loop;81.25
+Al Green;81.22222222222223
+Vektor;81.16666666666667
+Los Lobos;81.16666666666667
+Cat Stevens;81.125
+Laurie Anderson;81.1
+Caetano Veloso;81.0909090909091
+KC And The Sunshine Band;81.0
+India Arie;81.0
+Demob Happy;81.0
+Seefeel;81.0
+Rowland S. Howard;81.0
+VOLA;81.0
+Constantines;81.0
+Leeched;81.0
+Departure Chandelier;81.0
+Tripwires;81.0
+Chris Bell;81.0
+Blind Faith;81.0
+Danny Brown;81.0
+Cloud Rat;81.0
+Ist Ist;81.0
+Ultramagnetic MCs;81.0
+Skyzoo & Pete Rock;81.0
+Catherine Ribeiro + Alpes;81.0
+Japan;81.0
+VENN;81.0
+40 Watt Sun;81.0
+Billy Squier;81.0
+Plug;81.0
+James McMurtry;81.0
+Toxic Holocaust;81.0
+Spawn of Possession;81.0
+DJ Healer;81.0
+India Jordan;81.0
+Blackout Beach;81.0
+Brothers of the Sonic Cloth;81.0
+Planning For Burial;81.0
+Seizures;81.0
+Chapterhouse;81.0
+J-Live;81.0
+Blood Command;81.0
+Midori Takada;81.0
+Shygirl;81.0
+Richmond Fontaine;81.0
+Novos Baianos;81.0
+The Devin Townsend Band;81.0
+The Beau Brummels;81.0
+Girls;81.0
+Saint Abdullah;81.0
+Gretchen Peters;81.0
+The Accidental;81.0
+The Callous Daoboys;81.0
+SÃ³lstafir;81.0
+Frisk Frugt;81.0
+The Chariot;81.0
+Hood;81.0
+Harry Nilsson;81.0
+Ashley Paul;81.0
+Los Fabulosos Cadillacs;81.0
+SOPHIE;81.0
+Kevin Devine;81.0
+A Winged Victory for the Sullen;81.0
+Matthew Shipp;81.0
+The Flashbulb;81.0
+Los Planetas;81.0
+Mal Devisa;81.0
+Lanark Artefax;81.0
+FEAR;81.0
+Ekin Fil;81.0
+Lucio Battisti;81.0
+Real Life;81.0
+ä¸å¤±è€… [Fushitsusha];81.0
+Xinlisupreme;81.0
+B.B. King;81.0
+Marillion;81.0
+Gardland;81.0
+White Noise;81.0
+Old Time Relijun;81.0
+Spring Heel Jack;81.0
+A Tribe Called Red;81.0
+TW Walsh;81.0
+LYLO;81.0
+PJ Harvey;80.94444444444444
+Ulcerate;80.9
+The Chicks;80.9
+Pharoah Sanders;80.9
+Sunny Day Real Estate;80.875
+Rage Against The Machine;80.875
+Herbert;80.875
+Mitski;80.83333333333333
+Elvis Costello & The Attractions;80.8
+Kris Kristofferson;80.75
+Father John Misty;80.75
+Boz Scaggs;80.75
+Kevin Ayers;80.75
+James Gang;80.75
+Milk & Bone;80.75
+Lankum;80.75
+Skid Row;80.75
+Broadcast;80.75
+Beulah;80.75
+Phonte;80.75
+Billy Bragg;80.75
+Biz Markie;80.75
+Minutemen;80.7
+Julia Holter;80.66666666666667
+Solomon Burke;80.66666666666667
+JPEGMAFIA;80.66666666666667
+Jackson 5;80.66666666666667
+The Mothers of Invention;80.65
+Burial;80.64285714285714
+Sparklehorse;80.625
+Nick Cave & The Bad Seeds;80.61764705882354
+Godflesh;80.6
+Fugazi;80.58333333333333
+Pinch & Shackleton;80.5
+Everything But the Girl;80.5
+The Other People Place;80.5
+Miles Davis Quintet;80.5
+James Brown;80.5
+Lowrider;80.5
+Sera Cahoone;80.5
+Love As Laughter;80.5
+Alex The Astronaut;80.5
+The Murder Capital;80.5
+Jonathan Richman;80.5
+Neko Case;80.5
+Nancy Sinatra & Lee Hazlewood;80.5
+Mat Zo;80.5
+Ty Segall Band;80.5
+The Blue Nile;80.5
+Avalon Emerson;80.5
+Nems;80.5
+Magrudergrind;80.5
+David Lang;80.5
+Van Der Graaf Generator;80.5
+Michael O'Shea;80.5
+Ana Tijoux;80.5
+Birds In Row;80.5
+Black Peaks;80.5
+Venetian Snares;80.5
+The Atlas Moth;80.5
+The Waitresses;80.5
+Thelma;80.5
+Joshua Redman;80.5
+Mott The Hoople;80.5
+Iron Monkey;80.5
+Inverloch;80.5
+Viktor Vaughn;80.5
+Lemon Demon;80.5
+Casper Skulls;80.5
+Number Girl;80.5
+Craig Taborn;80.5
+Ms. John Soda;80.5
+RuPaul;80.5
+Kazumoto Endo;80.5
+Juana Molina;80.5
+The Aislers Set;80.5
+Pato Fu;80.5
+Palace Music;80.5
+Fire!;80.5
+boygenius;80.5
+Camp Cope / Cayetana;80.5
+Allan Rayman;80.5
+Tubeway Army;80.5
+Robert Cray & Hi Rhythm;80.5
+Add N To (X);80.5
+Wyatt, Atzmon, Stephen;80.5
+Cardiacs;80.5
+Don Bryant;80.5
+Cobalt;80.5
+The Triffids;80.5
+Bassekou Kouyate & Ngoni Ba;80.5
+Caligula's Horse;80.5
+David Ackles;80.5
+Boyz II Men;80.5
+Bill Evans;80.5
+Change;80.5
+Jenny Hval & Susanna;80.5
+Simon Fisher Turner;80.5
+The Sonics;80.5
+Dave Rawlings Machine;80.5
+Daddy Yankee;80.5
+Joe Strummer & The Mescaleros;80.5
+Little Comets;80.5
+Javiera Mena;80.5
+Colleen;80.5
+Yellow Swans;80.5
+JBM;80.5
+Brainiac;80.5
+John Coltrane;80.47058823529412
+Vampire Weekend;80.375
+Gong;80.375
+Laura Marling;80.35714285714286
+Megafaun;80.33333333333333
+Country Joe & The Fish;80.33333333333333
+Gazelle Twin;80.33333333333333
+Kate Bush;80.3
+Songs: Ohia;80.28571428571429
+Patty Griffin;80.28571428571429
+Sleater-Kinney;80.27777777777777
+Courtney Barnett;80.25
+Amy Winehouse;80.25
+The Future Sound Of London;80.25
+Vijay Iyer Trio;80.25
+Gorky's Zygotic Mynci;80.25
+Ihsahn;80.25
+Matana Roberts;80.25
+Townes Van Zandt;80.25
+Roxy Music;80.25
+Tame Impala;80.25
+TV on the Radio;80.25
+Caribou;80.21428571428571
+Christine and the Queens;80.16666666666667
+Mission of Burma;80.16666666666667
+Hum;80.16666666666667
+Carole King;80.16666666666667
+Emmylou Harris;80.14285714285714
+Boards of Canada;80.125
+Talking Heads;80.125
+Nick Lowe;80.125
+System of a Down;80.1
+The Alan Parsons Project;80.08333333333333
+Pavement;80.08333333333333
+Too Close To Touch;80.0
+Rose City Band;80.0
+Haken;80.0
+Pedro The Lion;80.0
+Duster;80.0
+10,000 Maniacs;80.0
+Bert Jansch;80.0
+Lorde;80.0
+House of Dad;80.0
+Dexys;80.0
+Jason Lescalleet;80.0
+DJ /rupture;80.0
+Aim;80.0
+Roly Porter;80.0
+Logos;80.0
+Yuri Gagarin;80.0
+Agrimonia;80.0
+Life Without Buildings;80.0
+Big Daddy Kane;80.0
+William Doyle;80.0
+Los Hermanos;80.0
+Late of The Pier;80.0
+The Pretty Things;80.0
+Juan Atkins & Moritz Von Oswald;80.0
+Caroline Polachek;80.0
+Caroline Spence;80.0
+Freddie Nelson;80.0
+Rokia TraorÃ©;80.0
+Donny Hathaway;80.0
+Korpiklaani;80.0
+Adam Torres;80.0
+Jacob Collier;80.0
+Knapsack;80.0
+Beheaded;80.0
+Mulatu Astatke & The Heliocentrics;80.0
+Freddie Mercury;80.0
+Pan Sonic;80.0
+Perera Elsewhere;80.0
+Jim Ford;80.0
+The Temptations;80.0
+Alfie Templeman;80.0
+23 Skidoo;80.0
+HamferÃ°;80.0
+Squid;80.0
+I Monster;80.0
+Spectrum;80.0
+Art Department;80.0
+Otoboke Beaver;80.0
+Curren$y & The Alchemist;80.0
+Monster Magnet;80.0
+She Drew The Gun;80.0
+Carolina Chocolate Drops;80.0
+Smif-n-Wessun;80.0
+Jeremy Dutcher;80.0
+Nude Beach;80.0
+Maria Minerva;80.0
+Mariah;80.0
+Heatmiser;80.0
+G.L.O.S.S.;80.0
+Techno Animal;80.0
+Jel;80.0
+Nails;80.0
+Andavald;80.0
+Elzhi;80.0
+Cherushii & Maria Minerva;80.0
+Triptykon;80.0
+VanJess;80.0
+Richard Dawson;80.0
+Dead Man Winter;80.0
+Gabriel Bruce;80.0
+Stratovarius;80.0
+The Auteurs;80.0
+The Perceptionists;80.0
+Das EFX;80.0
+Serena-Maneesh;80.0
+Woods of Desolation;80.0
+Radiator Hospital;80.0
+Leviathan;80.0
+Various Artists;80.0
+Michael Price;80.0
+The Delgados;80.0
+Burning Airlines;80.0
+Kid606;80.0
+MgÅ‚a;80.0
+Swayzak;80.0
+Vijay Iyer;80.0
+Summer Hymns;80.0
+Simon Bookish;80.0
+Big Thief;80.0
+The Communards;80.0
+MC Lyte;80.0
+Wildhart;80.0
+J Majik;80.0
+We Are Only Human Once;80.0
+Imperial Triumphant;80.0
+Au.Ra;80.0
+Uboa;80.0
+King Creosote & Jon Hopkins;80.0
+Robert Plant and Alison Krauss;80.0
+Chuck Berry;80.0
+Headie One & Fred Again...;80.0
+Cormorant;80.0
+The Dukes Of Stratosphear;80.0
+BÃ¶lzer;80.0
+Kenny Rogers;80.0
+Motorpsycho;79.9
+CÃ©u;79.9
+Jim O'Rourke;79.875
+Feist;79.875
+Horrendous;79.83333333333333
+Fit For An Autopsy;79.83333333333333
+Skinny Puppy;79.83333333333333
+Aldous Harding;79.83333333333333
+Streetlight Manifesto;79.83333333333333
+Kacey Musgraves;79.83333333333333
+Brandy Clark;79.83333333333333
+Fuck Buttons;79.83333333333333
+Behemoth;79.8125
+Four Tops;79.75
+Shad;79.75
+Shackleton;79.75
+The White Stripes;79.75
+Jane Weaver;79.75
+TitÃ£s;79.75
+Weyes Blood;79.75
+Sade;79.75
+Jamila Woods;79.75
+Valerie June;79.75
+Amon Tobin;79.75
+Kelela;79.75
+Chthe'ilist;79.75
+Maritime;79.75
+Lagwagon;79.75
+Jellyfish;79.75
+Opeth;79.73076923076923
+Dead Can Dance;79.72222222222223
+Menomena;79.7
+Frank Sinatra;79.7
+CafÃ© Tacvba;79.6875
+Peter Tosh;79.66666666666667
+Judee Sill;79.66666666666667
+Yves Tumor;79.66666666666667
+Watain;79.66666666666667
+Benny The Butcher;79.66666666666667
+Rapsody;79.66666666666667
+Super Furry Animals;79.66666666666667
+Fripp & Eno;79.66666666666667
+Creedence Clearwater Revival;79.64285714285714
+The Dillinger Escape Plan;79.64285714285714
+Tim Hecker;79.63636363636364
+Leonard Cohen;79.6
+The Drones;79.6
+Future of the Left;79.58333333333333
+Boredoms;79.58333333333333
+These Hidden Hands;79.5
+Thin White Rope;79.5
+Les Discrets;79.5
+Yussef Kamaal;79.5
+Cathedral;79.5
+Tommy Cash;79.5
+Madeleine Peyroux;79.5
+The American Analog Set;79.5
+Tom ZÃ©;79.5
+Ambrose Akinmusire;79.5
+Cerebral Rot;79.5
+Rashad Becker;79.5
+Gov't Mule;79.5
+Made Out of Babies;79.5
+Bronski Beat;79.5
+Sunset Rubdown;79.5
+Jay Reatard;79.5
+Polyphia;79.5
+Moritz Von Oswald Trio;79.5
+Les Big Byrd;79.5
+Lungbutter;79.5
+Time Machines;79.5
+The Angelic Process;79.5
+Offa Rex;79.5
+Kurt Vile & Steve Gunn;79.5
+Malachai;79.5
+ZoÃ©;79.5
+Shame;79.5
+Brown Eyed Girls;79.5
+LÃ‰ON;79.5
+Bwana;79.5
+Ana Frango ElÃ©trico;79.5
+The Breathing Effect;79.5
+Resavoir;79.5
+Black Thought & Salaam Remi;79.5
+Darkside;79.5
+Warren Zevon;79.5
+Isao Tomita;79.5
+EsbjÃ¶rn Svensson Trio;79.5
+Dick Dale and His Del-Tones;79.5
+The Go-Betweens;79.5
+Augie March;79.5
+The Henry Clay People;79.5
+Justin Walter;79.5
+The Contortionist;79.5
+Sarah Shook & The Disarmers;79.5
+Ivar BjÃ¸rnson & Einar Selvik;79.5
+Ossia;79.5
+Hash Jar Tempo;79.5
+Prime Minister of Doom;79.5
+The Stone Roses;79.5
+Nostrum Grocers;79.5
+JOHN;79.5
+Julieta Venegas;79.5
+Operation Ivy;79.5
+Fatima;79.5
+Ernest Hood;79.5
+Sargeist;79.5
+Mario Batkovic;79.5
+The Dead C;79.5
+Illogic;79.5
+The Mighty Mighty Bosstones;79.5
+lovesliescrushing;79.5
+EMC;79.5
+Logan Ledger;79.5
+Stephen Stills;79.5
+Deathprod;79.5
+New Order;79.5
+Billy Woods & Kenny Segal;79.5
+Masta Ace & Marco Polo;79.5
+Robert Wyatt;79.5
+Somi;79.5
+BIGBANG;79.5
+David Byrne & Brian Eno;79.5
+Endon;79.5
+Her Space Holiday;79.5
+Azeda Booth;79.5
+KA;79.5
+Leftfield;79.5
+Mary Gauthier;79.5
+The Beautiful South;79.5
+Laraaji;79.5
+Earthless;79.5
+Boom Bip;79.5
+Alice Smith;79.5
+Coroner;79.5
+Cory Branan;79.5
+Yu Su;79.5
+Dispatch;79.5
+Lone Wolf;79.5
+Maria Rita;79.5
+Don McLean;79.5
+The Jam;79.5
+Do Make Say Think;79.5
+The Blood Brothers;79.5
+Boris with Michio Kurihara;79.5
+Ry Cooder;79.5
+Bop English;79.5
+The Jim Jones Revue;79.5
+Modern Life Is War;79.5
+Witchfinder General;79.5
+Floating Points;79.5
+James Holden;79.5
+Suga Free;79.5
+Elvis Presley;79.45
+HÃ¼sker DÃ¼;79.42857142857143
+Arcade Fire;79.41666666666667
+Vince Staples;79.4
+Big Star;79.375
+Mark Eitzel;79.375
+k.d. lang;79.375
+YOB;79.375
+The xx;79.33333333333333
+Arthur Russell;79.33333333333333
+Full of Hell;79.33333333333333
+My Dying Bride;79.31818181818181
+Fairport Convention;79.3
+The The;79.3
+Gas;79.28571428571429
+Despised Icon;79.25
+Robag Wruhme;79.25
+Coldworld;79.25
+Todd Terje;79.25
+12 Rods;79.25
+Sun City Girls;79.25
+The Duckworth Lewis Method;79.25
+Decapitated;79.25
+Miya Folick;79.25
+Toby Driver;79.25
+Linda Ronstadt;79.25
+AFX;79.25
+Matthew E. White;79.25
+Fatoumata Diawara;79.25
+Windir;79.25
+Grouper;79.25
+Loma Prieta;79.25
+Porridge Radio;79.25
+The Books;79.25
+Pharoahe Monch;79.25
+IU;79.25
+The Hotelier;79.25
+Discordance Axis;79.25
+Three Trapped Tigers;79.25
+JD McPherson;79.25
+Bell Witch;79.25
+Grinderman;79.25
+Mansun;79.25
+John Cale;79.22727272727273
+Brother Ali;79.21428571428571
+Corrosion of Conformity;79.2
+Howe Gelb;79.16666666666667
+Wolf Alice;79.16666666666667
+Jenny Hval;79.16666666666667
+My Bloody Valentine;79.16666666666667
+Cult of Luna;79.16666666666667
+Allen Toussaint;79.16666666666667
+LegiÃ£o Urbana;79.16666666666667
+Chic;79.16666666666667
+The Doobie Brothers;79.16666666666667
+Anthony Hamilton;79.16666666666667
+Carter Tutti Void;79.16666666666667
+Paul McCartney & Wings;79.16666666666667
+Red House Painters;79.14285714285714
+Queens of the Stone Age;79.14285714285714
+Keaton Henson;79.125
+Eric B. & Rakim;79.125
+Yo La Tengo;79.10714285714286
+Dwight Yoakam;79.1
+Baroness;79.1
+Erykah Badu;79.1
+Thee Silver Mt. Zion Memorial Orchestra;79.07142857142857
+Carla Bruni;79.0
+Spanish Love Songs;79.0
+The Last Dinosaur;79.0
+The Jesus Lizard;79.0
+The Luxembourg Signal;79.0
+Jim Guthrie;79.0
+The Majesticons;79.0
+Gil Scott-Heron and Jamie xx;79.0
+Honey Harper;79.0
+Hookworms;79.0
+Denzel Curry & Kenny Beats;79.0
+Adem;79.0
+Djo;79.0
+Dia Frampton;79.0
+DestrÃ¶yer 666;79.0
+Caterina Barbieri;79.0
+Sleep;79.0
+East River Pipe;79.0
+Prefab Sprout;79.0
+Cindy Lee;79.0
+Malcolm McLaren;79.0
+The Soft Pink Truth;79.0
+Against All Logic;79.0
+Ravi Shankar & Philip Glass;79.0
+Mannequin Pussy;79.0
+Culture Abuse;79.0
+Cult Leader;79.0
+Lil Ugly Mane;79.0
+Field Medic;79.0
+The Sleepy Jackson;79.0
+Slauson Malone;79.0
+Right Away, Great Captain!;79.0
+Yvette Young;79.0
+Frankie Goes To Hollywood;79.0
+Roky Erickson with Okkervil River;79.0
+Hamilton Leithauser + Rostam;79.0
+Five Deez;79.0
+Convextion;79.0
+Comets On Fire;79.0
+Exodus;79.0
+Danger Mouse & Jemini;79.0
+Stella Donnelly;79.0
+Hiatus Kaiyote;79.0
+The Feelies;79.0
+Tom Tom Club;79.0
+Lou Reed & John Cale;79.0
+Default Genders;79.0
+Paavoharju;79.0
+DeepChord Presents: Echospace;79.0
+MAVI;79.0
+Rebel Wizard;79.0
+Gaye Su Akyol;79.0
+Deakin;79.0
+Mike Patton & Jean-Claude Vannier;79.0
+Michael Kiwanuka;79.0
+The Physics House Band;79.0
+Her Name Is Calla;79.0
+Jean Grae & Quelle Chris;79.0
+Aesop Rock & Homeboy Sandman;79.0
+Gridlink;79.0
+Dark Time Sunshine;79.0
+The D.O.C.;79.0
+The Cradle;79.0
+Midori Takada & Lafawndah;79.0
+The For Carnation;79.0
+BROCKHAMPTON;79.0
+Bedouine;79.0
+Phil Cook;79.0
+Youandewan;79.0
+Walter Gibbons;79.0
+Belong;79.0
+Belzebubs;79.0
+Objekt;79.0
+SW.;79.0
+Boduf Songs;79.0
+Karol ConkÃ¡;79.0
+John Cale & Terry Riley;79.0
+Beth Gibbons & the Polish National Radio Symphony Orchestra;79.0
+Seiko Oomori;79.0
+Ngaiire;79.0
+Traveling Wilburys;79.0
+Kara-Lis Coverdale;79.0
+New Optimism;79.0
+Nevermore;79.0
+YYU;79.0
+Leighton Meester;79.0
+Amorphis;79.0
+Sabrina Carpenter;79.0
+Bongripper;79.0
+Kathryn Joseph;79.0
+Show Me The Body;79.0
+Working Men's Club;79.0
+Killing Joke;79.0
+Brittany Howard;79.0
+Saturday Looks Good To Me;79.0
+Savages;79.0
+Babe Ruth;79.0
+SarcÃ³fago;79.0
+Pig Destroyer;79.0
+Kero Kero Bonito;79.0
+Ninos Du Brasil;79.0
+Wear Your Wounds;79.0
+Trophy Eyes;79.0
+Nina Nastasia;79.0
+Atheist;79.0
+NilÃ¼fer Yanya;79.0
+SEED Ensemble;79.0
+Lera Lynn;79.0
+Bas Jan;79.0
+KeiyaA;79.0
+Kno;79.0
+Sampha;79.0
+NÃ¼ Sensae;79.0
+Vile Creature;79.0
+Shabaka and the Ancestors;79.0
+Vastum;79.0
+Saint Saviour;79.0
+Vanessa Da Mata;79.0
+Allegaeon;79.0
+Black Dog Productions;79.0
+Calvin Love;79.0
+Spoon;78.94444444444444
+Maxwell;78.9
+Cave In;78.875
+Jeff Rosenstock;78.875
+Sweet Trip;78.83333333333333
+The House of Love;78.83333333333333
+Hop Along;78.83333333333333
+Sufjan Stevens;78.83333333333333
+Funkadelic;78.77272727272727
+PVRIS;78.75
+Circuit Des Yeux;78.75
+Archers of Loaf;78.75
+Pestilence;78.75
+Phony Ppl;78.75
+Carcass;78.75
+Tove Styrke;78.75
+Immolation;78.75
+SHINee;78.75
+Traxman;78.75
+Julia Jacklin;78.75
+Ashley McBryde;78.75
+Eddy Current Suppression Ring;78.75
+BjÃ¶rk;78.75
+Quasimoto;78.75
+Kassem Mosse;78.75
+Jean-Michel Blais;78.75
+Kraftwerk;78.7
+Joan Baez;78.7
+Anaal Nathrakh;78.7
+Grandaddy;78.7
+The Verve;78.7
+Ashley Monroe;78.66666666666667
+Jake Xerxes Fussell;78.66666666666667
+Ricardo Villalobos;78.66666666666667
+Christoph de Babalon;78.66666666666667
+Aesop Rock;78.64285714285714
+Enslaved;78.625
+Owen Pallett;78.625
+Iceage;78.625
+Neurosis;78.61111111111111
+Brand New;78.6
+Traffic;78.6
+The Police;78.6
+TouchÃ© AmorÃ©;78.6
+Felt;78.6
+Silver Jews;78.58333333333333
+Angel Olsen;78.58333333333333
+Sharon Van Etten;78.58333333333333
+The Ocean;78.5625
+Dark Tranquillity;78.55555555555556
+Wilco;78.54545454545455
+Borknagar;78.5
+Crack Cloud;78.5
+Daughters;78.5
+EPMD;78.5
+Counterparts;78.5
+Maxmillion Dunbar;78.5
+Young Jesus;78.5
+Dauwd;78.5
+Fennesz;78.5
+Abigail Washburn;78.5
+Cormega;78.5
+Arlo Mckinley;78.5
+Marika Hackman;78.5
+Jim Sullivan;78.5
+Warforged;78.5
+Joshua Redman & The Bad Plus;78.5
+Dump;78.5
+Bullion;78.5
+Hope of The States;78.5
+Choosey & Exile;78.5
+Cory Hanson;78.5
+Insight;78.5
+Thy Catafalque;78.5
+Loss;78.5
+Jason Isbell;78.5
+Lucifer's Friend;78.5
+æƒ…å ±ãƒ‡ã‚¹ã‚¯VIRTUAL;78.5
+Strapping Young Lad;78.5
+Baby Rose;78.5
+Aidan Moffat & RM Hubbert;78.5
+Rafael Anton Irisarri;78.5
+Nmesh;78.5
+The Deviants;78.5
+Monolake;78.5
+Bright Light Social Hour;78.5
+Coachwhips;78.5
+Skyzoo;78.5
+Tulipa Ruiz;78.5
+Clor;78.5
+Stiff Little Fingers;78.5
+Jana Hunter;78.5
+Sarathy Korwar;78.5
+Â¡Mayday!;78.5
+Shuggie Otis;78.5
+Lou Doillon;78.5
+Holopaw;78.5
+Baptists;78.5
+Robbie Fulks;78.5
+Brandi Carlile;78.5
+Edwyn Collins;78.5
+Oliver Coates;78.5
+IsolÃ©e;78.5
+case/lang/veirs;78.5
+Typhoon;78.5
+FEET;78.5
+Pale Saints;78.5
+Datach'i;78.5
+Electric Wizard;78.5
+Hayden;78.5
+Exhumed;78.5
+Exhalants;78.5
+Petite Meller;78.5
+Flasher;78.5
+Palace Brothers;78.5
+Karine Polwart;78.5
+Sigha;78.5
+Kadhja Bonet;78.5
+Rhiannon Giddens;78.5
+Griselda;78.5
+Perturbator;78.5
+Liv.E;78.5
+M. T. Hadley;78.5
+Alison Moyet;78.5
+Joel Ross;78.5
+Black Moon;78.5
+Adorable;78.5
+Benighted;78.5
+Cult of Luna & Julie Christmas;78.5
+Camera;78.5
+Svalbard;78.5
+Long Fin Killie;78.5
+Kvelertak;78.5
+D Smoke;78.5
+Mirrorring;78.5
+Metal Church;78.5
+Tau Cross;78.5
+The Murlocs;78.5
+Taylor McFerrin;78.5
+DJ Sports;78.5
+Blocks & Escher;78.5
+Jesse McCartney;78.5
+Dead Congregation;78.5
+9th Wonder & Buckshot;78.5
+Jericho Jackson;78.5
+Tangents;78.5
+The Stranger;78.5
+Virginia Astley;78.5
+Grant Hart;78.5
+Virginia Wing;78.5
+VHÃ–L;78.5
+Maisha;78.5
+Ben Chatwin;78.5
+The Dear Hunter;78.5
+Haley Heynderickx;78.5
+Dr. Yen Lo;78.5
+Haiku Salut;78.5
+Creeper;78.5
+Sambassadeur;78.5
+Worriers;78.5
+Forest Swords;78.5
+Sunny Sweeney;78.5
+Part Chimp;78.5
+Howls of Ebb;78.5
+The Berries;78.5
+Kokoko!;78.5
+Power Trip;78.5
+Frank Sinatra & Count Basie;78.5
+Saint Pepsi;78.5
+The Housemartins;78.5
+Kae Tempest;78.5
+LuÃ­sa Maita;78.5
+Gil Scott-Heron & Makaya McCraven;78.5
+House and Land;78.5
+O.C.;78.5
+Ipek Gorgun;78.5
+Swans;78.46875
+The Field;78.41666666666667
+Gorguts;78.41666666666667
+Nicolas Jaar;78.4
+Gang Gang Dance;78.375
+Uncle Tupelo;78.375
+Loretta Lynn;78.375
+Marvin Gaye;78.375
+The Caretaker;78.35714285714286
+Van Dyke Parks;78.33333333333333
+Atlas Sound;78.33333333333333
+Popol Vuh;78.33333333333333
+Joan Shelley;78.33333333333333
+King Creosote;78.33333333333333
+UFOmammut;78.33333333333333
+Desperate Journalist;78.33333333333333
+Spiritualized;78.3125
+Beach House;78.28571428571429
+Low;78.25
+Kiasmos;78.25
+Saba;78.25
+Primordial;78.25
+BADBADNOTGOOD;78.25
+Noir DÃ©sir;78.25
+Alvvays;78.25
+Buju Banton;78.25
+Paulina Rubio;78.25
+Kelsey Lu;78.25
+Pole;78.25
+Tall Ships;78.25
+Nile;78.25
+SubRosa;78.25
+Royal Headache;78.25
+Electrelane;78.25
+Women;78.25
+Glassjaw;78.25
+Tropical Fuck Storm;78.25
+ABC;78.25
+Naughty By Nature;78.25
+The Roots;78.22727272727273
+Superchunk;78.22727272727273
+XTC;78.20833333333333
+Sharon Jones & the Dap-Kings;78.2
+Max Richter;78.1875
+Katatonia;78.16666666666667
+Blawan;78.16666666666667
+Venom Prison;78.16666666666667
+The Pharcyde;78.16666666666667
+Khotin;78.16666666666667
+Scott Walker;78.16666666666667
+Pyrrhon;78.16666666666667
+Jlin;78.16666666666667
+FÃ©licia Atkinson;78.16666666666667
+AURORA;78.16666666666667
+Carla Bozulich;78.16666666666667
+Moses Sumney;78.16666666666667
+Joseph Arthur;78.125
+Mastodon;78.125
+High on Fire;78.125
+Marnie Stern;78.125
+Earl Sweatshirt;78.125
+Blur;78.125
+Pallbearer;78.125
+Inter Arma;78.125
+The Rolling Stones;78.1086956521739
+Richard Thompson;78.1
+Ian William Craig;78.08333333333333
+Dirty Three;78.07142857142857
+Andy Stott;78.07142857142857
+mewithoutYou;78.07142857142857
+Against Me!;78.07142857142857
+Tiny Tim;78.0
+LindstrÃ¸m & Christabelle;78.0
+Dawn of Midi;78.0
+Lido Pimienta;78.0
+The Beths;78.0
+Nick Storring;78.0
+The Apartments;78.0
+Pepper Rabbit;78.0
+Shellac;78.0
+Dorian Electra;78.0
+Dornik;78.0
+Amanda Shires;78.0
+Antimatter;78.0
+For Against;78.0
+Isaiah Rashad;78.0
+Lane 8;78.0
+Sean Price;78.0
+Apollo Brown & Guilty Simpson;78.0
+Nujabes;78.0
+Michael Romeo;78.0
+Finntroll;78.0
+Jean Grae;78.0
+Jeb Loy Nichols;78.0
+Orcas;78.0
+Duendita;78.0
+Maximum Balloon;78.0
+Toundra;78.0
+Snowmine;78.0
+Leon Vynehall;78.0
+The Bluetones;78.0
+Joy Orbison;78.0
+Reigning Sound;78.0
+Loreen;78.0
+Tobias Jesso Jr.;78.0
+Nicola Roberts;78.0
+Mecano;78.0
+Adebisi Shank;78.0
+Rodan;78.0
+Guido;78.0
+Trashcan Sinatras;78.0
+Pretty Girls Make Graves;78.0
+Bitchin Bajas & Bonnie 'Prince' Billy;78.0
+Lizzy Mercier Descloux;78.0
+Indian;78.0
+Smoke DZA & Benny The Butcher;78.0
+Joe Jackson;78.0
+Lifafa;78.0
+Mind Spiders;78.0
+Vijay Iyer & Wadada Leo Smith;78.0
+AfroCubism;78.0
+JASSS;78.0
+Kali Malone;78.0
+Sabina;78.0
+Lloyd Cole and the Commotions;78.0
+Untold;78.0
+mclusky;78.0
+Idaho;78.0
+Devil Master;78.0
+Terekke;78.0
+Cul De Sac;78.0
+Lyra Pramuk;78.0
+Doe;78.0
+Angaleena Presley;78.0
+Our Girl;78.0
+Integrity;78.0
+Shinichi Atobe;78.0
+Disma;78.0
+Insect Ark;78.0
+The Octopus Project;78.0
+Bobb Trimble;78.0
+Curren$y, Freddie Gibbs & The Alchemist;78.0
+Sam Gendel;78.0
+Nic Hessler;78.0
+Leila;78.0
+Kagoule;78.0
+Krizz Kaliko;78.0
+The Glands;78.0
+Mariachi El Bronx;78.0
+The Gil Evans Orchestra;78.0
+Zenker Brothers;78.0
+Bad Omens;78.0
+Daniel Rossen;78.0
+"Eli ""Paperboy"" Reed";78.0
+Attacca Quartet;78.0
+Candy Claws;78.0
+Mariee Sioux;78.0
+Hawktail;78.0
+Glass Candy;78.0
+Vanum;78.0
+Comeback Kid;78.0
+Nao;78.0
+cLOUDDEAD;78.0
+Carissa's Wierd;78.0
+Yngwie Malmsteen;78.0
+Fat Freddy's Drop;78.0
+The Casket Girls;78.0
+The Faith / Void;78.0
+Bruce Haack;78.0
+Weeping Sores;78.0
+R.A.P. Ferreira;78.0
+Jason Moran;78.0
+Azari & III;78.0
+Jane Siberry;78.0
+Whitehouse;78.0
+B.B. King & Eric Clapton;78.0
+Patti Smith Group;78.0
+Blackalicious;78.0
+Savatage;78.0
+Noga Erez;78.0
+Claude Fontaine;78.0
+Shura;78.0
+Japandroids;78.0
+John Wizards;78.0
+Propellerheads;78.0
+JÃ³hann JÃ³hannsson;78.0
+Oren Ambarchi / Keiji Haino / Jim O'Rourke;78.0
+Scale The Summit;78.0
+Ex-Cult;78.0
+Chrome;78.0
+Ã“lafur Arnalds & Nils Frahm;78.0
+Happy End;78.0
+Happy Accidents;78.0
+Air France;78.0
+EMA;78.0
+Vegyn;78.0
+Holy Other;78.0
+Kit Sebastian;78.0
+Our Place Of Worship Is Silence;78.0
+Buckingham Nicks;78.0
+Remember Sports;78.0
+Art D'Ecco;78.0
+Keleketla!;78.0
+Camper Van Beethoven;78.0
+Protomartyr;77.91666666666667
+Swallow The Sun;77.9
+At The Drive-In;77.9
+Meshuggah;77.875
+Florence + The Machine;77.875
+Sparks;77.85
+Suffocation;77.83333333333333
+16 Horsepower;77.83333333333333
+PUP;77.83333333333333
+Califone;77.83333333333333
+Linda Perhacs;77.83333333333333
+Natalie Prass;77.83333333333333
+Wovenhand;77.83333333333333
+Vessels;77.83333333333333
+Mr. Bungle;77.83333333333333
+Meridian Brothers;77.83333333333333
+Lee Fields & The Expressions;77.83333333333333
+Edge of Sanity;77.83333333333333
+Tom Petty;77.83333333333333
+Matthew Sweet;77.83333333333333
+Iron & Wine;77.83333333333333
+Curtis Mayfield;77.8
+Ted Leo and the Pharmacists;77.8
+Ryuichi Sakamoto;77.8
+Johnny Cash;77.78947368421052
+Drudkh;77.75
+A Guy Called Gerald;77.75
+Abigail Williams;77.75
+KornÃ©l KovÃ¡cs;77.75
+Swirlies;77.75
+Queen Latifah;77.75
+Amenra;77.75
+J.I.D;77.75
+Car Seat Headrest;77.75
+Alcest;77.75
+The Range;77.75
+TRAAMS;77.75
+The Microphones;77.75
+MONEY;77.75
+Movements;77.75
+Trap Them;77.75
+Black Thought;77.75
+Drexciya;77.75
+Steve Miller Band;77.75
+Death Grips;77.72222222222223
+The Afghan Whigs;77.71428571428571
+Roc Marciano;77.71428571428571
+Intronaut;77.7
+Bonnie Raitt;77.7
+Flying Lotus;77.6875
+Beastie Boys;77.6875
+Brian Eno;77.67647058823529
+Anderson .Paak;77.66666666666667
+Sons of Kemet;77.66666666666667
+Masta Ace;77.66666666666667
+Coil;77.66666666666667
+Mount Eerie;77.66666666666667
+The Weakerthans;77.66666666666667
+R.E.M.;77.65625
+Cymbals Eat Guitars;77.625
+Incantation;77.625
+Skee Mask;77.625
+Bilal;77.625
+Kamasi Washington;77.625
+Meshell Ndegeocello;77.6
+Young Fathers;77.6
+Lynyrd Skynyrd;77.6
+Municipal Waste;77.6
+The Twilight Sad;77.58333333333333
+Radiohead;77.57142857142857
+Miranda Lambert;77.57142857142857
+Kanye West;77.55555555555556
+Between the Buried and Me;77.55555555555556
+The National;77.55555555555556
+Andrew Bird;77.54545454545455
+Tangerine Dream;77.54166666666667
+Vein;77.5
+Black Joe Lewis;77.5
+Omar S;77.5
+Black Breath;77.5
+Incredible Bongo Band;77.5
+Dave;77.5
+Sofia Kourtesis;77.5
+George Clinton;77.5
+Senyawa;77.5
+Giraffage;77.5
+Gothic Chicken;77.5
+Ambulance LTD;77.5
+Amber Mark;77.5
+Gnod;77.5
+Daughter;77.5
+Black Noi$e;77.5
+Gouge Away;77.5
+LFO;77.5
+Zapp;77.5
+Alex Turner;77.5
+Gospel;77.5
+Szun Waves;77.5
+Graham Nash;77.5
+Nektar;77.5
+Vera Blue;77.5
+Low Roar;77.5
+Oh No;77.5
+Art of Noise;77.5
+The Faceless;77.5
+Fashawn;77.5
+Barbarossa;77.5
+Faye Webster;77.5
+Bardo Pond;77.5
+Holy Sons;77.5
+Bartees Strange;77.5
+EERA;77.5
+Numenorean;77.5
+Los Campesinos!;77.5
+Bat For Lashes;77.5
+KlÃ´ Pelgag;77.5
+San Holo;77.5
+Mariam the Believer;77.5
+Arca;77.5
+Seamus Fogarty;77.5
+Subhumans;77.5
+The Child of Lov;77.5
+Bananarama;77.5
+Scott Walker & Sunn O)));77.5
+Stina Nordenstam;77.5
+Empty Country;77.5
+PTU;77.5
+Heliotropes;77.5
+Massive Attack;77.5
+Paul Westerberg;77.5
+Hide;77.5
+Lubomyr Melnyk;77.5
+Elis Regina;77.5
+The Durutti Column;77.5
+Ezra Collective;77.5
+Will Haven;77.5
+FEMME;77.5
+William Basinski;77.5
+Studio;77.5
+Drug Church;77.5
+NxWorries;77.5
+Tchornobog;77.5
+Odetta Hartman;77.5
+Bent Knee;77.5
+Von SÃ¼denfed;77.5
+Adrianne Lenker;77.5
+RÃ³isÃ­n Murphy;77.5
+Sam Fender;77.5
+Gaahls WYRD;77.5
+Gaerea;77.5
+Desert Mountain Tribe;77.5
+The Black Swans;77.5
+Soul II Soul;77.5
+Mereba;77.5
+Teenage Wrist;77.5
+Grandmaster Flash & The Furious Five;77.5
+The Meters;77.5
+Gary Higgins;77.5
+Bill Evans & Jim Hall;77.5
+YC The Cynic;77.5
+Vulkano;77.5
+Karl Blau;77.5
+A.A.Williams;77.5
+Apollo Brown & Joell Ortiz;77.5
+Pendant;77.5
+Apollo Brown & Che' Noir;77.5
+Kate Tempest;77.5
+Nick Mulvey;77.5
+Lustre;77.5
+Donnie Trumpet & The Social Experiment;77.5
+Luxury Elite;77.5
+Supersilent;77.5
+Stick In The Wheel;77.5
+Quadron;77.5
+Kasai Allstars;77.5
+Discharge;77.5
+Fryars;77.5
+Sam Lee;77.5
+The James Hunter Six;77.5
+Ben LaMar Gay;77.5
+together PANGEA;77.5
+Sexwitch;77.5
+Nadia Sirota;77.5
+Caifanes;77.5
+Colin Stetson and Sarah Neufeld;77.5
+Code Orange;77.5
+Danger Doom;77.5
+Pllush;77.5
+James Holden & The Animal Spirits;77.5
+Ugly Casanova;77.5
+Them Are Us Too;77.5
+Tracyanne & Danny;77.5
+Danger Mouse and Sparklehorse;77.5
+Juvenile;77.5
+Minsk;77.5
+2PM;77.5
+DOOM;77.5
+Vagabon;77.5
+Confidence Man;77.5
+Colin Self;77.5
+Uranium Club;77.5
+Yppah;77.5
+Josef Salvat;77.5
+Boys;77.5
+Sinjin Hawke;77.5
+Pain of Salvation;77.5
+Trio Da Kali & Kronos Quartet;77.5
+Tierra Whack;77.5
+Chaos Moon;77.5
+Chris Corsano & Bill Orcutt;77.5
+Brent Cobb;77.5
+Caddywhompus;77.5
+Smallpools;77.5
+DJ Richard;77.5
+DJ Muggs x Mach-Hommy;77.5
+MorMor;77.5
+Uncle Acid & The Deadbeats;77.5
+Moor Mother;77.5
+Jars of Clay;77.5
+Moon Tooth;77.5
+Japan Blues;77.5
+Bodies of Water;77.5
+Sky Larkin;77.5
+Skin;77.5
+Ã“lafur Arnalds & Alice Sara Ott;77.5
+Akufen;77.5
+Cymande;77.5
+Cleric;77.5
+Cowboy Junkies;77.5
+Crying;77.5
+Bola;77.5
+Zaki Ibrahim;77.5
+Damon Locks Black Monument Ensemble;77.5
+Jodeci;77.5
+Bobby Womack;77.5
+John K. Samson;77.5
+BrÃ¬ghde Chaimbeul;77.5
+TriÃ¡ngulo De Amor Bizarro;77.5
+Boreal Massif;77.5
+BoA;77.5
+Jockstrap;77.5
+Boris & Sunn O)));77.5
+slowthai;77.5
+Colin Stetson;77.41666666666667
+Tinariwen;77.41666666666667
+Gillian Welch;77.41666666666667
+Wild Beasts;77.41666666666667
+Sturgill Simpson;77.375
+Whitesnake;77.375
+Harvey Milk;77.375
+Nina Simone;77.35714285714286
+Nils Frahm;77.35714285714286
+Antony and the Johnsons;77.33333333333333
+Samaris;77.33333333333333
+Aaliyah;77.33333333333333
+Efdemin;77.33333333333333
+Portal;77.33333333333333
+King Diamond;77.33333333333333
+Deee-Lite;77.33333333333333
+Andy Shauf;77.33333333333333
+Jazmine Sullivan;77.33333333333333
+Yamantaka // Sonic Titan;77.33333333333333
+Elbow;77.3125
+Jens Lekman;77.3
+Rita Lee;77.3
+Errors;77.3
+Ezra Furman;77.3
+Gang Starr;77.28571428571429
+Zara McFarlane;77.25
+Anthony Naples;77.25
+Idris Ackamoor & The Pyramids;77.25
+John Grant;77.25
+Weekend;77.25
+Jeff Tweedy;77.25
+These New Puritans;77.25
+Sarah Jaffe;77.25
+Method Man & Redman;77.25
+The Beloved;77.25
+Bikini Kill;77.25
+Anna von Hausswolff;77.25
+Her's;77.25
+Wiki;77.25
+Panopticon;77.25
+Gravediggaz;77.25
+Susumu Yokota;77.25
+Social Distortion;77.25
+La Dispute;77.25
+Bonnie 'Prince' Billy;77.25
+M.E.S.H.;77.25
+Maverick Sabre;77.25
+The Phantom Band;77.25
+Holly Herndon;77.25
+The Teardrop Explodes;77.25
+Hurray For The Riff Raff;77.25
+Dua Lipa;77.25
+Matt Maltese;77.25
+Iron Chic;77.25
+Total Control;77.25
+The Goon Sax;77.25
+Fucked Up;77.21428571428571
+Soda Stereo;77.21428571428571
+Mark Lanegan Band;77.21428571428571
+Bloodbath;77.2
+Christian Scott aTunde Adjuah;77.2
+Camera Obscura;77.2
+Neneh Cherry;77.2
+Gil Scott-Heron;77.16666666666667
+Windhand;77.16666666666667
+Orphaned Land;77.16666666666667
+Girl Band;77.16666666666667
+DJ Koze;77.16666666666667
+serpentwithfeet;77.16666666666667
+A.A. Bondy;77.16666666666667
+The Icarus Line;77.16666666666667
+The World Is a Beautiful Place and I Am No Longer Afraid to Die;77.16666666666667
+Lydia Loveless;77.16666666666667
+The Birthday Party;77.16666666666667
+Smog;77.15
+Dir En Grey;77.14285714285714
+Blood Orange;77.125
+Cynic;77.125
+Mogwai;77.125
+Robyn;77.125
+Rolo Tomassi;77.1
+The Tallest Man On Earth;77.08333333333333
+Laura Veirs;77.08333333333333
+Bruce Springsteen;77.075
+Current 93;77.07142857142857
+Sigh;77.07142857142857
+Port St. Willow;77.0
+Huerco S.;77.0
+Better Oblivion Community Center;77.0
+Mk.gee;77.0
+Kathryn Calder;77.0
+Shackleton & Vengeance Tenfold;77.0
+2562;77.0
+Boldy James & Sterling Toles;77.0
+Trust Fund;77.0
+Bonnie 'Prince' Billy & The Cairo Gang;77.0
+Average White Band;77.0
+Ulsect;77.0
+Mdou Moctar;77.0
+Wagon Christ;77.0
+Becca Mancari;77.0
+Dr. Dooom;77.0
+PNL;77.0
+The Homesick;77.0
+Blut Aus Nord;77.0
+Covet;77.0
+Postiljonen;77.0
+LoneLady;77.0
+Quakers;77.0
+Kelly Hogan;77.0
+Control Top;77.0
+Kelly Lee Owens;77.0
+Constant Mongrel;77.0
+Leprous;77.0
+Electric President;77.0
+Sevdaliza;77.0
+REKS;77.0
+Jordan Rakei;77.0
+Comadre;77.0
+Young Man;77.0
+Eiko Ishibashi;77.0
+James Supercave;77.0
+Eli Keszler;77.0
+Niki & The Dove;77.0
+Eliot Sumner;77.0
+The Third Eye Foundation;77.0
+Dogleg;77.0
+Quicksand;77.0
+Khemmis;77.0
+Loidis;77.0
+Smerz;77.0
+Shana Cleveland;77.0
+Maudlin of the Well;77.0
+Special Interest;77.0
+Laurie Anderson & Kronos Quartet;77.0
+Lori McKenna;77.0
+Coriky;77.0
+Bad Moves;77.0
+Brenda Lee;77.0
+The Format;77.0
+Molly Drake;77.0
+The Depreciation Guild;77.0
+Petbrick;77.0
+Games;77.0
+Jeremy Jay;77.0
+Major Murphy;77.0
+Pink Siifu;77.0
+Mr. Fingers;77.0
+Andrew Wasylyk;77.0
+Origami Angel;77.0
+Leyla McCalla;77.0
+Sinai Vessel;77.0
+Lala Lala;77.0
+Damon Zucconi;77.0
+Ray BLK;77.0
+Living Colour;77.0
+Angelica Garcia;77.0
+Kreator;77.0
+Jennifer Castle;77.0
+Deacon Blue;77.0
+Gulch;77.0
+Michael Brook & Pieter Nooten;77.0
+Charly Bliss;77.0
+Krallice with Dave Edwardson;77.0
+Dagny;77.0
+Parcels;77.0
+Anna Calvi;77.0
+Anna Homler & Steve Moshier;77.0
+BjÃ¶rk / Dirty Projectors;77.0
+Zs;77.0
+Caitlin Rose;77.0
+The Style Council;77.0
+Joe Henry;77.0
+LV;77.0
+Gold Class;77.0
+Mike & Rich;77.0
+K-Lone;77.0
+Glen Campbell;77.0
+Golden Silvers;77.0
+Proc Fiskal;77.0
+Car Bomb;77.0
+Daniel Romano's Outfit;77.0
+Carl Craig;77.0
+Petre Inspirescu;77.0
+Rezzett;77.0
+Joan Jett & The Blackhearts;77.0
+Yeule;77.0
+Okkyung Lee;77.0
+METZ;77.0
+Alex G;77.0
+Panacea;77.0
+Grace Lightman;77.0
+75 Dollar Bill;77.0
+Saltland;77.0
+The Radio Dept.;77.0
+Middle Brother;77.0
+Yawners;77.0
+Serge Gainsbourg;77.0
+Mantar;77.0
+SSION;77.0
+Jaylib;77.0
+J. Geils Band;77.0
+Alice Phoebe Lou;77.0
+Jay Som;77.0
+DJ Quik & Kurupt;77.0
+Ludovico Einaudi;77.0
+Leif Vollebekk;77.0
+Deliluh;77.0
+Christina Vantzou;77.0
+Young Smoke;77.0
+Kitchens of Distinction;77.0
+Marissa Nadler & Stephen Brodsky;77.0
+Moor Mother & Mental Jewelry;77.0
+William Tyler;77.0
+Loathe;77.0
+Vintage Crop;77.0
+JJ72;77.0
+Thunder Dreamer;77.0
+DJ Haram;77.0
+Brutus;77.0
+Lucky Daye;77.0
+Ex Eye;77.0
+King;77.0
+D.D Dumbo;77.0
+Blue Sky Black Death;77.0
+Visible Cloaks, Yoshio Ojima & Satsuki Shibano;77.0
+Wild Flag;77.0
+Fennec;77.0
+The Tough Alliance;77.0
+The Boys Next Door;77.0
+Half Waif;77.0
+Mourning [A] BLKstar;77.0
+Sam Vance-Law;77.0
+Aaron Watson;77.0
+World's End Girlfriend;77.0
+Dear Rouge;77.0
+Roy Montgomery;77.0
+The Spirit of the Beehive;77.0
+Songhoy Blues;77.0
+Flock of Dimes;77.0
+Millie & Andrea;77.0
+Hammers of Misfortune;77.0
+The Spook School;77.0
+Pascal Pinon;77.0
+Lisel;77.0
+O Children;77.0
+Tricot;77.0
+MÃ©lissa Laveaux;77.0
+Buraka Som Sistema;77.0
+Kaki King;77.0
+Chloe x Halle;77.0
+The Body;77.0
+Deerhunter;77.0
+Krallice;76.9375
+James Taylor;76.91666666666667
+The Antlers;76.91666666666667
+Les Savy Fav;76.9
+Propagandhi;76.9
+Dan Deacon;76.9
+Slowdive;76.88888888888889
+Sigur RÃ³s;76.88888888888889
+TORRES;76.875
+Giant Sand;76.875
+tUnE-yArDs;76.875
+Grand Funk Railroad;76.875
+Dinosaur Jr.;76.86363636363636
+Modest Mouse;76.85
+Bowerbirds;76.83333333333333
+Midnight Oil;76.83333333333333
+Circulatory System;76.83333333333333
+De La Soul;76.83333333333333
+The Comet Is Coming;76.83333333333333
+Pistol Annies;76.83333333333333
+Buffalo Springfield;76.83333333333333
+Pat Benatar;76.83333333333333
+Serengeti;76.83333333333333
+Evidence;76.83333333333333
+David Holmes;76.83333333333333
+Soccer Mommy;76.83333333333333
+Obscura;76.8
+Jefre Cantu-Ledesma;76.8
+Grimes;76.8
+Miles Davis;76.7625
+Lemon Jelly;76.75
+Ben Harper & Charlie Musselwhite;76.75
+Copeland;76.75
+Sarah Blasko;76.75
+JME;76.75
+NCT 127;76.75
+Lithics;76.75
+Reflection Eternal;76.75
+James Blackshaw;76.75
+Anna Meredith;76.75
+Gorgoroth;76.75
+Soulsavers;76.75
+Heartless Bastards;76.75
+Elysia Crampton;76.75
+BT;76.75
+Hieroglyphics;76.75
+Yowler;76.75
+Graveyard;76.75
+BIG|BRAVE;76.75
+Tyler Childers;76.75
+Perfect Pussy;76.75
+Dilly Dally;76.75
+Yazz Ahmed;76.75
+Shlohmo;76.75
+Speech Debelle;76.75
+Lotic;76.75
+Whyte Horses;76.75
+Widespread Panic;76.75
+This Is The Kit;76.75
+Brand Nubian;76.75
+Jarvis Cocker;76.75
+The Coup;76.75
+Orange Juice;76.75
+The Preatures;76.75
+Lonnie Holley;76.75
+Parker Millsap;76.75
+Junglepussy;76.75
+Mulatu Astatke;76.75
+Black to Comm;76.75
+Boldy James & The Alchemist;76.75
+Mount Kimbie;76.75
+Bell Orchestre;76.75
+King Crimson;76.73076923076923
+Explosions in the Sky;76.71428571428571
+The Jesus and Mary Chain;76.71428571428571
+Grizzly Bear;76.71428571428571
+Jesu;76.7
+The War on Drugs;76.7
+P.O.S.;76.7
+Ice-T;76.7
+Anathema;76.7
+Mouse on Mars;76.6875
+Rebecca Ferguson;76.66666666666667
+Deerhoof;76.66666666666667
+Aborted;76.66666666666667
+Jessy Lanza;76.66666666666667
+Uriah Heep;76.66666666666667
+Love Is All;76.66666666666667
+EinstÃ¼rzende Neubauten;76.66666666666667
+Mirah;76.66666666666667
+Helena Deland;76.66666666666667
+Cocteau Twins;76.66666666666667
+Apathy;76.66666666666667
+The Walkmen;76.66666666666667
+Cattle Decapitation;76.66666666666667
+Neon Indian;76.66666666666667
+Jacaszek;76.66666666666667
+The Weather Station;76.66666666666667
+Blondes;76.66666666666667
+Polaris;76.66666666666667
+Lianne La Havas;76.66666666666667
+Lady Lamb;76.66666666666667
+Steven Wilson;76.66666666666667
+Bill Fay;76.66666666666667
+Cibo Matto;76.66666666666667
+The Cinematic Orchestra;76.625
+Ought;76.625
+The Jon Spencer Blues Explosion;76.625
+The Byrds;76.61111111111111
+Built to Spill;76.61111111111111
+M.I.A.;76.6
+Four Tet;76.5909090909091
+Cluster;76.58333333333333
+Daniel Romano;76.58333333333333
+DJ Rashad;76.58333333333333
+Marianne Faithfull;76.58333333333333
+Gojira;76.58333333333333
+My Morning Jacket;76.5625
+Saint Etienne;76.55555555555556
+James Blake;76.54545454545455
+Captain Beefheart;76.54166666666667
+Martha Ffion;76.5
+She Keeps Bees;76.5
+Martha;76.5
+Johnny Foreigner;76.5
+M. Craft;76.5
+Jenny Wilson;76.5
+Textures;76.5
+16;76.5
+Chino Amobi;76.5
+FÃ©licia Atkinson / Jefre Cantu-Ledesma;76.5
+Acid Bath;76.5
+Terry Allen & The Panhandle Mystery Band;76.5
+Sweet;76.5
+Primitive Weapons;76.5
+Emel Mathlouthi;76.5
+Aaron West & The Roaring Twenties;76.5
+Plush;76.5
+Les Rita Mitsouko;76.5
+The Lovely Bad Things;76.5
+Emily Jane White;76.5
+Margo Price;76.5
+The Staves & yMusic;76.5
+Maita;76.5
+Haircut 100;76.5
+Siouxsie;76.5
+The Music Tapes;76.5
+Jon McKiel;76.5
+Bun B & Statik Selektah;76.5
+KXNG Crooked;76.5
+The Delines;76.5
+Oli XL;76.5
+Sweeping Promises;76.5
+Random Axe;76.5
+Enon;76.5
+Motion Sickness of Time Travel;76.5
+Terence Trent D'Arby;76.5
+Theon Cross;76.5
+Against The Current;76.5
+Foetus;76.5
+Monophonics;76.5
+Billie Eilish;76.5
+Esmerine;76.5
+illuminati hotties;76.5
+Xenia Rubinos;76.5
+Kacey Johansing;76.5
+Pariah;76.5
+Hannah Peel;76.5
+North Mississippi Allstars;76.5
+Rainer Maria;76.5
+Astronauts, etc.;76.5
+Mark Kozelek & Jimmy LaValle;76.5
+Blu & Oh No;76.5
+Haru Nemuri;76.5
+Peter BrÃ¶tzmann & Heather Leigh;76.5
+Jen Cloher;76.5
+Roddy Frame;76.5
+Zora Jones;76.5
+Ash Borer;76.5
+Belanova;76.5
+Viagra Boys;76.5
+Gwenifer Raymond;76.5
+LantlÃ´s;76.5
+Aaron Parks;76.5
+The Story So Far;76.5
+Victoria MonÃ©t;76.5
+Chris Stapleton;76.5
+Arve Henriksen;76.5
+Message To Bears;76.5
+Foxwarren;76.5
+Klara Lewis & Simon Fisher Turner;76.5
+Jayda G;76.5
+Windy & Carl;76.5
+Mylene Farmer;76.5
+DJ Quik & Problem;76.5
+Troller;76.5
+Trees Speak;76.5
+Black Anvil;76.5
+Mr Little Jeans;76.5
+Malibu;76.5
+Choir Boy;76.5
+Moses Boyd;76.5
+Julie London;76.5
+Evans The Death;76.5
+John T. Gast;76.5
+Arcane Roots;76.5
+2NE1;76.5
+Handle;76.5
+Infant Island;76.5
+Ex:Re;76.5
+Dermot Kennedy;76.5
+Rina Mushonga;76.5
+DaymÃ© Arocena;76.5
+Sheer Mag;76.5
+Mountains;76.5
+Hayden Thorpe;76.5
+Ravyn Lenae;76.5
+Koffee;76.5
+Klein;76.5
+Fort Minor;76.5
+Withered Hand;76.5
+Ciccone Youth;76.5
+Freeway & Jake One;76.5
+Charlotte Gainsbourg;76.5
+Sole;76.5
+The Bad Plus;76.5
+Moonshake;76.5
+Demdike Stare;76.5
+Alabama Shakes;76.5
+Teeth of the Sea;76.5
+The Reatards;76.5
+EXEK;76.5
+Basic Channel;76.5
+Cordae;76.5
+Bok Bok;76.5
+Giant Swan;76.5
+Dusty Springfield;76.5
+Boy Azooga;76.5
+Casey Mecija;76.5
+Durand Jones & The Indications;76.5
+WU LYF;76.5
+Quantic;76.5
+Jyoti;76.5
+Lorenzo Senni;76.5
+Zebrahead;76.5
+Call Super;76.5
+Amber Run;76.5
+Talib Kweli & Madlib;76.5
+"Sleep &#8734; Over";76.5
+Efrim Manuel Menuck & Kevin Doria;76.5
+RE-Tros;76.5
+Shy Layers;76.5
+Irreversible Entanglements;76.5
+Spellling;76.5
+Action Bronson & The Alchemist;76.5
+Condo Fucks;76.5
+Payroll Giovanni & Cardo Got Wings;76.5
+Ms. Dynamite;76.5
+Matteo Vallicelli;76.5
+The Week That Was;76.5
+Ben Klock;76.5
+L'Ã‰pÃ©e;76.5
+Lost Girls;76.5
+Sea Oleena;76.5
+Blake Mills;76.5
+Genghis Tron;76.5
+Second Woman;76.5
+21 Savage & Metro Boomin;76.5
+The Horrors;76.5
+Jim White;76.5
+Kassa Overall;76.5
+LUH;76.5
+Jaimie Branch;76.5
+Donato Dozzy;76.5
+Ruth;76.5
+Dosh;76.5
+Spring King;76.5
+LUMP;76.5
+Cro-Mags;76.5
+Outfit;76.5
+The Tony Danza Tapdance Extravaganza;76.5
+LTO;76.5
+Leo Svirsky;76.5
+Starlight Mints;76.5
+Maxo;76.5
+Joan Jett;76.5
+Talaboman;76.5
+Remi Wolf;76.5
+Horse The Band;76.5
+Be'lakor;76.5
+Bosse-de-Nage;76.5
+Courtney Barnett & Kurt Vile;76.5
+The Secret Sisters;76.5
+Leafcutter John;76.5
+Quelle Chris & Chris Keys;76.5
+MINT FIELD;76.5
+Oranssi Pazuzu;76.5
+Mirel Wagner;76.5
+Reverend Horton Heat;76.5
+It Hugs Back;76.5
+Lecrae;76.5
+diskJokke;76.5
+London O'Connor;76.5
+Jonny Nash / Suzanne Kraft;76.5
+Grails;76.5
+The DÃ¸;76.5
+Q and Not U;76.5
+TÃ½r;76.5
+Kyle Hall;76.5
+Special Ed;76.5
+Castevet;76.5
+Jesse Boykins III;76.5
+Tzusing;76.5
+Tony Allen & Hugh Masekela;76.5
+El Ten Eleven;76.5
+Dana Gavanski;76.5
+Michaela Anne;76.5
+Yann Tiersen;76.5
+Stereolab;76.45454545454545
+Phosphorescent;76.42857142857143
+Russian Circles;76.42857142857143
+Everything Everything;76.41666666666667
+Pretenders;76.41666666666667
+The Residents;76.41666666666667
+Sonic Youth;76.41176470588235
+Sunn O)));76.4
+Moodymann;76.4
+Kylesa;76.4
+Moonface;76.4
+Deftones;76.38888888888889
+Jesca Hoop;76.375
+FranÃ§oise Hardy;76.375
+Loscil;76.375
+Cornelius;76.375
+Fu Manchu;76.375
+The Who;76.375
+Frog Eyes;76.35714285714286
+Yeah Yeah Yeahs;76.33333333333333
+Snarky Puppy;76.33333333333333
+Loney Dear;76.33333333333333
+iamamiwhoami;76.33333333333333
+Ital Tek;76.33333333333333
+Scuba;76.33333333333333
+Chromatics;76.33333333333333
+Jeff Beck;76.33333333333333
+American Music Club;76.33333333333333
+Foals;76.33333333333333
+Roman FlÃ¼gel;76.33333333333333
+The Fall;76.33333333333333
+Autre Ne Veut;76.33333333333333
+Florist;76.33333333333333
+David Sylvian;76.3
+Hiss Golden Messenger;76.3
+Siouxsie and the Banshees;76.3
+The Wonder Years;76.3
+Testament;76.29166666666667
+Periphery;76.28571428571429
+Tony Allen;76.25
+Rae Morris;76.25
+Haruomi Hosono;76.25
+Kacy & Clayton;76.25
+Igorrr;76.25
+FantÃ´mas;76.25
+Badfinger;76.25
+Joni Void;76.25
+KAYTRANADA;76.25
+Hatchie;76.25
+Culture Club;76.25
+Rudimentary Peni;76.25
+Blaenavon;76.25
+Blu & Exile;76.25
+Julie Doiron;76.25
+Lanterns on the Lake;76.25
+The Dream Syndicate;76.25
+The Koreatown Oddity;76.25
+Melody's Echo Chamber;76.25
+Carach Angren;76.25
+Grayscale;76.25
+The Lemonheads;76.25
+Gwenno;76.25
+Jurassic 5;76.25
+Japanese Breakfast;76.25
+Ash Koosha;76.25
+CAVE;76.25
+k-os;76.25
+Oingo Boingo;76.25
+Dying Fetus;76.25
+Arc Iris;76.25
+Modern Baseball;76.25
+Screaming Females;76.25
+White Zombie;76.25
+MUNA;76.25
+The 6ths;76.25
+Hot Snakes;76.25
+Let's Eat Grandma;76.25
+Madrugada;76.25
+Oliver Wilde;76.25
+Zun Zun Egui;76.25
+Jonathan Bree;76.25
+The Stooges;76.25
+Kilo Kish;76.25
+Levon Helm;76.25
+MIKE;76.25
+Caroline Rose;76.25
+Transatlantic;76.25
+Cannibal Ox;76.25
+Laurel Halo;76.21428571428571
+Unwound;76.21428571428571
+Denzel Curry;76.2
+Ryley Walker;76.2
+Julianna Barwick;76.2
+Pantha Du Prince;76.2
+Bill Ryder-Jones;76.16666666666667
+Daniel Caesar;76.16666666666667
+Laura Stevenson;76.16666666666667
+Locrian;76.16666666666667
+Josh Ritter;76.16666666666667
+John Moreland;76.16666666666667
+Jessica Pratt;76.16666666666667
+Ben Howard;76.16666666666667
+Luna;76.16666666666667
+Goat;76.16666666666667
+C Duncan;76.16666666666667
+White Lung;76.16666666666667
+Saves The Day;76.16666666666667
+Lisa Hannigan;76.16666666666667
+Iglooghost;76.125
+Tomahawk;76.125
+Kishi Bashi;76.125
+Conway the Machine;76.125
+This Will Destroy You;76.125
+The Chemical Brothers;76.11111111111111
+David Crosby;76.1
+The Jayhawks;76.07142857142857
+The Wedding Present;76.07142857142857
+The New Pornographers;76.0625
+Okkervil River;76.05555555555556
+Drive-By Truckers;76.03846153846153
+Sage Francis;76.0
+CJ Fly;76.0
+Richard Skelton;76.0
+Indigo Girls;76.0
+Sweet Billy Pilgrim;76.0
+The Revolutionary Army Of The Infant Jesus;76.0
+Pinkshinyultrablast;76.0
+Dear Nora;76.0
+Samia;76.0
+Sylosis;76.0
+Fury;76.0
+Allo Darlin';76.0
+Pantayo;76.0
+Africa Hitech;76.0
+Laetitia Sadier Source Ensemble;76.0
+Working for a Nuclear Free City;76.0
+Tindersticks;76.0
+death's dynamic shroud.wmv;76.0
+Serengeti & Kenny Segal;76.0
+Gatecreeper;76.0
+Tara Jane O'Neil;76.0
+All Dogs;76.0
+Joanne Robertson;76.0
+Light Asylum;76.0
+Amanda Palmer;76.0
+Sinjin Hawke & Zora Jones;76.0
+A. Savage;76.0
+Amason;76.0
+Nels Cline;76.0
+Midnight Sister;76.0
+Oblivians;76.0
+De Rosa;76.0
+Amber Coffman;76.0
+Gene;76.0
+Sam Gellaitry;76.0
+Guru;76.0
+Oceans of Slumber;76.0
+Malibu Ken;76.0
+Daniel Brandt;76.0
+Seo Taiji And Boys;76.0
+Sin Fang, SÃ³ley & Ã–rvar SmÃ¡rason;76.0
+Dave Bixby;76.0
+Angel Bat Dawid;76.0
+Prince Daddy & The Hyena;76.0
+Terry Malts;76.0
+Mr Twin Sister;76.0
+George Thorogood & The Destroyers;76.0
+Pangaea;76.0
+Little Jackie;76.0
+Nena;76.0
+Little Joy;76.0
+Machine Girl;76.0
+Jenny Lewis with The Watson Twins;76.0
+Sen Morimoto;76.0
+Triad God;76.0
+Cayetana;76.0
+Michael McDonald;76.0
+Charizma & Peanut Butter Wolf;76.0
+Konradsen;76.0
+Richard Marx;76.0
+Many Rooms;76.0
+Youth Code;76.0
+Vic Spencer;76.0
+Joey Purp;76.0
+Jill Scott;76.0
+AnaÃ¯s Mitchell & Jefferson Hamer;76.0
+LEYA;76.0
+Kuedo;76.0
+Shilpa Ray;76.0
+Daddy Issues;76.0
+Dead To A Dying World;76.0
+Magnolia Electric Co.;76.0
+Mundy's Bay;76.0
+Move D;76.0
+Andrew Cedermark;76.0
+Carla Morrison;76.0
+Possessed;76.0
+Leikeli47;76.0
+Divine Fits;76.0
+Basement;76.0
+Marquis Hill;76.0
+Noisem;76.0
+Wax Chattels;76.0
+Ace Frehley;76.0
+Hyetal;76.0
+Julia Brown;76.0
+Erin Rae;76.0
+Phonte & Eric Roberson;76.0
+Q-Tip;76.0
+Robert Glasper Experiment;76.0
+Press Club;76.0
+Heltah Skeltah;76.0
+Awakebutstillinbed;76.0
+The Dead Texan;76.0
+White Suns;76.0
+Sleep Token;76.0
+Cool Uncle;76.0
+James Elkington;76.0
+The Foreign Exchange;76.0
+Moonsorrow;76.0
+Was (Not Was);76.0
+Mark Olson;76.0
+Jawbox;76.0
+Mimicking Birds;76.0
+Smoke DZA & Pete Rock;76.0
+Mark Renner;76.0
+Moderat;76.0
+Ben Harper & Relentless7;76.0
+Raffertie;76.0
+Roses Gabor;76.0
+Pearls Before Swine;76.0
+The Cool Greenhouse;76.0
+Desire Marea;76.0
+Stay Inside;76.0
+Epic Beard Men;76.0
+Brain Tentacles;76.0
+Aye Nako;76.0
+Stephen Malkmus and the Jicks;76.0
+Acid Mothers Temple & the Cosmic Inferno;76.0
+Tweedy;76.0
+IO Echo;76.0
+Nai Harvest;76.0
+Bahamas;76.0
+Bad Books;76.0
+Nakhane;76.0
+The Locust;76.0
+Laurent Garnier;76.0
+The Electric Prunes;76.0
+Loke Rahbek;76.0
+Jameszoo;76.0
+Nine Inch Nails;76.0
+Steve Gunn;76.0
+The Earlies;76.0
+Smidley;76.0
+Laurie Anderson / Tenzin Choegyal / Jesse Paris Smith;76.0
+Wayfarer;76.0
+Ailbhe Reddy;76.0
+R.A. The Rugged Man;76.0
+Enemies;76.0
+Jon Hopkins;76.0
+Olivia Chaney;76.0
+Stenny;76.0
+Common Holly;76.0
+Cuushe;76.0
+Portrayal of Guilt;76.0
+Lost In The Trees;76.0
+Blackbird Blackbird;76.0
+Jack DeJohnette, Ravi Coltrane & Matthew Garrison;76.0
+Shannon Wright;76.0
+Emma Ruth Rundle;76.0
+Emily Wells;76.0
+Matt Corby;76.0
+Maurice Louca;76.0
+Elephant Micah;76.0
+King Krule;76.0
+First Hate;76.0
+Kedr Livanskiy;76.0
+Nubya Garcia;76.0
+Harmonic 313;76.0
+Punch Brothers;76.0
+Alice in Chains;76.0
+The Unthanks;76.0
+Drab Majesty;76.0
+Buddy Holly;76.0
+S.C.U.M.;76.0
+Pom Poko;76.0
+Dels;76.0
+Max Tundra;76.0
+Ariel Pink;76.0
+Hurry;76.0
+Drain;76.0
+Ariel Pink's Haunted Graffiti;76.0
+Sudan Archives;76.0
+The Groundhogs;76.0
+Nathan Micay;76.0
+Warehouse;76.0
+Snail Mail;76.0
+Spoek Mathambo;76.0
+DJ Quik;76.0
+Thundercat;76.0
+Fireworks;76.0
+Walter Wanderley;76.0
+Mark Barrott;76.0
+Moonspell;76.0
+Maria McKee;76.0
+Quickspace;76.0
+Lilys;76.0
+Chuck Johnson;76.0
+Pete Townshend;76.0
+King Woman;76.0
+The Staves;76.0
+Billy Nomates;76.0
+Landlady;76.0
+Thunderbitch;76.0
+Apollo Brown & Skyzoo;76.0
+Christian Lee Hutson;76.0
+Sorry;76.0
+Ablebody;76.0
+Billie Marten;76.0
+Farao;76.0
+Sebadoh;76.0
+Crowbar;76.0
+Zoon;76.0
+Judy and the Jerks;76.0
+Chelsea Wolfe;75.9375
+Regina Spektor;75.91666666666667
+Lee Gamble;75.91666666666667
+Beth Orton;75.91666666666667
+Tool;75.91666666666667
+Dilated Peoples;75.9
+John Lennon;75.9
+Parquet Courts;75.9
+Little Brother;75.9
+Pere Ubu;75.88888888888889
+Engineers;75.875
+Preoccupations;75.875
+Pusha T;75.875
+Medicine;75.875
+Richard Buckner;75.875
+Jason Isbell & The 400 Unit;75.875
+Skeletonwitch;75.875
+Charles Bradley;75.875
+Shed;75.875
+The Cult;75.85714285714286
+Ulver;75.85
+Marissa Nadler;75.83333333333333
+Jessica Lea Mayfield;75.83333333333333
+Sandro Perri;75.83333333333333
+Autechre;75.83333333333333
+UGK;75.83333333333333
+The Heliocentrics;75.83333333333333
+R. Stevie Moore;75.83333333333333
+Rickie Lee Jones;75.83333333333333
+The Love Language;75.83333333333333
+Waxahatchee;75.83333333333333
+Youth Lagoon;75.83333333333333
+Soul Coughing;75.83333333333333
+Gun Outfit;75.83333333333333
+Mavis Staples;75.83333333333333
+Criolo;75.83333333333333
+Envy;75.83333333333333
+Annihilator;75.83333333333333
+Iron Butterfly;75.83333333333333
+The Divine Comedy;75.81818181818181
+Kristin Hersh;75.8
+Shearwater;75.8
+Angels of Light;75.8
+The Knife;75.8
+Riverside;75.8
+Boris;75.76666666666667
+Dustin Wong;75.75
+Prince Paul;75.75
+Hieroglyphic Being;75.75
+Frightened Rabbit;75.75
+Daft Punk;75.75
+Benjamin Clementine;75.75
+Oval;75.75
+The Alchemist;75.75
+Tina Turner;75.75
+Amadou & Mariam;75.75
+13 & God;75.75
+Mountain Man;75.75
+Calexico;75.75
+WALL;75.75
+Fuzz;75.75
+Chaka Khan;75.75
+Therapy?;75.75
+Horse Lords;75.75
+The Japanese House;75.75
+Laura Mvula;75.75
+B Boys;75.75
+Brightblack Morning Light;75.75
+Miguel;75.75
+Matt Elliott;75.75
+Yaeji;75.75
+Wiegedood;75.75
+The Cooper Temple Clause;75.75
+Perc;75.75
+Epica;75.75
+Charli XCX;75.7
+Portico Quartet;75.7
+Os Mutantes;75.6875
+Xiu Xiu;75.68181818181819
+The Decemberists;75.68181818181819
+Carnifex;75.66666666666667
+Yellow Magic Orchestra;75.66666666666667
+Girl Talk;75.66666666666667
+The Beta Band;75.66666666666667
+Polar Bear;75.66666666666667
+Letlive.;75.66666666666667
+Bing & Ruth;75.66666666666667
+Mary Lattimore;75.66666666666667
+Hayes Carll;75.66666666666667
+Teebs;75.66666666666667
+Ricky Eat Acid;75.66666666666667
+Empress Of;75.66666666666667
+Nadia Reid;75.66666666666667
+Damien Jurado;75.65384615384616
+Hot Chip;75.64285714285714
+Broken Social Scene;75.64285714285714
+The Hold Steady;75.64285714285714
+Donovan;75.64285714285714
+Armand Hammer;75.625
+I Am Kloot;75.625
+Agnes Obel;75.625
+Pile;75.625
+Timber Timbre;75.625
+Mikal Cronin;75.625
+The Handsome Family;75.625
+Carly Rae Jepsen;75.6
+Mew;75.6
+Eyehategod;75.6
+Rod Stewart;75.6
+Esperanza Spalding;75.6
+Devin Townsend Project;75.58333333333333
+Lush;75.58333333333333
+Steve Earle;75.58333333333333
+Clutch;75.58333333333333
+Bill Callahan;75.57142857142857
+The Mountain Goats;75.52631578947368
+Levon Vincent;75.5
+SeeYouSpaceCowboy;75.5
+I Don't Know How But They Found Me;75.5
+Sui Zhen;75.5
+Saxon;75.5
+In Solitude;75.5
+Koi Child;75.5
+Steffi;75.5
+Hank Williams III;75.5
+Lawrence English;75.5
+KORT;75.5
+Seoul;75.5
+MIEN;75.5
+Slikback;75.5
+Happy Birthday;75.5
+Kool Moe Dee;75.5
+Sannhet;75.5
+Kevin Morby;75.5
+Koop;75.5
+Retox;75.5
+Ã˜;75.5
+Seu Jorge;75.5
+Siobhan Wilson;75.5
+Seekae;75.5
+Gogol Bordello;75.5
+Sampa The Great;75.5
+Jamie T;75.5
+Sonic Jesus;75.5
+Sly & The Family Stone;75.5
+Shack;75.5
+Loraine James;75.5
+RÃ¶yksopp & Robyn;75.5
+Steve Moore;75.5
+MMOTHS;75.5
+Sand Circles;75.5
+Indoor Pets;75.5
+Set Fire To Flames;75.5
+Korallreven;75.5
+Swan Lake;75.5
+Jana Rush;75.5
+Junk Drawer;75.5
+Jherek Bischoff;75.5
+Little Women;75.5
+Strange Ranger;75.5
+Hebronix;75.5
+Kim Gordon;75.5
+Saintseneca;75.5
+Sven Wunder;75.5
+Lucinda Chua;75.5
+Kilchhofer;75.5
+Lowtec;75.5
+Jank;75.5
+John Anderson;75.5
+Helloween;75.5
+Lift To Experience;75.5
+Symmetry;75.5
+Gord Downie;75.5
+Jeff Parker;75.5
+Lo Fidelity Allstars;75.5
+Injury Reserve;75.5
+Rosie Lowe;75.5
+July Talk;75.5
+Sote;75.5
+Lawrence Arabia;75.5
+Hater;75.5
+Kid Wave;75.5
+Jawbreaker;75.5
+King Khan and the Shrines;75.5
+Spirit Adrift;75.5
+Junior Senior;75.5
+Gregory & The Hawk;75.5
+Legowelt;75.5
+L'orange;75.5
+Sepehr;75.5
+J Hus;75.5
+Lia Ices;75.5
+Jeremy Cunningham;75.5
+All Pigs Must Die;75.5
+Gobby;75.5
+Antipop Consortium;75.5
+Natalie Hemby;75.5
+The Animals;75.5
+Weki Meki;75.5
+Another Sky;75.5
+Matt Nathanson;75.5
+Dessa;75.5
+The Barr Brothers;75.5
+Posse;75.5
+Reol;75.5
+Foot Village;75.5
+Alela Diane;75.5
+BUMPER;75.5
+Elaquent;75.5
+The Mattson 2;75.5
+OM;75.5
+Florida Man;75.5
+Bogdan Raczynski;75.5
+Couch Slut;75.5
+Counterfeit;75.5
+Ari Lennox;75.5
+Fire! Orchestra;75.5
+Nathan Salsburg;75.5
+Mantronix;75.5
+Frankie Rose and the Outs;75.5
+Clipse;75.5
+Clipd Beaks;75.5
+ANOHNI;75.5
+Andrew Combs;75.5
+Ane Brun;75.5
+Chronixx;75.5
+Thanya Iyer;75.5
+Nina Keith;75.5
+Chumped;75.5
+Thrice;75.5
+Nina Kraviz;75.5
+The Long Winters;75.5
+PWR BTTM;75.5
+Anjou;75.5
+Ben Seretan;75.5
+This Routine Is Hell;75.5
+Freeman;75.5
+Mansionair;75.5
+W. H. Lung;75.5
+The Magic Gang;75.5
+Pops Staples;75.5
+Aaron Lee Tasjan;75.5
+Park Jiha;75.5
+Puppy;75.5
+Nation of Language;75.5
+Chris Carter;75.5
+Biochip;75.5
+Vaura;75.5
+Probot;75.5
+Evangelista;75.5
+Death Vessel;75.5
+Evan Caminiti;75.5
+Black Cilice;75.5
+Marmozets;75.5
+Avec le Soleil Sortant de sa Bouche;75.5
+Midnight;75.5
+New Radicals;75.5
+Marriages;75.5
+Demen;75.5
+Essaie Pas;75.5
+Bicep;75.5
+Esben And The Witch / Thought Forms;75.5
+Errorsmith;75.5
+Bill Baird;75.5
+Neon Neon;75.5
+The Devil Makes Three;75.5
+DeVotchKa;75.5
+Emma Louise;75.5
+The Deslondes;75.5
+Mastersystem;75.5
+Dan Bodan;75.5
+Damon Albarn;75.5
+Black Stone Cherry;75.5
+The Tuss;75.5
+Crippled Black Phoenix;75.5
+Open Mike Eagle;75.5
+Crumb;75.5
+Elizabeth Cook;75.5
+Nivhek;75.5
+The Buttertones;75.5
+Current Affairs;75.5
+Navy Blue;75.5
+Orchestra Baobab;75.5
+Ora Cogan;75.5
+Alex Cameron;75.5
+Pretty Vicious;75.5
+At The Gates;75.5
+The Clash;75.5
+Whiskeytown;75.5
+DJ Python;75.5
+Vader;75.5
+Wilderness;75.5
+Raime;75.5
+Valet;75.5
+Chris Forsyth;75.5
+Emotional Oranges;75.5
+Cat's Eyes;75.5
+The Knocks;75.5
+Chad VanGaalen;75.5
+Tanya Tagaq;75.5
+Cadence Weapon;75.5
+The Julie Ruin;75.5
+Papoose;75.5
+Bell Biv DeVoe;75.5
+Turinn;75.5
+Catholic Action;75.5
+E-Saggila;75.5
+Quincy Jones;75.5
+Gangrene;75.5
+R+R=NOW;75.5
+Tropic of Cancer;75.5
+Akercocke;75.5
+Akasha System;75.5
+Troyka;75.5
+Taylor Deupree;75.5
+Garganjua;75.5
+Topdown Dialectic;75.5
+Pinegrove;75.5
+The Lawrence Arms;75.5
+CHAI;75.5
+Gary Wilson;75.5
+Tim Baker;75.5
+Mutual Benefit;75.5
+Rendez-Vous;75.5
+Rays;75.5
+Dry Cleaning;75.5
+Calva Louise;75.5
+CCFX;75.5
+Buzzcocks;75.5
+Beabadoobee;75.5
+AltÄ±n GÃ¼n;75.5
+Peggy Gou;75.5
+The Gothic Archies;75.5
+Belbury Poly;75.5
+Tortoise;75.5
+Nadine Shah;75.5
+Off With Their Heads;75.5
+The Clientele;75.42857142857143
+Actress;75.41666666666667
+GusGus;75.41666666666667
+Wolf Parade;75.41666666666667
+Hauschka;75.41666666666667
+Ben Frost;75.41666666666667
+No Age;75.41666666666667
+Sarah Jarosz;75.4
+Wrekmeister Harmonies;75.4
+Devendra Banhart;75.4
+The Black Dahlia Murder;75.38888888888889
+Ben Kweller;75.375
+LÃ¥psley;75.375
+The Necks;75.375
+Allie X;75.375
+Lightning Bolt;75.375
+Torche;75.375
+Rian Treanor;75.33333333333333
+Pigs Pigs Pigs Pigs Pigs Pigs Pigs;75.33333333333333
+Deltron 3030;75.33333333333333
+Eartheater;75.33333333333333
+Death From Above;75.33333333333333
+Yoko Ono/Plastic Ono Band;75.33333333333333
+Mr. Lif;75.33333333333333
+Pye Corner Audio;75.33333333333333
+Don Henley;75.33333333333333
+Neutral Milk Hotel;75.33333333333333
+Moloko;75.33333333333333
+HAIM;75.33333333333333
+Oddisee;75.3
+clipping.;75.3
+Doves;75.3
+Caspian;75.3
+dEUS;75.28571428571429
+Aphex Twin;75.26923076923077
+Marisa Anderson;75.25
+Dumbo Gets Mad;75.25
+The Monkees;75.25
+Alva Noto + Ryuichi Sakamoto;75.25
+SlÃ¸tface;75.25
+Volcano Choir;75.25
+Galactic;75.25
+Alex Lahey;75.25
+Jonathan Wilson;75.25
+Mineral;75.25
+Steve Mason;75.25
+Annuals;75.25
+"Lee ""Scratch"" Perry";75.25
+Stormzy;75.25
+Makthaverskan;75.25
+Public Access T.V.;75.25
+Yorkston / Thorne / Khan;75.25
+Mutoid Man;75.25
+Rotting Christ;75.25
+Drowse;75.25
+Bill Wells & Aidan Moffat;75.25
+The Pierces;75.25
+G Perico;75.25
+Ex Hex;75.25
+Gnarls Barkley;75.25
+Josephine Foster;75.25
+Out Hud;75.25
+TNGHT;75.25
+Photek;75.25
+La Femme;75.25
+Lewis;75.25
+Marlon Williams;75.25
+Dragged Into Sunlight;75.25
+The Cactus Blossoms;75.25
+Paul Weller;75.25
+Photay;75.25
+Odonis Odonis;75.25
+Rosanne Cash;75.25
+Channel Tres;75.25
+Syd Arthur;75.25
+Tomb Mold;75.25
+Claude Speeed;75.25
+Aaron Dilloway;75.25
+John Murry;75.25
+Jam City;75.25
+The Velvet Underground;75.25
+Brothers Osborne;75.25
+Pottery;75.25
+Final Fantasy;75.25
+Artificial Brain;75.25
+Telefon Tel Aviv;75.25
+Yazoo;75.25
+Wilsen;75.25
+The Church;75.21428571428571
+Arctic Monkeys;75.21428571428571
+Zola Jesus;75.21428571428571
+Field Music;75.21428571428571
+The Breeders;75.2
+St Germain;75.16666666666667
+Phew;75.16666666666667
+Elvis Costello & The Imposters;75.16666666666667
+The Juan MacLean;75.16666666666667
+Smith Westerns;75.16666666666667
+J Mascis;75.16666666666667
+Courtney Marie Andrews;75.16666666666667
+Sunwatchers;75.16666666666667
+Colter Wall;75.16666666666667
+Octo Octa;75.16666666666667
+DIIV;75.16666666666667
+Jefferson Airplane;75.14285714285714
+Patti Smith;75.14285714285714
+Todd Rundgren;75.14285714285714
+Lower Dens;75.125
+Josh Rouse;75.125
+Gold Panda;75.125
+Bohren & Der Club of Gore;75.125
+White Hills;75.125
+Sam Amidon;75.125
+MÃ˜;75.125
+Cream;75.125
+Allison Moorer;75.125
+Majical Cloudz;75.125
+Georgia Anne Muldrow;75.125
+Mercury Rev;75.11111111111111
+Dead Kennedys;75.1
+Efterklang;75.1
+Lucinda Williams;75.0909090909091
+Lucero;75.08333333333333
+Anberlin;75.08333333333333
+DAWN;75.07142857142857
+Lana Del Rey;75.07142857142857
+Destroyer;75.0625
+Suede;75.0625
+Locate S,1;75.0
+Liza Anne;75.0
+Meursault;75.0
+Dean Blunt;75.0
+Donald Fagen;75.0
+Vundabar;75.0
+Drahla;75.0
+Purling Hiss;75.0
+Secrets of the Moon;75.0
+Aereogramme;75.0
+Warpaint;75.0
+Melenas;75.0
+Zeal and Ardor;75.0
+VÃ¥r;75.0
+The Libertines;75.0
+The Moonlandingz;75.0
+Dorisburg;75.0
+Demigodz;75.0
+Dengue Fever;75.0
+A Flock of Seagulls;75.0
+The Menzingers;75.0
+Karen O & Danger Mouse;75.0
+Declan McKenna;75.0
+Berner & Curren$y;75.0
+Le Loup;75.0
+Ossuarium;75.0
+Lomelda;75.0
+Divino NiÃ±o;75.0
+Dick Diver;75.0
+Sean Price & Small Professor;75.0
+On An On;75.0
+Son Little;75.0
+Dead in the Dirt;75.0
+Broken Water;75.0
+Broken Twin;75.0
+Broadcast and the Focus Group;75.0
+Movietone;75.0
+Tiny Vipers;75.0
+Cherubs;75.0
+Mount Moriah;75.0
+Piano Magic;75.0
+Timo Maas;75.0
+Braids;75.0
+Joseph Shabason;75.0
+Skating Polly;75.0
+Thug Life;75.0
+Boston Manor;75.0
+Circle;75.0
+Jason Lytle;75.0
+Cities Aviv;75.0
+Thomas Cohen;75.0
+Claire Cronin;75.0
+Shakey Graves;75.0
+Boss Hog;75.0
+Toe;75.0
+Tom Misch & Yussef Dayes;75.0
+Ces Cru;75.0
+Tortoise & Bonnie 'Prince' Billy;75.0
+Joey Bada$$;75.0
+CMON;75.0
+Calexico & Iron and Wine;75.0
+Pinkunoizu;75.0
+CHIKA;75.0
+Totally Enormous Extinct Dinosaurs;75.0
+Alabama 3;75.0
+Tosca;75.0
+Butch Walker & the Black Widows;75.0
+Business of Dreams;75.0
+Lifted;75.0
+Buscabulla;75.0
+Akron/Family;75.0
+Carousel Kings;75.0
+One Day as a Lion;75.0
+Silent Servant;75.0
+Mree;75.0
+Bruce;75.0
+Akiko Yano;75.0
+Cende;75.0
+Outer Heaven;75.0
+Cloakroom;75.0
+Theo Parrish;75.0
+Black Moth;75.0
+Blood Ceremony;75.0
+Czardust;75.0
+Junius;75.0
+JFDR;75.0
+Necrot;75.0
+Bleed From Within;75.0
+Black Pus;75.0
+Danger Mouse and Daniele Luppi;75.0
+Mikron;75.0
+Peter Silberman;75.0
+Blu & Nottz;75.0
+Protest The Hero;75.0
+Peter Matthew Bauer;75.0
+Midlake;75.0
+David Grubbs & Taku Unami;75.0
+Ioanna Gika;75.0
+Billy Woods;75.0
+Robin Bacior;75.0
+Big Pun;75.0
+Kano;75.0
+Jack Ladder & The Dreamlanders;75.0
+The Tears;75.0
+Alejandro Escovedo;75.0
+Corridor;75.0
+Philip Jeck;75.0
+Bonny Light Horseman;75.0
+Aleksi PerÃ¤lÃ¤;75.0
+Ulthar;75.0
+Coliseum;75.0
+Ronald Bruner, Jr.;75.0
+The Wooden Sky;75.0
+Container;75.0
+Ultramarine;75.0
+Possible Humans;75.0
+Crystal Waters;75.0
+Jambinai;75.0
+Ages and Ages;75.0
+Lorde Fredd33;75.0
+Julian Lynch;75.0
+Jade Jackson;75.0
+Jade Imagine;75.0
+Bo Ningen;75.0
+Misery Index;75.0
+2 Live Crew;75.0
+Mazzy Star;75.0
+Cadet;75.0
+Baby Huey;75.0
+Ambar Lucid;75.0
+Matt Berninger;75.0
+Ghost Music;75.0
+Step Brothers;75.0
+Gregory Porter;75.0
+f(x);75.0
+The Building;75.0
+Ed Schrader's Music Beat;75.0
+Wildbirds & Peacedrums;75.0
+Sarah Harmer;75.0
+Amanda Palmer & The Grand Theft Orchestra;75.0
+Strawberry Alarm Clock;75.0
+Extreme;75.0
+Teenage Fanclub;75.0
+Ramona Falls;75.0
+East India Youth;75.0
+Holy Esque;75.0
+Earthly;75.0
+Matthew Herbert;75.0
+Bananagun;75.0
+M.O.P.;75.0
+Olden Yolk;75.0
+SÃ³ley;75.0
+Hey Rosetta!;75.0
+Good Night & Good Morning;75.0
+Fickle Friends;75.0
+Sarah Louise;75.0
+Andrea;75.0
+WayV;75.0
+Suzanne Vega;75.0
+YATTA;75.0
+Amusement Parks On Fire;75.0
+Sam Cohen;75.0
+Failure;75.0
+Atoms for Peace;75.0
+Eluveitie;75.0
+Oscar Jerome;75.0
+Will Hoge;75.0
+Mahalia;75.0
+Khana Bierbood;75.0
+George Clanton;75.0
+Love;75.0
+Malajube;75.0
+Grace Ives;75.0
+FaltyDL;75.0
+Lucy Dacus;75.0
+Richard Edwards;75.0
+SLIFT;75.0
+Acronym & Kali Malone;75.0
+Mammal Hands;75.0
+Grandbrothers;75.0
+Electric Indigo;75.0
+Masayoshi Fujita;75.0
+L. Pierre;75.0
+Heron Oblivion;75.0
+Kelly Moran;75.0
+Asher Gamedze;75.0
+Grave Pleasures;75.0
+The Body & Full of Hell;75.0
+TOMORROW X TOGETHER;75.0
+Fireboy DML;75.0
+NÃ©rija;75.0
+Hope Sandoval & The Warm Inventions;75.0
+SAYGRACE;75.0
+Rayland Baxter;75.0
+Marcus King;75.0
+ABRA;75.0
+October Drift;75.0
+Gallant;75.0
+Greet Death;75.0
+Heather Nova;75.0
+HOLY;75.0
+Lorelle Meets The Obsolete;75.0
+Fort Romeau;75.0
+Oathbreaker;75.0
+Hailey Whitters;75.0
+Hospital Ships;75.0
+Oso Oso;75.0
+Keiji Haino & Sumac;75.0
+The Herbaliser;75.0
+Estrons;75.0
+Goat Girl;75.0
+Mara Carlyle;75.0
+GABI;75.0
+BC Camplight;75.0
+Fraser A. Gorman;75.0
+A. Swayze & The Ghosts;75.0
+Alva Noto;75.0
+Aluk Todolo;75.0
+The Gentle Waves;75.0
+Football, Etc.;75.0
+Wilma Archer;75.0
+Annie;75.0
+Lower;75.0
+Owen;75.0
+Maribou State;75.0
+Manic Street Preachers;74.96153846153847
+65daysofstatic;74.92857142857143
+Pinback;74.9
+Suicidal Tendencies;74.9
+The Notwist;74.9
+TR/ST;74.875
+Villagers;74.875
+David Bazan;74.875
+Cryptopsy;74.875
+All Them Witches;74.875
+Battles;74.875
+Thom Yorke;74.875
+The Waterboys;74.875
+Liturgy;74.875
+Lambchop;74.85
+Swearin';74.83333333333333
+Gary Clark Jr.;74.83333333333333
+Belle & Sebastian;74.83333333333333
+Clarence Clarity;74.83333333333333
+St. Paul & The Broken Bones;74.83333333333333
+Butch Walker;74.83333333333333
+Belinda Carlisle;74.83333333333333
+Marie Davidson;74.83333333333333
+Ween;74.83333333333333
+Siriusmo;74.83333333333333
+Melody Gardot;74.83333333333333
+Plastikman;74.83333333333333
+Fantastic Negrito;74.83333333333333
+Cloud Nothings;74.8125
+Meat Puppets;74.8125
+Ty Segall;74.79166666666667
+MONO;74.77777777777777
+Clark;74.77777777777777
+Oneohtrix Point Never;74.76923076923077
+MotÃ¶rhead;74.76666666666667
+Robyn Hitchcock;74.75
+Katie Dey;74.75
+Wreck and Reference;74.75
+Eric Chenaux;74.75
+Shining;74.75
+Great Grandpa;74.75
+Michael Mayer;74.75
+Land of Talk;74.75
+Operators;74.75
+Dan Friel;74.75
+Black Milk;74.75
+Martha Wainwright;74.75
+Ã…rabrot;74.75
+Helena Hauff;74.75
+Gnoomes;74.75
+Auscultation;74.75
+Bombino;74.75
+Sepalcure;74.75
+Peter Perrett;74.75
+Camp Cope;74.75
+Hand Habits;74.75
+Young Galaxy;74.75
+Todd Snider;74.75
+Sacred Paws;74.75
+Tomberlin;74.75
+BAMBARA;74.75
+Kweku Collins;74.75
+Get Well Soon;74.75
+Amen Dunes;74.75
+Westkust;74.75
+Zella Day;74.75
+Soundgarden;74.75
+Kamaal Williams;74.75
+Hawkwind;74.75
+The Luyas;74.75
+SAINt JHN;74.75
+Uncommon Nasa;74.75
+Squarepusher;74.70833333333333
+The Dismemberment Plan;74.7
+Ensiferum;74.7
+Jessie Ware;74.7
+Ghostpoet;74.7
+Damien Rice;74.66666666666667
+Richard Hawley;74.66666666666667
+Sleep Party People;74.66666666666667
+JosÃ© GonzÃ¡lez;74.66666666666667
+Wu-Tang Clan;74.66666666666667
+Petite Noir;74.66666666666667
+Orbital;74.66666666666667
+Sylvan Esso;74.66666666666667
+Walls;74.66666666666667
+Melt Yourself Down;74.66666666666667
+A.C. Newman;74.66666666666667
+Radical Face;74.66666666666667
+Red Velvet;74.66666666666667
+Palehound;74.66666666666667
+Saul Williams;74.66666666666667
+Quelle Chris;74.66666666666667
+Vessel;74.66666666666667
+Robert Forster;74.66666666666667
+State Champs;74.66666666666667
+Shabazz Palaces;74.64285714285714
+The Besnard Lakes;74.625
+Dutch Uncles;74.625
+George Michael;74.625
+Shugo Tokumaru;74.625
+Mark McGuire;74.625
+Jedi Mind Tricks;74.625
+Âµ-Ziq;74.625
+Every Time I Die;74.625
+Robert Ellis;74.625
+Pissed Jeans;74.6
+Kathleen Edwards;74.6
+M. Ward;74.57142857142857
+Insomnium;74.5625
+Dolly Parton;74.5625
+Willie Nelson;74.55263157894737
+Blind Guardian;74.55
+Voivod;74.53846153846153
+Yeti Lane;74.5
+Yndi Halda;74.5
+Glass Beach;74.5
+Times New Viking;74.5
+Ulla;74.5
+LIFE;74.5
+Gum Takes Tooth;74.5
+Cannabis Corpse;74.5
+Trespassers William;74.5
+Carla Bley & Paul Haines;74.5
+Remember Remember;74.5
+Jim Croce;74.5
+LE1F;74.5
+Anna St. Louis;74.5
+TENGGER;74.5
+Frank Iero and The Patience;74.5
+Anni Rossi;74.5
+These Arms Are Snakes;74.5
+LVL Up;74.5
+Ford & Lopatin;74.5
+Caitlyn Smith;74.5
+Shirley Collins;74.5
+My Latest Novel;74.5
+Gnarwolves;74.5
+Boniface;74.5
+Ronika;74.5
+Tracey Thorn;74.5
+Joanna Gruesome;74.5
+Yola;74.5
+My Vitriol;74.5
+Four Year Strong;74.5
+Tough Age;74.5
+Coconut Records;74.5
+Golden Teacher;74.5
+CANDY;74.5
+Leo Takami;74.5
+Totally Mild;74.5
+Skott;74.5
+Jessie Reyez;74.5
+Tornado Wallace;74.5
+Ghostface Killah & Adrian Younge;74.5
+PRhyme;74.5
+Swindle;74.5
+Rostam;74.5
+Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington;74.5
+Charley Crockett;74.5
+Teen Suicide;74.5
+Swervedriver;74.5
+Tiffany Young;74.5
+Pictish Trail;74.5
+Boy Scouts;74.5
+UMFANG;74.5
+Bright Eyes;74.5
+To Rococo Rot;74.5
+Jorja Smith;74.5
+Zu;74.5
+Gambles;74.5
+Anathallo;74.5
+Brandy;74.5
+Air Waves;74.5
+Gregg Kowalsky;74.5
+Sioux Falls;74.5
+Gabriella Cohen;74.5
+Tender;74.5
+Bowery Electric;74.5
+Red Axes;74.5
+Ruston Kelly;74.5
+Rozi Plain;74.5
+Toothgrinder;74.5
+LA Priest;74.5
+Jesus Piece;74.5
+The Acid;74.5
+You'll Never Get to Heaven;74.5
+Buddy;74.5
+Josin;74.5
+Rozwell Kid;74.5
+Obituary;74.5
+Phon.o;74.5
+Tanya Tucker;74.5
+Alina Baraz & Galimatias;74.5
+Tonik Ensemble;74.5
+Moonface & Siinai;74.5
+X Japan;74.5
+Lakker;74.5
+Amirtha Kidambi & Elder Ones;74.5
+Chubby and The Gang;74.5
+Jay Daniel;74.5
+Jeremy Messersmith;74.5
+Botanist;74.5
+bdrmm;74.5
+Lilly Hiatt;74.5
+Dis Fig;74.5
+Insecure Men;74.5
+The Dean Ween Group;74.5
+Zeroh;74.5
+Whitehorse;74.5
+Lone Taxidermist;74.5
+Hoops;74.5
+Soilwork;74.5
+Avi Buffalo;74.5
+Adia Victoria;74.5
+Domenique Dumont;74.5
+Hen Ogledd;74.5
+Beherit;74.5
+Dirty Projectors;74.5
+Killer Be Killed;74.5
+Inquisition;74.5
+Kamelot;74.5
+AceMoMa;74.5
+The Pollyseeds;74.5
+Little Simz;74.5
+David Byrne & St. Vincent;74.5
+Vic Spencer & Chris Crack;74.5
+Meilyr Jones;74.5
+Helen;74.5
+Darlingside;74.5
+Euros Childs;74.5
+Author & Punisher;74.5
+Black Eyes;74.5
+KRS-One;74.5
+Eve Owen;74.5
+Soakie;74.5
+Djrum;74.5
+Absolutely Free;74.5
+Beatrice Dillon;74.5
+Dirty Beaches;74.5
+Alias;74.5
+8Ball & MJG;74.5
+Sonny Sharrock;74.5
+Elder;74.5
+Best Friends;74.5
+Say Lou Lou;74.5
+Men Without Hats;74.5
+The Midnight Hour;74.5
+Lo-Pan;74.5
+The Field Mice;74.5
+Benjamin Booker;74.5
+Robert Palmer;74.5
+Devin Townsend;74.5
+Karenn;74.5
+Stef Chura;74.5
+Badge Ã‰poque Ensemble;74.5
+Delia Gonzalez;74.5
+Del the Funky Homosapien & Amp Live;74.5
+The Death Set;74.5
+Diablo Swing Orchestra;74.5
+Deena Abdelwahed;74.5
+The Folk Implosion;74.5
+Bandit;74.5
+Beth Jeans Houghton & The Hooves of Destiny ;74.5
+Bettye LaVette;74.5
+Pessimist;74.5
+Dinosaur Pile-Up;74.5
+Death Angel;74.5
+Lorn;74.5
+Indochine;74.5
+BADBADNOTGOOD & Ghostface Killah;74.5
+Emmylou Harris & Rodney Crowell;74.5
+BABii, Kai Whiston, Iglooghost;74.5
+Berner & Mozzy;74.5
+Meg Baird & Mary Lattimore;74.5
+Slug;74.5
+Horseback;74.5
+Doug Paisley;74.5
+KAINA;74.5
+Downtown Boys;74.5
+Slow Pulp;74.5
+Queen Zee;74.5
+Kiwi Jr.;74.5
+The Gutter Twins;74.5
+Beach Bunny;74.5
+Starkey;74.5
+Rolling Blackouts Coastal Fever;74.5
+Bob Weir;74.5
+Jaime Wyatt;74.5
+Crazy P;74.5
+Julia Shapiro;74.5
+The Body & Thou;74.5
+Fennesz & Sakamoto;74.5
+Keeley Forsyth;74.5
+Coves;74.5
+Wintersun;74.5
+Wolf Eyes;74.5
+Jamaican Queens;74.5
+Country Westerns;74.5
+Body Meat;74.5
+A Girl Called Eddy;74.5
+Wormrot;74.5
+Moddi;74.5
+Fly Pan Am;74.5
+Modern English;74.5
+Hailu Mergia;74.5
+Foodman;74.5
+Julien Chang;74.5
+The Essex Green;74.5
+The Highwomen;74.5
+Astronautalis;74.5
+August Greene;74.5
+Lucki;74.5
+Zaz;74.5
+JÃ³nsi;74.5
+Blanck Mass;74.5
+Peverelist;74.5
+Primitive Man;74.5
+Baths;74.5
+Street Sects;74.5
+Katie Gately;74.5
+Smoulder;74.5
+Mind Over Mirrors;74.5
+DoseOne;74.5
+The Go! Team;74.5
+Faith Healer;74.5
+Ustad Saami;74.5
+Kings of Convenience;74.5
+CÅ“ur De Pirate;74.5
+Fear of Men;74.5
+Sean Nicholas Savage;74.5
+Unsane;74.5
+Junior Boys;74.5
+Hudson;74.5
+Nazar;74.5
+Open Mike Eagle & Paul White;74.5
+Lucy Hale;74.5
+Leif;74.5
+Eluvium;74.4375
+The Magnetic Fields;74.41666666666667
+Roots Manuva;74.41666666666667
+Kaitlyn Aurelia Smith;74.4
+Raphael Saadiq;74.4
+Flying Saucer Attack;74.4
+The Kills;74.4
+Franz Ferdinand;74.4
+Tift Merritt;74.4
+Mojave 3;74.375
+Rival Consoles;74.375
+Delicate Steve;74.375
+Neil Cicierega;74.375
+Robert Plant;74.375
+Homeboy Sandman;74.35714285714286
+King Gizzard and the Lizard Wizard;74.35714285714286
+Jolie Holland;74.33333333333333
+Tourist;74.33333333333333
+Lucrecia Dalt;74.33333333333333
+Brigid Mae Power;74.33333333333333
+Silver Apples;74.33333333333333
+Title Fight;74.33333333333333
+Young Widows;74.33333333333333
+The Duke Spirit;74.33333333333333
+Nick Waterhouse;74.33333333333333
+Blank Realm;74.33333333333333
+Autolux;74.33333333333333
+Dan Mangan;74.33333333333333
+Baxter Dury;74.33333333333333
+Ital;74.33333333333333
+Acid King;74.33333333333333
+Gaz Coombes;74.33333333333333
+2814;74.33333333333333
+Dedekind Cut;74.33333333333333
+Jason Collett;74.33333333333333
+While She Sleeps;74.33333333333333
+Squeeze;74.33333333333333
+Kota the Friend;74.33333333333333
+Freddie Gibbs;74.33333333333333
+Phoenix;74.33333333333333
+Tony Molina;74.33333333333333
+Rancid;74.33333333333333
+Patrick Watson;74.3
+Man Man;74.3
+Patrick Wolf;74.3
+Peaking Lights;74.3
+Special Request;74.3
+Goldfrapp;74.28571428571429
+Royal Trux;74.28571428571429
+Neil Finn;74.25
+Uniform & The Body;74.25
+OHMME;74.25
+Kevin Drew;74.25
+Novella;74.25
+Bad Company;74.25
+Tristen;74.25
+Paul Simon;74.25
+Olga Bell;74.25
+Julie Byrne;74.25
+Shelby Lynne;74.25
+K'Naan;74.25
+Karriem Riggins;74.25
+SHXCXCHCXSH;74.25
+SebastiAn;74.25
+Parkay Quarts;74.25
+Kate NV;74.25
+Bjarki;74.25
+Yves Jarvis;74.25
+Gallows;74.25
+Exitmusic;74.25
+Raleigh Ritchie;74.25
+Syd Barrett;74.25
+Chastity Belt;74.25
+Orville Peck;74.25
+Hanson;74.25
+Fews;74.25
+Dire Straits;74.25
+The LimiÃ±anas;74.25
+Mala;74.25
+Ibeyi;74.25
+TesseracT;74.25
+Department of Eagles;74.25
+Local Natives;74.25
+Field Report;74.25
+Deeper;74.25
+Puce Mary;74.25
+Lindi Ortega;74.25
+Lizzo;74.25
+The New Year;74.25
+Micah P. Hinson;74.25
+The Amazing;74.25
+Psapp;74.25
+Darkest Hour;74.25
+J. Tillman;74.25
+Milk Teeth;74.25
+The Bats;74.25
+Prinzhorn Dance School;74.25
+Eyedea & Abilities;74.25
+Daniel Blumberg;74.25
+Jim Noir;74.25
+Carla dal Forno;74.25
+Loyle Carner;74.25
+Higher Power;74.25
+Emeralds;74.25
+Glasser;74.25
+A Hawk and a Hacksaw;74.25
+Luke Temple;74.16666666666667
+Future Islands;74.16666666666667
+Big Deal;74.16666666666667
+Yuna;74.16666666666667
+Ã“lafur Arnalds;74.16666666666667
+Jim James;74.16666666666667
+Laura Gibson;74.16666666666667
+Wolves in the Throne Room;74.16666666666667
+Real Estate;74.16666666666667
+Equiknoxx;74.16666666666667
+Meat Beat Manifesto;74.16666666666667
+SZA;74.16666666666667
+Sunflower Bean;74.16666666666667
+Pelican;74.16666666666667
+The Cardigans;74.16666666666667
+Algiers;74.16666666666667
+Madonna;74.14285714285714
+Ultravox;74.14285714285714
+Pulp;74.14285714285714
+Cursive;74.14285714285714
+Kurt Vile;74.13636363636364
+Tedeschi Trucks Band;74.125
+The Leisure Society;74.125
+Slick Rick;74.125
+Beak>;74.125
+Matmos;74.125
+Sarah Davachi;74.1
+Speedy Ortiz;74.1
+Thao & the Get Down Stay Down;74.1
+Hammock;74.1
+New York Dolls;74.1
+Melt-Banana;74.1
+Scout Niblett;74.1
+Supergrass;74.08333333333333
+Ron Sexsmith;74.08333333333333
+Gruff Rhys;74.08333333333333
+The Sound;74.08333333333333
+Half Japanese;74.07142857142857
+Missy Elliott;74.07142857142857
+Bonobo;74.07142857142857
+Porcupine Tree;74.05
+The Kinks;74.02941176470588
+Mike Patton;74.0
+Marlowe;74.0
+Eleanor Friedberger;74.0
+Daphne & Celeste;74.0
+Haley Bonar;74.0
+The Nels Cline Singers;74.0
+Weval;74.0
+The Pastels;74.0
+Black Dice;74.0
+Louis Cole;74.0
+Nurse with Wound;74.0
+The Sight Below;74.0
+Sauna Youth;74.0
+Filter Dread;74.0
+David Rawlings;74.0
+Immune;74.0
+The Shoes;74.0
+The Big Moon;74.0
+Aero Flynn;74.0
+The Rural Alberta Advantage;74.0
+Michael Chapman;74.0
+Mariah The Scientist;74.0
+Helms Alee;74.0
+Ryat;74.0
+Other Lives;74.0
+moe.;74.0
+Landshapes;74.0
+Ryoji Ikeda;74.0
+Black Bananas;74.0
+Black Belt Eagle Scout;74.0
+Ayreon;74.0
+Acid Pauli;74.0
+Dead Man's Bones;74.0
+Psychic Twin;74.0
+Selah Sue;74.0
+Ayumi Hamasaki;74.0
+Woman's Hour;74.0
+Halls;74.0
+Bad History Month;74.0
+The Mavericks;74.0
+Harlem;74.0
+Dos Monos;74.0
+Howling;74.0
+Beach Fossils;74.0
+Faraquet;74.0
+Nicole Atkins;74.0
+The Congos / Sun Araw / M. Geddes Gengras;74.0
+Lord Vicar;74.0
+Sea Change;74.0
+Sd Laika;74.0
+Alice Boman;74.0
+Du Blonde;74.0
+Fallujah;74.0
+School of Language;74.0
+Max D;74.0
+Dylan Carlson;74.0
+Hate Eternal;74.0
+Ñ‚Ð¿ÑÐ±;74.0
+Mark Lanegan & Duke Garwood;74.0
+Rainbow Kitten Surprise;74.0
+Wild Pink;74.0
+EARTHGANG;74.0
+ECCO2K;74.0
+The Flatliners;74.0
+Earthen Sea;74.0
+We Were Promised Jetpacks;74.0
+Balam Acab;74.0
+Scott & Charlene's Wedding;74.0
+Asobi Seksu;74.0
+Dopplereffekt;74.0
+Elastica;74.0
+The Bug vs Earth;74.0
+Hannah Cohen;74.0
+Field Mouse;74.0
+DevilDriver;74.0
+Say Sue Me;74.0
+Karnivool;74.0
+Nothing;74.0
+Lou Barlow;74.0
+Matthew Dear;74.0
+Diamond Youth;74.0
+The Courtneys;74.0
+Melkbelly;74.0
+Perel;74.0
+Kim Wilde;74.0
+Ben Folds Five;74.0
+Lolo ZouaÃ¯;74.0
+Loma;74.0
+Wen;74.0
+Saosin;74.0
+The Sisters of Mercy;74.0
+Fenster;74.0
+The Ladybug Transistor;74.0
+Mega Bog;74.0
+Ex Cops;74.0
+Nickel Creek;74.0
+Human Impact;74.0
+Sports Team;74.0
+The Budos Band;74.0
+Shocking Pinks;74.0
+Antarctigo Vespucci;74.0
+Kode9 & the Spaceape;74.0
+Tash Sultana;74.0
+Shanti Celeste;74.0
+MC Eiht;74.0
+Trudy And The Romance;74.0
+Charlotte Day Wilson;74.0
+NZCA Lines;74.0
+Sinistro;74.0
+Georgia;74.0
+Chris Reimer;74.0
+Charles Watson;74.0
+Oh No Ono;74.0
+Cellars;74.0
+NOCTURNUS AD;74.0
+Toni Braxton & Babyface;74.0
+Jerskin Fendrix;74.0
+Magdalena Bay;74.0
+Cheatahs;74.0
+Pianos Become The Teeth;74.0
+Orthrelm;74.0
+Shannon Shaw;74.0
+Yak;74.0
+Chester Watson;74.0
+Brett Naucke;74.0
+Chicago Underground Duo;74.0
+sleepmakeswaves;74.0
+Motion Graphics;74.0
+Sir Babygirl;74.0
+The Skiffle Players;74.0
+Jean-Michel Blais & CFCF;74.0
+Brandon Coleman;74.0
+P. ADRIX;74.0
+Morphine;74.0
+Jerusalem In My Heart;74.0
+Playboi Carti;74.0
+NE-HI;74.0
+Canned Heat;74.0
+Alan Jackson;74.0
+Shobaleader One;74.0
+Alan Vega;74.0
+Godthrymm;74.0
+Mute Duo;74.0
+TT;74.0
+Tracy Chapman;74.0
+TVAM;74.0
+Muncie Girls;74.0
+Candlebox;74.0
+Joan As Police Woman;74.0
+Treetop Flyers;74.0
+All Natural Lemon & Lime Flavors;74.0
+THEY.;74.0
+Buzzy Lee;74.0
+Buck Meek;74.0
+Ren Harvieu;74.0
+Gong Gong Gong å·¥å·¥å·¥;74.0
+Buttechno;74.0
+Mac McCaughan;74.0
+John Legend & The Roots;74.0
+Macintosh Plus;74.0
+Shell Of A Shell;74.0
+Talvin Singh;74.0
+Sigrid;74.0
+Gia Margaret;74.0
+Amateur Best;74.0
+Cassowary;74.0
+Jessica Moss;74.0
+Cat Power;74.0
+Tiger & Woods;74.0
+Les Amazones d'Afrique;74.0
+Christelle Bofale;74.0
+LindstrÃ¸m & Prins Thomas;74.0
+Current Joys;74.0
+Jack White;74.0
+Wussy;74.0
+Miracle Fortress;74.0
+Blue Iverson;74.0
+Pharmakon;74.0
+Unloved;74.0
+Luthorist;74.0
+United Nations;74.0
+Prawn;74.0
+Susanna;74.0
+Pram;74.0
+Seun Kuti & Egypt 80;74.0
+Wynonna & The Big Noise;74.0
+Preservation Hall Jazz Band;74.0
+Supercrush;74.0
+Angelo De Augustine;74.0
+En Attendant Ana;74.0
+Rocket from the Crypt;74.0
+The Smith Street Band;74.0
+Africaine 808;74.0
+Parlor Walls;74.0
+Vancouver Sleep Clinic;74.0
+Foxes In Fiction;74.0
+Nedry;74.0
+Blind Pilot;74.0
+JARV IS...;74.0
+Answer Code Request;74.0
+Frances Quinlan;74.0
+Priests;74.0
+DJ Paypal;74.0
+700 Bliss;74.0
+On The Might Of Princes;74.0
+MammÃºt;74.0
+The Wallflowers;74.0
+Aidan Knight;74.0
+Grant-Lee Phillips;74.0
+Boy Harsher;74.0
+Ouri;74.0
+Chrome Sparks;74.0
+Rose Elinor Dougall;74.0
+Clap! Clap!;74.0
+Greys;74.0
+And The Kids;74.0
+Terrace Martin;74.0
+Richard Devine;74.0
+Club Night;74.0
+Them Crooked Vultures;74.0
+21 Savage, Offset & Metro Boomin;74.0
+Empath;74.0
+Sextile;74.0
+Ryan Bingham;74.0
+The Wrecks;74.0
+Modern Nature;74.0
+The Weepies;74.0
+Agoraphobic Nosebleed;74.0
+Bomba EstÃ©reo;74.0
+Thaiboy Digital;74.0
+The Flaming Lips;73.95
+Joni Mitchell;73.94736842105263
+The Thermals;73.92857142857143
+Wye Oak;73.92857142857143
+Wand;73.91666666666667
+Plaid;73.91666666666667
+Mac DeMarco;73.91666666666667
+Jean-Michel Jarre;73.9
+White Fence;73.9
+No Joy;73.9
+Hundred Waters;73.875
+Tunng;73.875
+Molly Nilsson;73.875
+American Football;73.875
+Johnny Flynn;73.83333333333333
+White Rabbits;73.83333333333333
+Micachu and the Shapes;73.83333333333333
+Great Lake Swimmers;73.83333333333333
+Whirr;73.83333333333333
+Jason Molina;73.83333333333333
+Monolord;73.83333333333333
+DJ Jazzy Jeff & The Fresh Prince;73.83333333333333
+Basia Bulat;73.83333333333333
+Fanfarlo;73.83333333333333
+How to Dress Well;73.83333333333333
+Kevin Abstract;73.83333333333333
+RÃ¶yksopp;73.8
+Daedelus;73.8
+Candlemass;73.79166666666667
+The Apples In Stereo;73.78571428571429
+David Bowie;73.76
+Hercules and Love Affair;73.75
+Shannon Lay;73.75
+Institute;73.75
+Wishbone Ash;73.75
+Too $hort;73.75
+Mudcrutch;73.75
+Cross Record;73.75
+Wolf People;73.75
+Tuxedo;73.75
+Oneida;73.75
+Ulrika Spacek;73.75
+suicideyear;73.75
+The Invisible;73.75
+Conor Oberst;73.75
+Zammuto;73.75
+Intervals;73.75
+Lucy Rose;73.75
+Flight of the Conchords;73.75
+Jagwar Ma;73.75
+Slow Club;73.75
+Gotan Project;73.75
+Dan Auerbach;73.75
+H Hawkline;73.75
+DM Stith;73.75
+The Struts;73.75
+Curtis Harding;73.75
+Rodriguez;73.75
+Fred Thomas;73.75
+Anna Wise;73.75
+Katie Von Schleicher;73.75
+Jamie Isaac;73.75
+Los Angeles Police Department;73.75
+ceo;73.75
+Ali Shaheed Muhammad & Adrian Younge;73.75
+The Dodos;73.75
+Khruangbin;73.75
+Helado Negro;73.75
+RP Boo;73.75
+The Dresden Dolls;73.75
+CHVRCHES;73.75
+Earth, Wind & Fire;73.75
+THEESatisfaction;73.75
+Nikki Lane;73.75
+Pearson Sound;73.75
+True Widow;73.75
+Jaye Jayle;73.75
+Pitty;73.75
+Maxo Kream;73.75
+The Brian Jonestown Massacre;73.73529411764706
+Metallica;73.72727272727273
+The Doors;73.72222222222223
+Thurston Moore;73.71428571428571
+Circa Survive;73.7
+Dum Dum Girls;73.7
+Troye Sivan;73.7
+HEALTH;73.7
+The Veils;73.7
+Lapalux;73.7
+Wooden Shjips;73.7
+Justin Townes Earle;73.6875
+Norah Jones;73.6875
+Amon Amarth;73.68181818181819
+KEN mode;73.66666666666667
+Jaga Jazzist;73.66666666666667
+Jenny Lewis;73.66666666666667
+Shovels & Rope;73.66666666666667
+The Jezabels;73.66666666666667
+Thou;73.66666666666667
+The Sugarcubes;73.66666666666667
+Advance Base;73.66666666666667
+Grumbling Fur;73.66666666666667
+Titus Andronicus;73.66666666666667
+AlunaGeorge;73.66666666666667
+Memory Tapes;73.66666666666667
+DÃ¢m-Funk;73.66666666666667
+Kelley Stoltz;73.66666666666667
+Handsome Furs;73.66666666666667
+Manu Chao;73.66666666666667
+Oozing Wound;73.66666666666667
+Kayo Dot;73.64285714285714
+Merchandise;73.625
+GoGo Penguin;73.625
+A Sunny Day in Glasgow;73.625
+Rufus Wainwright;73.625
+Girlpool;73.625
+Active Child;73.625
+Murs & 9th Wonder;73.625
+Ghostface Killah;73.625
+Tamaryn;73.625
+Ulrich Schnauss;73.625
+Fionn Regan;73.6
+Eisley;73.6
+Norma Jean;73.6
+Beirut;73.57142857142857
+U2;73.57142857142857
+Dungen;73.5625
+Cass McCombs;73.55555555555556
+Lightships;73.5
+Mykki Blanco;73.5
+Polo G;73.5
+Ola Podrida;73.5
+Mylo;73.5
+Myrkur;73.5
+Pieta Brown;73.5
+Madeline Kenney;73.5
+Madness;73.5
+Pillar Point;73.5
+Ohtis;73.5
+Royal Thunder;73.5
+Letherette;73.5
+Sad13;73.5
+Morabeza Tobacco;73.5
+Negative Gemini;73.5
+Rosetta;73.5
+Poppy Ackroyd;73.5
+Pan Daijing;73.5
+Larkin Poe;73.5
+Robert Haigh;73.5
+London Grammar;73.5
+Liam Finn;73.5
+Pepe DeluxÃ©;73.5
+S U R V I V E;73.5
+SOAK;73.5
+Penguin Cafe;73.5
+Penelope Isles;73.5
+Patsy Cline;73.5
+Mayhem;73.5
+Laura Cantrell;73.5
+Peel Dream Magazine;73.5
+Orenda Fink;73.5
+Laurence Pike;73.5
+Nipsey Hussle;73.5
+Mary Halvorson;73.5
+Rachael Yamagata;73.5
+Metronomy;73.5
+Petal;73.5
+Robin S.;73.5
+Milk Music;73.5
+Monsters of Folk;73.5
+Mondkopf;73.5
+Paramore;73.5
+Lake Street Dive;73.5
+Romeo Santos;73.5
+Mister Heavenly;73.5
+Man Forever;73.5
+Pharaohs;73.5
+Rips;73.5
+PS I Love You;73.5
+Miles Kurosky;73.5
+Margaret Glaspy;73.5
+Margot & The Nuclear So And So's;73.5
+Richard Swift;73.5
+Prodigy & Alchemist;73.5
+Mikaela Davis;73.5
+Nellie McKay;73.5
+Midland;73.5
+ë°• í˜œì§„ [Park Hye Jin];73.5
+P.E.;73.5
+Diddy & Dirty Money;73.5
+Jonwayne;73.5
+The Civil Wars;73.5
+Fenne Lily;73.5
+Fernanda Abreu;73.5
+Film School;73.5
+Fine Young Cannibals;73.5
+Flea;73.5
+Alexander Tucker;73.5
+Foxing;73.5
+The Armed;73.5
+Free Cake For Every Creature;73.5
+Froth;73.5
+Shemekia Copeland;73.5
+Fugees;73.5
+Alessi's Ark;73.5
+Full of Hell & Merzbow;73.5
+Shintaro Sakamoto;73.5
+Shopping;73.5
+Future Bible Heroes;73.5
+Gemma Ray;73.5
+The Cleaners From Venus;73.5
+FACS;73.5
+Kali Uchis;73.5
+Ensemble Pearl;73.5
+Dasher;73.5
+Date Palms;73.5
+Dave Depper;73.5
+Dave East & Styles P;73.5
+Slim Thug;73.5
+The Morning Benders;73.5
+Destruction Unit;73.5
+Dimmu Borgir;73.5
+Dizzy;73.5
+Dream State;73.5
+Duma;73.5
+E.M.M.A.;73.5
+EL VY;73.5
+Ed Harcourt;73.5
+2nd Grade;73.5
+Yohuna;73.5
+Eight Rounds Rapid;73.5
+Electric Eye;73.5
+Emily King;73.5
+Ghost;73.5
+rRoxymore;73.5
+Joanna Sternberg;73.5
+Ghost Culture;73.5
+Steady Holiday;73.5
+Hooded Menace;73.5
+Stats;73.5
+Starset;73.5
+Horse Feathers;73.5
+Squirrel Flower;73.5
+Split Enz;73.5
+I Break Horses;73.5
+INHEAVEN;73.5
+AZ;73.5
+AU;73.5
+SpaceGhostPurrp;73.5
+Soviet Soviet;73.5
+Imarhan;73.5
+Sons and Daughters;73.5
+Soap&Skin;73.5
+deM atlaS;73.5
+Snoh Aalegra;73.5
+Smino;73.5
+Steel Pulse;73.5
+Steel Train;73.5
+Hiss Tracts;73.5
+Airiel;73.5
+Tamino;73.5
+Talib Kweli & Styles P;73.5
+Girls Against Boys;73.5
+Gliss;73.5
+Silverbacks;73.5
+Gold & Youth;73.5
+Aksak Maboul;73.5
+Jeremiah Jae & L'Orange;73.5
+Sweet Baboo;73.5
+Hinds;73.5
+Superorganism;73.5
+HMLTD;73.5
+Half Alive;73.5
+Hannah Diamond;73.5
+Havok;73.5
+Head Wound City;73.5
+Jehnny Beth;73.5
+Acre;73.5
+Self Esteem;73.5
+Dean Blunt & Inga Copeland;73.5
+Trash Boat;73.5
+Apparat;73.5
+Varg;73.5
+Wire;73.5
+Samantha Urbani;73.5
+Blank Dogs;73.5
+Urochromes;73.5
+Archy Marshall;73.5
+Bob Mould;73.5
+Boxed In;73.5
+Applescal;73.5
+Brian Eno, Jon Hopkins & Leo Abrahams;73.5
+Today Is The Day;73.5
+Turbowolf;73.5
+Truckfighters;73.5
+Burt Bacharach and Elvis Costello;73.5
+CKY;73.5
+Dark Dark Dark;73.5
+King Princess;73.5
+California Wives;73.5
+Camille Delean;73.5
+Carlene Carter;73.5
+Versus;73.5
+Via App;73.5
+Big Wreck;73.5
+Visigoth;73.5
+August Burns Red;73.5
+Austra;73.5
+Aztec Camera;73.5
+White Reaper;73.5
+BABii;73.5
+Baby Keem;73.5
+********;73.5
+Westerman;73.5
+Bad Rabbits;73.5
+Bad Sounds;73.5
+Weaves;73.5
+Weatherday;73.5
+Sam Beam & Jesca Hoop;73.5
+Arto Lindsay;73.5
+Wavves / Cloud Nothings;73.5
+Wanda Jackson;73.5
+Beck;73.5
+Wake Owl;73.5
+Bernice;73.5
+Chairlift;73.5
+Slime;73.5
+The Swell Season;73.5
+Cult of Youth;73.5
+YERÃ›Å ELEM;73.5
+The Virgins;73.5
+Kasper BjÃ¸rke;73.5
+Creeping Death;73.5
+Crows;73.5
+Dads;73.5
+Tirzah;73.5
+Kari Faux;73.5
+The Soundtrack of Our Lives;73.5
+DEHD;73.5
+DJ Earl;73.5
+An Isolated Mind;73.5
+DJ Taye;73.5
+The Strange Boys;73.5
+Katie Pruitt;73.5
+Xenobiotic;73.5
+Classixx;73.5
+The Whitest Boy Alive;73.5
+Tiny Little Houses;73.5
+Kanye West & Jay-Z;73.5
+Chicago;73.5
+Chris Forsyth & The Solar Motel Band;73.5
+Chris Garneau;73.5
+Chrome Canyon;73.5
+Karen Gwyer;73.5
+DJ Seinfeld;73.5
+Anenon;73.5
+The-Dream;73.5
+The Wild Feathers;73.5
+Earth;73.45
+British Sea Power;73.42857142857143
+J Dilla;73.42857142857143
+ZZ Top;73.42857142857143
+The Sea and Cake;73.42857142857143
+The Shins;73.41666666666667
+Filter;73.41666666666667
+Arab Strap;73.41666666666667
+Darkthrone;73.4090909090909
+Six Organs of Admittance;73.38888888888889
+David Gray;73.375
+Murder by Death;73.375
+Craig Finn;73.375
+The Black Keys;73.36363636363636
+Ray LaMontagne;73.35714285714286
+Sloan;73.33333333333333
+Tribulation;73.33333333333333
+Daphni;73.33333333333333
+Gordi;73.33333333333333
+The Raconteurs;73.33333333333333
+Bear in Heaven;73.33333333333333
+Happyness;73.33333333333333
+Elvis Perkins;73.33333333333333
+Strand of Oaks;73.33333333333333
+Doomtree;73.33333333333333
+Balmorhea;73.33333333333333
+BenoÃ®t Pioulard;73.33333333333333
+Mazes;73.33333333333333
+Lydia Ainsworth;73.33333333333333
+Elvis Depressedly;73.33333333333333
+Kelis;73.33333333333333
+dÃ¤lek;73.3125
+Jackson Browne;73.3
+Satyricon;73.3
+Big K.R.I.T.;73.28571428571429
+Peter Gabriel;73.27777777777777
+Rustin Man;73.25
+Kangding Ray;73.25
+Flatbush Zombies;73.25
+Fire-Toolz;73.25
+Pictureplane;73.25
+The Boy Least Likely To;73.25
+Alexandra Savior;73.25
+Factory Floor;73.25
+Fates Warning;73.25
+Fool's Gold;73.25
+Alice Bag;73.25
+David Byrne;73.25
+Abe Vigoda;73.25
+Abbath;73.25
+Eskimeaux;73.25
+Saint Vitus;73.25
+Josh T. Pearson;73.25
+Immortal Technique;73.25
+Willy Mason;73.25
+Alestorm;73.25
+Paranoid London;73.25
+Hamilton Leithauser;73.25
+Golden Retriever;73.25
+Restorations;73.25
+Yumi Zouma;73.25
+Crooked Fingers;73.25
+Anderson East;73.25
+Cabbage;73.25
+Richard Reed Parry;73.25
+Tancred;73.25
+Milo;73.25
+Ratboys;73.25
+Hands Like Houses;73.25
+Billy Bragg & Wilco;73.25
+Submotion Orchestra;73.25
+SALES;73.25
+Helios;73.25
+Lowly;73.25
+Rumer;73.25
+Pumarosa;73.25
+King Khan & BBQ Show;73.25
+Gorillaz;73.25
+Rodney Crowell;73.25
+nonkeen;73.25
+A Giant Dog;73.25
+Centro-matic;73.25
+The Good, the Bad & the Queen;73.25
+The Like;73.25
+Isobel Campbell & Mark Lanegan;73.25
+Denai Moore;73.25
+Medhane;73.25
+Snapped Ankles;73.25
+Eagulls;73.25
+The Cure;73.23076923076923
+The Mars Volta;73.21428571428571
+Passion Pit;73.2
+Holy Fuck;73.2
+Peter Broderick;73.2
+Ariana Grande;73.2
+Cornershop;73.2
+Aimee Mann;73.1875
+Old 97's;73.1875
+T. Rex;73.18181818181819
+Electronic;73.16666666666667
+The Tragically Hip;73.16666666666667
+L7;73.16666666666667
+The Helio Sequence;73.16666666666667
+Habibi;73.16666666666667
+The Sadies;73.16666666666667
+Espers;73.16666666666667
+Magik Markers;73.16666666666667
+Oceansize;73.16666666666667
+Public Service Broadcasting;73.16666666666667
+Crowded House;73.16666666666667
+Kitty;73.16666666666667
+Romare;73.16666666666667
+Kirin J Callinan;73.16666666666667
+Paradise Lost;73.16666666666667
+Sondre Lerche;73.16666666666667
+Bully;73.16666666666667
+The Skull Defekts;73.16666666666667
+JMSN;73.16666666666667
+Santigold;73.16666666666667
+...And You Will Know Us By the Trail of Dead;73.15
+Refused;73.125
+The Mynabirds;73.125
+Yelle;73.125
+Ash;73.125
+CZARFACE;73.125
+The Moody Blues;73.125
+Woods;73.125
+Mindless Self Indulgence;73.125
+Sleaford Mods;73.125
+Pink Floyd;73.11538461538461
+Liars;73.11111111111111
+Gary Numan;73.1
+Fear Factory;73.1
+Neil Young & Crazy Horse;73.1
+U.S. Girls;73.08333333333333
+Nathan Fake;73.08333333333333
+Prurient;73.08333333333333
+Steve Hauschildt;73.08333333333333
+Tennis;73.07142857142857
+Polvo;73.07142857142857
+Napalm Death;73.07142857142857
+The Strokes;73.07142857142857
+White Denim;73.05
+Pearl Jam;73.04545454545455
+Amy Ray;73.0
+Milla;73.0
+Ãsgeir;73.0
+Meat Wave;73.0
+Beth Hart & Joe Bonamassa;73.0
+DRAMA;73.0
+Gatekeeper;73.0
+Aqualung;73.0
+Life On Venus;73.0
+Once And Future Band;73.0
+Knocked Loose;73.0
+Kinski;73.0
+Real Lies;73.0
+Taken By Trees;73.0
+Kate Boy;73.0
+DIANA;73.0
+The Souljazz Orchestra;73.0
+Mini Mansions;73.0
+CÃ©notaphe;73.0
+Veruca Salt;73.0
+The Horrible Crowes;73.0
+Yugen Blakrok;73.0
+Anamanaguchi;73.0
+Joe Bonamassa;73.0
+Tasseomancy;73.0
+Madlib;73.0
+Seth Bogart;73.0
+Meg Myers;73.0
+The Lonely Forest;73.0
+Gerard Way;73.0
+THICK;73.0
+TLC;73.0
+Gidge;73.0
+Gigi Masin;73.0
+Quasi;73.0
+Vision Fortune;73.0
+The Innocence Mission;73.0
+Aluna;73.0
+Magic Circle;73.0
+Lavender Flu;73.0
+Pete and the Pirates;73.0
+Disq;73.0
+Golden Daze;73.0
+The Stroppies;73.0
+Sam Prekop;73.0
+Seaway;73.0
+2Pac;73.0
+s a r a s a r a;73.0
+Fake Blood;73.0
+Mica Levi & Oliver Coates;73.0
+Mice Parade;73.0
+Erland & The Carnival;73.0
+Martin Carr;73.0
+The Ghost of a Saber Tooth Tiger;73.0
+Allison Crutchfield;73.0
+Klara Lewis;73.0
+The Phoenix Foundation;73.0
+Etienne Jaumet;73.0
+Europe;73.0
+Rafiq Bhatia;73.0
+Pfarmers;73.0
+Apostille;73.0
+VRITRA;73.0
+Bleeding Knees Club;73.0
+Young Echo;73.0
+Josephine Wiggs;73.0
+Mary Lattimore & Mac McCaughan;73.0
+Elvis Costello & The Roots;73.0
+Jozef Van Wissem & Jim Jarmusch;73.0
+Leon Bridges;73.0
+Yoshinori Hayashi;73.0
+Ellen Arkbro;73.0
+Demons & Wizards;73.0
+O'Brother;73.0
+Ultimate Painting;73.0
+Mary Ocher;73.0
+Northern State;73.0
+Nai Palm;73.0
+Emiliana Torrini;73.0
+Masego;73.0
+Bonny Doon;73.0
+Twerps;73.0
+Blaqk Audio;73.0
+Mick Harvey;73.0
+Function;73.0
+SRSQ;73.0
+Foxboro Hot Tubs;73.0
+Amos Lee;73.0
+Trombone Shorty;73.0
+Mappe Of;73.0
+Black Honey;73.0
+Frankie Cosmos;73.0
+Frazey Ford;73.0
+Daniel Knox;73.0
+The Acorn;73.0
+Diamanda GalÃ¡s;73.0
+Frida HyvÃ¶nen;73.0
+Dananananaykroyd;73.0
+Dan Mangan & Blacksmith;73.0
+Lewis Del Mar;73.0
+Bosnian Rainbows;73.0
+Black Milk & Danny Brown;73.0
+Forth Wanderers;73.0
+Brown Bird;73.0
+Black Pumas;73.0
+Fat Boys;73.0
+Fatima Yamaha;73.0
+Jon Spencer;73.0
+The Great Old Ones;73.0
+Samantha Crain;73.0
+Curve;73.0
+NOMO;73.0
+Altopalo;73.0
+Kaitlyn Aurelia Smith & Suzanne Ciani;73.0
+The Regrettes;73.0
+4 Non Blondes;73.0
+Midwife;73.0
+070 Shake;73.0
+Drenge;73.0
+FALSE;73.0
+Pyyramids;73.0
+Sam Phillips;73.0
+Jeniferever;73.0
+Ada Lea;73.0
+Ifriqiyya Electrique;73.0
+Steve Hackett;73.0
+Bassnectar;73.0
+Chris Crack;73.0
+Adam Ant;73.0
+Zebra Katz;73.0
+Pivot Gang;73.0
+Ron Gallo;73.0
+Laurel Halo & Hodge;73.0
+Cold Beat;73.0
+NicolÃ¡ Cruz;73.0
+Baxter Dury & Ã‰tienne De CrÃ©cy & Delilah Holliday;73.0
+Adult Mom;73.0
+Mothers;73.0
+Pip Blom;73.0
+Sinkane;73.0
+Beach Baby;73.0
+Lucifer;73.0
+Royal Blood;73.0
+International Teachers of Pop;73.0
+Hayley Williams;73.0
+Whitechapel;73.0
+Sink Ya Teeth;73.0
+Harm's Way;73.0
+Orlando Weeks;73.0
+ASG;73.0
+Chris Dave and the Drumhedz;73.0
+Themselves;73.0
+Oto Hiax;73.0
+Thompson Twins;73.0
+Mumdance & Logos;73.0
+Paula Temple;73.0
+Pivot;73.0
+Sarah Mary Chadwick;73.0
+Hunx and His Punx;73.0
+Chuck Mead;73.0
+Zola Blood;73.0
+Cameron Graves;73.0
+Hooton Tennis Club;73.0
+Spielbergs;73.0
+Throw Me the Statue;73.0
+Band of Gold;73.0
+Barn Owl;73.0
+Andy Jenkins;73.0
+Spencer Radcliffe & Everyone Else;73.0
+Holograms;73.0
+Aoife O'Donovan;73.0
+SEVENTEEN;73.0
+Westside Gunn;73.0
+Ro James;73.0
+Angie McMahon;73.0
+Clearlake;73.0
+Riz Ahmed;73.0
+Ponytail;73.0
+Pond;73.0
+Aoife Nessa Frances;73.0
+Sufjan Stevens, Bryce Dessner, Nico Muhly & James McAlister;73.0
+Nicole SabounÃ©;73.0
+Swain;73.0
+WacÅ‚aw Zimpel;73.0
+ZULI;73.0
+Beatriz Ferreyra;73.0
+Patterson Hood;73.0
+Charlotte AdigÃ©ry;73.0
+Little Scream;73.0
+Orthodox;73.0
+Lim Kim;73.0
+Lionel Richie;73.0
+Trembling Bells;73.0
+Tinashe;73.0
+Grand Duchy;73.0
+Surf Curse;73.0
+Tiny Ruins;73.0
+My Sad Captains;73.0
+Trash Kit;73.0
+Surachai;73.0
+Coolio;73.0
+Roman Ã  Clef;73.0
+Sofie;73.0
+Vukovi;73.0
+Hana Vu;73.0
+Au Revoir Simone;73.0
+School of Seven Bells;73.0
+Cool Ghouls;73.0
+Ben Lukas Boysen;73.0
+Jennah Barry;73.0
+Slough Feg;73.0
+Animal Collective;72.97222222222223
+Islands;72.92857142857143
+The Cramps;72.92857142857143
+Rammstein;72.92857142857143
+Cate Le Bon;72.91666666666667
+Thursday;72.91666666666667
+Shigeto;72.9
+Electric Light Orchestra;72.9
+Defeater;72.9
+Shakira;72.88888888888889
+Eels;72.88461538461539
+The Low Anthem;72.875
+Stephen Malkmus;72.875
+Stars;72.875
+Crystal Stilts;72.875
+Have a Nice Life;72.875
+Joyce Manor;72.875
+King Tuff;72.875
+Say Anything;72.85714285714286
+Morbid Angel;72.85714285714286
+Throwing Muses;72.85714285714286
+The Sundays;72.83333333333333
+Amber Arcades;72.83333333333333
+AnastÃ¡cia;72.83333333333333
+BeyoncÃ©;72.83333333333333
+The Cool Kids;72.83333333333333
+Ben Watt;72.83333333333333
+Shannon & The Clams;72.83333333333333
+Goldie;72.83333333333333
+First Aid Kit;72.83333333333333
+Ross from Friends;72.83333333333333
+Pat Metheny;72.83333333333333
+Jacques Greene;72.83333333333333
+La Luz;72.83333333333333
+Big Ups;72.83333333333333
+Glass Animals;72.83333333333333
+James Vincent McMorrow;72.83333333333333
+Spectres;72.83333333333333
+Scarface;72.83333333333333
+Alessandro Cortini;72.83333333333333
+Burna Boy;72.83333333333333
+Mark Lanegan;72.83333333333333
+Secret Machines;72.83333333333333
+Whitney;72.83333333333333
+The Dead Weather;72.83333333333333
+Omni;72.83333333333333
+Emika;72.83333333333333
+Pet Shop Boys;72.82142857142857
+Elvis Costello;72.8125
+Barry Adamson;72.8
+Metric;72.78571428571429
+Anna of the North;72.75
+When Saints Go Machine;72.75
+Desaparecidos;72.75
+American Aquarium;72.75
+Childhood;72.75
+The Lovely Eggs;72.75
+IAN SWEET;72.75
+Eric Bachmann;72.75
+Ã“lÃ¶f Arnalds;72.75
+Splashh;72.75
+Bodega;72.75
+Chiodos;72.75
+Ibibio Sound Machine;72.75
+Soen;72.75
+Duke Garwood;72.75
+Antwood;72.75
+Jamie Woon;72.75
+Doomsquad;72.75
+Junip;72.75
+The Long Blondes;72.75
+Racionais MC's;72.75
+The Pop Group;72.75
+The Maccabees;72.75
+William Fitzsimmons;72.75
+Endless Boogie;72.75
+Everlast;72.75
+Spider Bags;72.75
+The Psychic Paramount;72.75
+Ovlov;72.75
+Rival Schools;72.75
+Sic Alps;72.75
+Ghost Bath;72.75
+Damian Marley;72.75
+Alasdair Roberts;72.75
+Pale Honey;72.75
+Pill;72.75
+Rilo Kiley;72.75
+Suuns;72.75
+Beachwood Sparks;72.75
+Tei Shi;72.75
+Molly Burch;72.75
+Mild High Club;72.75
+Neko Case & Her Boyfriends;72.75
+Gabriel GarzÃ³n-Montano;72.75
+Self Defense Family;72.75
+King Midas Sound;72.75
+Balthazar;72.75
+Those Darlins;72.75
+Swamp Dogg;72.75
+American Wrestlers;72.75
+Grace Potter & The Nocturnals;72.75
+Stalley;72.75
+Banks;72.75
+patten;72.75
+Vanishing Twin;72.75
+Immortal;72.72222222222223
+Panda Bear;72.72222222222223
+Wild Nothing;72.71428571428571
+Lone;72.71428571428571
+Solange;72.7
+TOY;72.7
+Old Crow Medicine Show;72.7
+Jay-Z;72.6923076923077
+Procol Harum;72.66666666666667
+African Head Charge;72.66666666666667
+The Chills;72.66666666666667
+Hovvdy;72.66666666666667
+Mourn;72.66666666666667
+The Damned;72.66666666666667
+Vetiver;72.66666666666667
+Mystery Jets;72.66666666666667
+The Very Best;72.66666666666667
+Douglas Dare;72.66666666666667
+The Felice Brothers;72.66666666666667
+Avey Tare;72.66666666666667
+The Fiery Furnaces;72.66666666666667
+Local H;72.66666666666667
+Inventions;72.66666666666667
+Ikonika;72.66666666666667
+Frankie Rose;72.66666666666667
+HTRK;72.66666666666667
+Kool Keith;72.66666666666667
+Martyn;72.66666666666667
+Beanie Sigel;72.66666666666667
+The Thrills;72.66666666666667
+The Prodigy;72.64285714285714
+Wooden Wand;72.625
+Still Corners;72.625
+Girls Names;72.625
+Crystal Castles;72.625
+Clinic;72.625
+Kyuss;72.625
+Esben and the Witch;72.6
+Widowspeak;72.58333333333333
+Royce da 5'9'';72.58333333333333
+Symphony X;72.57142857142857
+Chaz Bundick Meets The Mattson 2;72.5
+Keith Richards;72.5
+The Raveonettes;72.5
+SASAMI;72.5
+Dee White;72.5
+Purple Pilgrims;72.5
+Paris;72.5
+Devon Welsh;72.5
+Bruno Major;72.5
+03 Greedo;72.5
+Kemba;72.5
+Che Noir & 38 Spesh;72.5
+The Pineapple Thief;72.5
+Diarrhea Planet;72.5
+Clown Core;72.5
+100 gecs;72.5
+Ana Roxanne;72.5
+SahBabii;72.5
+Pantha Du Prince & The Bell Laboratory;72.5
+Mr Jukes;72.5
+Charles Manson;72.5
+Sarah Neufeld;72.5
+Minor Science;72.5
+Minor Victories;72.5
+The Promise Ring;72.5
+Trevor de Brauw;72.5
+Cut Copy;72.5
+OMBRE;72.5
+Cassie;72.5
+Mndsgn;72.5
+The Soft Cavalry;72.5
+Naomi Shelton & The Gospel Queens;72.5
+Two Inch Astronaut;72.5
+Deap Vally;72.5
+Chihei Hatakeyama;72.5
+Trace Mountains;72.5
+Buke and Gase;72.5
+Coheed and Cambria;72.5
+Mortiferum;72.5
+Coldcut;72.5
+Tim Buckley;72.5
+Casiotone for the Painfully Alone;72.5
+Bun B;72.5
+Namie Amuro;72.5
+Klaus Johann Grobe;72.5
+Toro y Moi;72.5
+Museum of Love;72.5
+Daniel Avery & Alessandro Cortini;72.5
+Daniel Bachman;72.5
+The Midnight;72.5
+Kid Koala;72.5
+Cosmo Sheldrake;72.5
+Chicano Batman;72.5
+De Lorians;72.5
+The Organ;72.5
+Bryan Adams;72.5
+Le Tigre;72.5
+Yakuza;72.5
+Daniel Lanois & Rocco DeLuca;72.5
+Ty Segall & Mikal Cronin;72.5
+Mystikal;72.5
+Deradoorian;72.5
+Cochemea;72.5
+The Ophelias;72.5
+Yancey Boys;72.5
+Del the Funky Homosapien;72.5
+Catatonia;72.5
+People of the North;72.5
+Oren Ambarchi;72.5
+Your Old Droog;72.5
+Jason Sharp;72.5
+Velvet Negroni;72.5
+Marc Ford;72.5
+France Gall;72.5
+Mapache;72.5
+The Aliens;72.5
+The Bees;72.5
+Wax Idols;72.5
+French Vanilla;72.5
+Fridge;72.5
+Zhala;72.5
+From Indian Lakes;72.5
+Vera Sola;72.5
+She-Devils;72.5
+Black Mountain;72.5
+Jennifer Nettles;72.5
+Jandek;72.5
+Palms;72.5
+Lolina;72.5
+When We Land;72.5
+Fazerdaze;72.5
+Fenella;72.5
+Negative Scanner;72.5
+The Blinders;72.5
+Hot Water Music;72.5
+Maria Usbeck;72.5
+Loops of Your Heart;72.5
+Loose Fur;72.5
+Bad Breeding;72.5
+The Bird and the Bee;72.5
+Sacred Reich;72.5
+Ladytron;72.5
+Thao & Mirah;72.5
+Nkisi;72.5
+Zambri;72.5
+TTNG;72.5
+Goatsnake;72.5
+Beyond Creation;72.5
+TERRY;72.5
+Headie One;72.5
+Silvia Kastel;72.5
+Rhye;72.5
+Beyond the Wizards Sleeve;72.5
+Nova Twins;72.5
+Owl John;72.5
+Sulk;72.5
+Aisha Burns;72.5
+Gravenhurst;72.5
+Artificial Pleasure;72.5
+Wares;72.5
+Stornoway;72.5
+Black Curse;72.5
+Nightlands;72.5
+Koushik;72.5
+Tenci;72.5
+Sir Michael Rocks;72.5
+Binker and Moses;72.5
+River Tiber;72.5
+Gayngs;72.5
+Generationals;72.5
+WarmdÃ¼scher;72.5
+Acid House Kings;72.5
+Tan Cologne;72.5
+Hermitude;72.5
+Surf Rock Is Dead;72.5
+Rejoicer;72.5
+Big Boi;72.5
+Jones;72.5
+Abi Reimold;72.5
+Ella Henderson;72.5
+The Extra Lens;72.5
+The Gaslamp Killer;72.5
+GÃ˜GGS;72.5
+Lusine;72.5
+Kyary Pamyu Pamyu;72.5
+Gwilym Gold;72.5
+J-E-T-S;72.5
+A Projection;72.5
+Rachel Grimes;72.5
+Boldy James;72.5
+FJAAK;72.5
+The Doppelgangaz;72.5
+Knot;72.5
+Alkaline Trio;72.5
+The Distillers;72.5
+Quilt;72.5
+Quiet Riot;72.5
+Dumb;72.5
+Seth Graham;72.5
+Drugdealer;72.5
+YlangYlang;72.5
+Maybeshewill;72.5
+Jackie Cohen;72.5
+Boris & Merzbow;72.5
+Dream Wife;72.5
+Dream Theater;72.5
+Drab City;72.5
+Passenger;72.5
+La FÃ©line;72.5
+Jade Bird;72.5
+Narrow Head;72.5
+War On Women;72.5
+Nathaniel Rateliff & The Night Sweats;72.5
+Nick Hakim;72.5
+In Flames;72.5
+Paul Cherry;72.5
+Knxwledge;72.5
+LiÃ©;72.5
+White Poppy;72.5
+Superfood;72.5
+Imelda May;72.5
+Blue Roses;72.5
+Liz Brasher;72.5
+Sophia Kennedy;72.5
+Martin Courtney;72.5
+Until The Ribbon Breaks;72.5
+Ari Roar;72.5
+Sparta;72.5
+FFS;72.5
+Necking;72.5
+cupcakKe;72.5
+Shadows Fall;72.5
+Marnie;72.5
+Exploded View;72.5
+Oh Sees;72.4375
+CFCF;72.42857142857143
+Stevie Nicks;72.41666666666667
+The Pains of Being Pure at Heart;72.4
+Rival Sons;72.4
+Bombay Bicycle Club;72.4
+Belly;72.4
+Schoolboy Q;72.4
+Butthole Surfers;72.38888888888889
+Dope Body;72.375
+Pulled Apart By Horses;72.375
+Mayer Hawthorne;72.375
+Fruit Bats;72.375
+SoKo;72.33333333333333
+Kimbra;72.33333333333333
+Prins Thomas;72.33333333333333
+Vinyl Williams;72.33333333333333
+Kelsea Ballerini;72.33333333333333
+N.W.A.;72.33333333333333
+Corinne Bailey Rae;72.33333333333333
+Sun Kil Moon;72.33333333333333
+Sorority Noise;72.33333333333333
+Jack's Mannequin;72.33333333333333
+Kyle Bobby Dunn;72.33333333333333
+Jon Hassell;72.33333333333333
+Ten Years After;72.33333333333333
+Matias Aguayo;72.33333333333333
+Primus;72.33333333333333
+Beartooth;72.33333333333333
+Depeche Mode;72.32142857142857
+John Maus;72.3
+Tove Lo;72.3
+Ratatat;72.3
+Jamie Lidell;72.3
+The Orb;72.29166666666667
+God Is An Astronaut;72.28571428571429
+Half Moon Run;72.25
+The Last Shadow Puppets;72.25
+Trampled By Turtles;72.25
+The Wave Pictures;72.25
+James;72.25
+Roger Waters;72.25
+Anna Burch;72.25
+Animals As Leaders;72.25
+Chastity;72.25
+PJ Harvey and John Parish;72.25
+Saigon;72.25
+Illum Sphere;72.25
+Hollie Cook;72.25
+Jazz Cartier;72.25
+Heterotic;72.25
+Bauhaus;72.25
+Comet Gain;72.25
+Common;72.25
+Luke Abbott;72.25
+Hospitality;72.25
+Bibio;72.25
+Pete Swanson;72.25
+Mattiel;72.25
+Mick Jenkins;72.25
+Now, Now;72.25
+Veronica Falls;72.25
+The Claypool Lennon Delirium;72.25
+Tropics;72.25
+The Concretes;72.25
+Big Brother and The Holding Company;72.25
+The Ponys;72.25
+The Front Bottoms;72.25
+Langhorne Slim;72.25
+The Orielles;72.25
+Ryan Adams & The Cardinals;72.25
+Michael BublÃ©;72.25
+The Black Queen;72.25
+Emily Haines & The Soft Skeleton;72.25
+Syd;72.25
+Frank Black;72.25
+Dead Meadow;72.25
+Fleshgod Apocalypse;72.25
+Maps & Atlases;72.25
+Nick HÃ¶ppner;72.25
+Echo Lake;72.25
+Black Moth Super Rainbow;72.25
+Kingdom;72.25
+My Chemical Romance;72.25
+Jungle;72.25
+Fang Island;72.25
+Clem Snide;72.2
+Flogging Molly;72.2
+Boogarins;72.16666666666667
+Waterparks;72.16666666666667
+SiR;72.16666666666667
+Fink;72.16666666666667
+Egyptrixx;72.16666666666667
+Twenty One Pilots;72.16666666666667
+Jess Williamson;72.16666666666667
+A$AP Rocky;72.16666666666667
+Goodie Mob;72.16666666666667
+PAWS;72.16666666666667
+Air;72.16666666666667
+Unknown Mortal Orchestra;72.16666666666667
+Tom Vek;72.16666666666667
+Friendly Fires;72.16666666666667
+Dizzee Rascal;72.14285714285714
+PoliÃ§a;72.125
+Sleepy Sun;72.125
+John Hiatt;72.125
+The KVB;72.125
+Machinedrum;72.125
+Nap Eyes;72.125
+Hella;72.125
+Camel;72.125
+Lissie;72.125
+Mary J. Blige;72.125
+Lamb;72.1
+The Joy Formidable;72.1
+The Streets;72.1
+Faith No More;72.07142857142857
+Son Lux;72.07142857142857
+Tony Njoku;72.0
+Nux Vomica;72.0
+Nana Grizol;72.0
+Woodkid;72.0
+Automatic;72.0
+White Rose Movement;72.0
+Audiobooks;72.0
+Castanets;72.0
+O'Flynn;72.0
+Patio;72.0
+Broken Records;72.0
+Plague Vendor;72.0
+Torn Hawk;72.0
+CZARFACE & MF DOOM;72.0
+Pascale Project;72.0
+Beenie Man;72.0
+Krill;72.0
+Myles Kennedy;72.0
+Novo Amor;72.0
+Vitamin C;72.0
+Caleb Giles;72.0
+Big Data;72.0
++/-;72.0
+Murs;72.0
+Binary Code;72.0
+Buddy Guy;72.0
+Black Hearted Brother;72.0
+Nikka Costa;72.0
+We Are Catchers;72.0
+OCS;72.0
+Brooke Waggoner;72.0
+Brood Ma;72.0
+Muzz;72.0
+Pixx;72.0
+Blixa Bargeld & Teho Teardo;72.0
+Naeem;72.0
+AÃ¯sha Devi;72.0
+LHF;72.0
+Lina Tullgren;72.0
+The Lucksmiths;72.0
+Fatima Al Qadiri;72.0
+Psychic Markers;72.0
+Jukebox the Ghost;72.0
+Here We Go Magic;72.0
+Efrim Manuel Menuck;72.0
+Matchess;72.0
+You Blew It!;72.0
+Adventures;72.0
+Mas Ysa;72.0
+Stranger Cat;72.0
+The Damned Things;72.0
+Suckers;72.0
+Erlend Ã˜ye;72.0
+Esther Rose;72.0
+Lightspeed Champion;72.0
+Eye Flys;72.0
+Jonny Nash;72.0
+Young Guv;72.0
+Alexisonfire;72.0
+Duff McKagan;72.0
+Dredg;72.0
+Steve Lacy;72.0
+Stephen Steinbrink;72.0
+Michael Gira;72.0
+Dead Cross;72.0
+Sister Rosetta Tharpe;72.0
+Holly Macve;72.0
+Death In Vegas;72.0
+The Most Serene Republic;72.0
+Delta Spirit;72.0
+Sweet Whirl;72.0
+Loudon Wainwright III;72.0
+Pure X;72.0
+Ho99o9;72.0
+Purity Ring;72.0
+Lina_RaÃ¼l Refree;72.0
+Hippo Campus;72.0
+The Knack;72.0
+Jung An Tagen;72.0
+The Chats;72.0
+Summer Cannibals;72.0
+Marie Davidson & Lâ€™Å’il Nu;72.0
+Machinefabriek;72.0
+Guillemots;72.0
+Tayla Parx;72.0
+One True Pairing;72.0
+Tall Tall Trees;72.0
+Giraffe Tongue Orchestra;72.0
+MachÃ¬na;72.0
+Talib Kweli;72.0
+Jesse Malin;72.0
+Red Pill;72.0
+Goatwhore;72.0
+TOPS;72.0
+TAD;72.0
+Roza Terenzi;72.0
+Grooms;72.0
+GosT;72.0
+Gregg Allman;72.0
+Genevieve Artadi;72.0
+Surgeon;72.0
+Jon Porras;72.0
+The Arcs;72.0
+Les Sins;72.0
+Luluc;72.0
+of Montreal;72.0
+Younghusband;72.0
+The B-52's;72.0
+H.C. McEntire;72.0
+Onyx Collective;72.0
+The Appleseed Cast;72.0
+Ted Leo;72.0
+The 2 Bears;72.0
+Terrence Dixon;72.0
+Mal Blum;72.0
+GIVERS;72.0
+Galcher Lustwerk;72.0
+Gulfer;72.0
+Gaussian Curve;72.0
+Michael Rault;72.0
+Sin Fang;72.0
+Class Actress;72.0
+Mister Lies;72.0
+Tim Presley & White Fence;72.0
+Cody ChesnuTT;72.0
+James Dean Bradfield;72.0
+Inga Copeland;72.0
+Katy B;72.0
+The Sword;72.0
+Hudson Mohawke;72.0
+HÃ¦los;72.0
+And So I Watch You From Afar;72.0
+Khruangbin & Leon Bridges;72.0
+Little People;72.0
+Christian Fennesz & Jim Oâ€™Rourke;72.0
+Craven Faults;72.0
+Sonny & the Sunsets;72.0
+Mon Laferte;72.0
+MisterWives;72.0
+Savoy Motel;72.0
+Hooded Fang;72.0
+Schoolly D;72.0
+I'm Glad It's You;72.0
+The Voidz;72.0
+I'm With Her;72.0
+ALASKALASKA;72.0
+The Wants;72.0
+James Yorkston;72.0
+Mode Moderne;72.0
+Ida Maria;72.0
+James Righton;72.0
+DRAM;72.0
+Kate Jackson;72.0
+Danny L Harle;72.0
+Daughn Gibson;72.0
+Amnesia Scanner;72.0
+Rose Windows;72.0
+Interpol;72.0
+Lisa Germano;72.0
+Motorama;72.0
+The Rentals;72.0
+Daughters Of ReykjavÃ­k;72.0
+The Saxophones;72.0
+Jackson MacIntosh;72.0
+Classified;72.0
+"Kairon; IRSE!";72.0
+Kai Whiston;72.0
+Tkay Maidza;72.0
+Jade Hairpins;72.0
+Kara's Flowers;72.0
+Chuck Prophet;72.0
+Daniel Avery;72.0
+Dan Lissvik;72.0
+Daniele Luppi & Parquet Courts;72.0
+Lily Konigsberg;72.0
+ZiÃºr;72.0
+Motion City Soundtrack;72.0
+Poolside;72.0
+House of Pain;72.0
+Mike Cooper;72.0
+Somos;72.0
+Amy O;72.0
+Blue Ã–yster Cult;71.95
+Machine Head;71.94444444444444
+Juliana Hatfield;71.94444444444444
+The Warlocks;71.9
+Guerilla Toss;71.9
+Lykke Li;71.9
+The Acacia Strain;71.875
+Angus & Julia Stone;71.875
+Holy Wave;71.875
+Taylor Swift;71.875
+Ani DiFranco;71.875
+Teleman;71.875
+Ringo Deathstarr;71.875
+Mos Def;71.875
+The Soft Moon;71.875
+QueensrÃ¿che;71.875
+Trivium;71.875
+Hole;71.875
+Ryan Hemsworth;71.875
+Peggy Sue;71.875
+Type O Negative;71.85714285714286
+Michael Jackson;71.85
+FÃ¶llakzoid;71.83333333333333
+Steve Earle & The Dukes;71.83333333333333
+The Growlers;71.83333333333333
+Polly Scattergood;71.83333333333333
+Night Beats;71.83333333333333
+Ben Khan;71.83333333333333
+Sky Ferreira;71.83333333333333
+Chris Cohen;71.83333333333333
+Rodrigo y Gabriela;71.83333333333333
+The Underachievers;71.83333333333333
+Blonde Redhead;71.83333333333333
+Moose Blood;71.83333333333333
+Travis Scott;71.83333333333333
+Brian Fallon;71.83333333333333
+The Boxer Rebellion;71.83333333333333
+Cold Specks;71.83333333333333
+Yeasayer;71.8
+Washed Out;71.8
+Art Brut;71.8
+Barbra Streisand;71.8
+Blitzen Trapper;71.78571428571429
+Jay Electronica;71.75
+Zomby;71.75
+Kyla La Grange;71.75
+Kwes;71.75
+Be Your Own Pet;71.75
+Wintersleep;71.75
+Heather Woods Broderick;71.75
+SWMRS;71.75
+Baauer;71.75
+Astronoid;71.75
+Gotye;71.75
+Knuckle Puck;71.75
+EZTV;71.75
+Sex Swing;71.75
+Dwarves;71.75
+Chilly Gonzales;71.75
+The Mary Onettes;71.75
+Dean Wareham;71.75
+Tigers Jaw;71.75
+NNAMDÃ;71.75
+Camille;71.75
+DOM;71.75
+Le Butcherettes;71.75
+The Vaselines;71.75
+Post Animal;71.75
+Cloud Control;71.75
+Modeselektor;71.75
+The Wytches;71.75
+Cold Cave;71.75
+The Devil Wears Prada;71.75
+California X;71.75
+George FitzGerald;71.75
+John Tejada;71.75
+Kikagaku Moyo;71.75
+Violens;71.75
+Mac Miller;71.75
+Ramones;71.75
+Flotation Toy Warning;71.75
+Main Attrakionz;71.75
+Prefuse 73;71.72222222222223
+Ellen Allien;71.71428571428571
+Guns N' Roses;71.7
+Holly Miranda;71.66666666666667
+KÃ¶lsch;71.66666666666667
+Justice;71.66666666666667
+John Mayer;71.66666666666667
+Cancer Bats;71.66666666666667
+I Like Trains;71.66666666666667
+Doldrums;71.66666666666667
+Diet Cig;71.66666666666667
+The Lemon Twigs;71.66666666666667
+Kyle Craft;71.66666666666667
+Gui Boratto;71.66666666666667
+Apollo Brown;71.66666666666667
+Adele;71.66666666666667
+Into It. Over It.;71.66666666666667
+Princess Chelsea;71.66666666666667
+Descendents;71.64285714285714
+Son Volt;71.64285714285714
+The Dears;71.64285714285714
+Cults;71.625
+Antibalas;71.625
+Sheryl Crow;71.625
+Skunk Anansie;71.625
+Twin Peaks;71.625
+Yoko Ono;71.625
+Blue Hawaii;71.625
+Pernice Brothers;71.6
+The Hives;71.6
+Slum Village;71.6
+Shout Out Louds;71.6
+Santana;71.58333333333333
+Tears For Fears;71.58333333333333
+Wavves;71.57142857142857
+Tori Amos;71.56666666666666
+Slayer;71.54166666666667
+A Fine Frenzy;71.5
+Willie Nelson & Merle Haggard;71.5
+felicita;71.5
+Anthony Child;71.5
+Astrid Sonne;71.5
+American Pleasure Club;71.5
+Apollo Brown & Planet Asia;71.5
+Apollo Sunshine;71.5
+â€ â€ â€ ;71.5
+PHOX;71.5
+Amiina;71.5
+Amerie;71.5
+Oklou;71.5
+Adam Green & Binki Shapiro;71.5
+Alice Merton;71.5
+7 Days of Funk;71.5
+Young Ejecta;71.5
+Wray;71.5
+Agent BlÃ¥;71.5
+Nubiyan Twist;71.5
+Yuno;71.5
+Wrangler;71.5
+La Casa Azul;71.5
+William Basinski + Lawrence English;71.5
+Duologue;71.5
+TRIM;71.5
+MGMT;71.5
+Goon;71.5
+Graham Van Pelt;71.5
+Grammatics;71.5
+Groundislava;71.5
+Lycus;71.5
+Guy Garvey;71.5
+Luscious Jackson;71.5
+Hail Mary Mallon;71.5
+Hayley Kiyoko;71.5
+Hazel English;71.5
+Helm;71.5
+Sticky Fingers;71.5
+Lowell;71.5
+Henry Flynt;71.5
+Rittz;71.5
+Hey Violet;71.5
+Louise Burns;71.5
+Madeon;71.5
+Tapes 'n Tapes;71.5
+Gem Club;71.5
+Ralph;71.5
+Math and Physics Club;71.5
+Noisettes;71.5
+RX Bandits;71.5
+Entrance;71.5
+Eric Prydz;71.5
+Ethan Gruska;71.5
+The Coathangers;71.5
+Faith Evans;71.5
+The Chieftains;71.5
+Gabe Gurnsey;71.5
+Fhloston Paradigm;71.5
+Flume & Chet Faker;71.5
+Flyleaf;71.5
+Fox Academy;71.5
+Marching Church;71.5
+The Aces;71.5
+FrÃ nÃ§ois & the Atlas Mountains;71.5
+Male Bonding;71.5
+Steve Gunn & The Black Twig Pickers;71.5
+River City Extension;71.5
+Lotus Plaza;71.5
+Serafina Steer;71.5
+Liima;71.5
+Single Mothers;71.5
+Jenny and Johnny;71.5
+Liam Lynch;71.5
+Joe Satriani;71.5
+Juan Wauters;71.5
+Jubilee;71.5
+Julio Bashmore;71.5
+Lee Ranaldo and The Dust;71.5
+Jake Muir;71.5
+Selling;71.5
+Kataklysm;71.5
+Kavinsky;71.5
+Sasha;71.5
+Knife Wife;71.5
+Kraus;71.5
+Sam Evian;71.5
+Lacuna Coil;71.5
+SiobhÃ¡n Donaghy;71.5
+Slothrust;71.5
+Status Quo;71.5
+Ion Dissonance;71.5
+Hot Country Knights;71.5
+Hot Sugar;71.5
+Lord RAJA;71.5
+Spor;71.5
+Robert Earl Thomas;71.5
+IAMDDB;71.5
+ISLAND;71.5
+Ice Choir;71.5
+Little Wings;71.5
+Slow Dancer;71.5
+Soft Walls;71.5
+Iron Reagan;71.5
+Robyn & La Bagatelle Magique;71.5
+Ithaca;71.5
+Snowbird;71.5
+Sneaker Pimps;71.5
+J Fernandez;71.5
+Snakadaktal;71.5
+Eerie Wanda;71.5
+The Districts;71.5
+Dungen & Woods;71.5
+Pita;71.5
+Boxcutter;71.5
+Brad Mehldau;71.5
+Phrenelith;71.5
+Brett Eldredge;71.5
+Pilgrim;71.5
+My Brightest Diamond;71.5
+Mux Mool;71.5
+Murlo;71.5
+Mulatu Astatke & Black Jesus Experience;71.5
+Box Car Racer;71.5
+Cardi B;71.5
+Pizzagirl;71.5
+Tor Lundvall;71.5
+Caustic Window;71.5
+Drummer;71.5
+Tom Rogerson & Brian Eno;71.5
+Charlie Cunningham;71.5
+Charlotte OC;71.5
+Nas and Damian Marley;71.5
+Ugly Heroes;71.5
+Chasms;71.5
+Benny Sings;71.5
+Noah Cyrus;71.5
+We Lost The Sea;71.5
+Peach Kelli Pop;71.5
+Peaer;71.5
+Beans;71.5
+Warbringer;71.5
+People Like You;71.5
+WIFE;71.5
+Vivian Girls;71.5
+Bootsy Collins;71.5
+Visionist;71.5
+Visible Cloaks;71.5
+Blackberry Smoke;71.5
+BlakRoc;71.5
+Phantastic Ferniture;71.5
+Upsammy;71.5
+Boogie;71.5
+Booker T. Jones;71.5
+Tobias.;71.5
+Tommy Four Seven;71.5
+Children of Bodom;71.5
+Psychic Temple;71.5
+Dabrye;71.5
+Chris Farren;71.5
+Mike Krol;71.5
+Proof;71.5
+The Samps;71.5
+Das Racist;71.5
+Microwave;71.5
+Psychedelic Porn Crumpets;71.5
+Public Practice;71.5
+The Sugarhill Gang;71.5
+Deicide;71.5
+Deserta;71.5
+The Leonard Simpson Duo;71.5
+Dog Blood;71.5
+Donovan Blanc;71.5
+Dr. Dog;71.5
+The History of Apple Pie;71.5
+Drew McDowall;71.5
+DJDS;71.5
+Milagres;71.5
+Gauche;71.5
+Moaning;71.5
+Cian Nugent;71.5
+Cymbals;71.5
+Popstrangers;71.5
+Cut Worms;71.5
+Cleo Sol;71.5
+Monotonix;71.5
+Clues;71.5
+Cubicolor;71.5
+Conan Gray;71.5
+Crushed Beaks;71.5
+Potty Mouth;71.5
+Conner Youngblood;71.5
+The Watson Twins;71.5
+Screaming Trees;71.41666666666667
+The Stranglers;71.41666666666667
+Slipknot;71.41666666666667
+TrentemÃ¸ller;71.4
+Telekinesis;71.4
+El Perro Del Mar;71.4
+Death Cab For Cutie;71.38461538461539
+Sumac;71.375
+Nada Surf;71.375
+Black Marble;71.375
+Bob Dylan;71.34285714285714
+Two Gallants;71.33333333333333
+Rustie;71.33333333333333
+mxmtoon;71.33333333333333
+alt-J;71.33333333333333
+Sally Shapiro;71.33333333333333
+!!!;71.33333333333333
+MÃºm;71.33333333333333
+Mark Mulcahy;71.33333333333333
+Lamb of God;71.33333333333333
+Milky Chance;71.33333333333333
+Black Box Recorder;71.33333333333333
+Omar Apollo;71.33333333333333
+High Places;71.33333333333333
+Howling Bells;71.33333333333333
+Jerry Paper;71.33333333333333
+Lindsey Buckingham;71.33333333333333
+Ab-Soul;71.33333333333333
+Killswitch Engage;71.3125
+ABBA;71.3125
+Van Morrison;71.30434782608695
+Fountains of Wayne;71.3
+DragonForce;71.3
+Dawes;71.28571428571429
+Here Lies Man;71.25
+Cavern of Anti-Matter;71.25
+Nicole Dollanganger;71.25
+RÃœFÃœS;71.25
+Maggie Rogers;71.25
+Red Sparowes;71.25
+Luke Haines;71.25
+Thy Art Is Murder;71.25
+Odesza;71.25
+Okay Kaya;71.25
+Amor de DÃ­as;71.25
+Bill Orcutt;71.25
+The Black Angels;71.25
+Cooly G;71.25
+Bury Tomorrow;71.25
+Frank Carter & The Rattlesnakes;71.25
+Meg Baird;71.25
+Dear Reader;71.25
+Skream;71.25
+Said The Whale;71.25
+Floorplan;71.25
+Forma;71.25
+The Black Heart Procession;71.25
+Arbouretum;71.25
+Young Buck;71.25
+Frank Turner;71.21428571428571
+Architects;71.21428571428571
+The Coral;71.1875
+Black Lips;71.1875
+Pete Rock;71.16666666666667
+Johanna Warren;71.16666666666667
+A Place To Bury Strangers;71.16666666666667
+Counting Crows;71.16666666666667
+Bad Bunny;71.16666666666667
+Steppenwolf;71.16666666666667
+Lord Huron;71.16666666666667
+Tyler, the Creator;71.16666666666667
+Glenn Jones;71.16666666666667
+Dave East;71.16666666666667
+Pentagram;71.16666666666667
+Cage;71.16666666666667
+Primal Scream;71.13636363636364
+Tegan and Sara;71.125
+Sneaks;71.125
+The Rapture;71.125
+Ben Folds;71.125
+Simply Red;71.125
+Buckethead;71.125
+Neil Young;71.11538461538461
+Atmosphere;71.1
+UnderÃ¸ath;71.1
+Phantogram;71.1
+Bad Religion;71.09375
+Ryan Adams;71.0909090909091
+Toni Braxton;71.08333333333333
+Killer Mike;71.08333333333333
+Simian Mobile Disco;71.08333333333333
+Public Enemy;71.04166666666667
+Two Lone Swordsmen;71.0
+Young Thug & Carnage;71.0
+Ball Park Music;71.0
+SOHN;71.0
+Nabihah Iqbal;71.0
+BjÃ¸rn Torske;71.0
+Damien Dubrovnik;71.0
+Kevin Gates;71.0
+HOMESHAKE;71.0
+Sunflowers;71.0
+The Men;71.0
+Guttersnipe;71.0
+FEELS;71.0
+FLANCH;71.0
+Blockhead;71.0
+Jaakko Eino Kalevi;71.0
+Supreems;71.0
+Laetitia Sadier;71.0
+Jennifer Gentle;71.0
+Erase Errata;71.0
+Ras Kass;71.0
+Obongjayar;71.0
+Wildest Dreams;71.0
+Humanist;71.0
+Little Kid;71.0
+Magic Arm;71.0
+Darker My Love;71.0
+Cable Ties;71.0
+Kristin Kontrol;71.0
+Red Hearse;71.0
+The Drip;71.0
+Eliza Doolittle;71.0
+Neil Halstead;71.0
+Omnium Gatherum;71.0
+Hatebreed;71.0
+Jeremiah Jae;71.0
+Ellis;71.0
+WEDNESDAY CAMPANELLA;71.0
+Malcolm Middleton;71.0
+Ty Segall & White Fence;71.0
+Will Oldham;71.0
+Hannah Georgas;71.0
+Cast;71.0
+Ali Barter;71.0
+Gum Country;71.0
+The Lurking Fear;71.0
+Vondelpark;71.0
+Yonaka;71.0
+Salad Boys;71.0
+MoirÃ©;71.0
+Ovrkast.;71.0
+Gemma Hayes;71.0
+Free Nationals;71.0
+Metro Boomin;71.0
+Mhysa;71.0
+Concrete Knives;71.0
+Minotaur Shock;71.0
+Big Moe;71.0
+From The Mouth of The Sun;71.0
+Ozuna;71.0
+Lily & Madeleine;71.0
+Beverly;71.0
+Casiokids;71.0
+Jakuzi;71.0
+Funeral for a Friend;71.0
+Kwabs;71.0
+Ian Noe;71.0
+Futurebirds;71.0
+Death and Vanilla;71.0
+Tera Melos;71.0
+Special Explosion;71.0
+TWICE;71.0
+Delain;71.0
+Aquilo;71.0
+Chumbawamba;71.0
+Thought Gang;71.0
+Radar Bros.;71.0
+Federico Durand;71.0
+Greg Dulli;71.0
+Rabit;71.0
+Jay Mitta;71.0
+Lionlimb;71.0
+Waste of Space Orchestra;71.0
+Oren Ambarchi & Jim O'Rourke;71.0
+The Night Marchers;71.0
+Saint Motel;71.0
+Beth Ditto;71.0
+Floral Tattoo;71.0
+Flowdan;71.0
+The Beets;71.0
+Jay Glass Dubs;71.0
+Clogs;71.0
+Sessa;71.0
+Closure In Moscow;71.0
+Forest Fire;71.0
+God Help The Girl;71.0
+Rejjie Snow;71.0
+After The Burial;71.0
+Pet Symmetry;71.0
+The Rakes;71.0
+Bayonne;71.0
+Rye Rye;71.0
+Dryjacket;71.0
+The Frames;71.0
+Dua Saleh;71.0
+Disappears;71.0
+Lukid;71.0
+Steps;71.0
+Ducks Unlimited;71.0
+Blanche Blanche Blanche;71.0
+The Greenhornes;71.0
+pronoun;71.0
+AJJ;71.0
+Whitney Rose;71.0
+Chelsea Light Moving;71.0
+Highly Suspect;71.0
+Lyla Foy;71.0
+Soft Hair;71.0
+Retirement Party;71.0
+Dungeonesse;71.0
+Seablite;71.0
+Night Moves;71.0
+Bella Boo;71.0
+Night Flowers;71.0
+Lo Tom;71.0
+Tiny Moving Parts;71.0
+Call of the Void;71.0
+Holly Golightly & The Brokeoffs;71.0
+BEAST;71.0
+Brazilian Girls;71.0
+Tomas Barfod;71.0
+Babyfather;71.0
+John Frusciante and Josh Klinghoffer;71.0
+Oberhofer;71.0
+OOIOO;71.0
+Acronym;71.0
+Black Tusk;71.0
+Black Francis;71.0
+Kenna;71.0
+Dommengang;71.0
+Shit Robot;71.0
+Tom Misch;71.0
+Aceyalone;71.0
+Isobel Campbell;71.0
+Tom Grennan;71.0
+BLK JKS;71.0
+Northlane;71.0
+Holy Holy;71.0
+"Lee ""Scratch"" Perry & The Upsetters";71.0
+Vatican Shadow;71.0
+BJ The Chicago Kid;71.0
+Black Grape;71.0
+The Fireman;71.0
+Shed Seven;71.0
+Paul Kelly;71.0
+Dawn Landes;71.0
+John Mellencamp;70.95
+Simple Minds;70.95
+Bathory;70.92857142857143
+Moon Duo;70.91666666666667
+Nas;70.91666666666667
+Someone Still Loves You Boris Yeltsin;70.9
+Allah-Las;70.875
+Jane's Addiction;70.875
+Geto Boys;70.875
+Papercuts;70.875
+The Chain Gang of 1974;70.875
+Raekwon;70.875
+Beach Slang;70.875
+Broods;70.875
+Pixies;70.86363636363636
+Jacco Gardner;70.83333333333333
+Sublime;70.83333333333333
+Garbage;70.83333333333333
+Imogen Heap;70.83333333333333
+Sodom;70.83333333333333
+Jackie-O Motherfucker;70.83333333333333
+Mates of State;70.83333333333333
+Lightning Dust;70.83333333333333
+Paul White;70.83333333333333
+Emma Pollock;70.83333333333333
+Years & Years;70.83333333333333
+Cherry Glazerr;70.83333333333333
+Brendan Canning;70.83333333333333
+Cannibal Corpse;70.82142857142857
+Idlewild;70.8125
+Manchester Orchestra;70.8
+Peaches;70.8
+Billy Joel;70.79166666666667
+The Evens;70.75
+Big L;70.75
+Maren Morris;70.75
+L.A. Witch;70.75
+Girl Ray;70.75
+Case Studies;70.75
+The Cribs;70.75
+Tyondai Braxton;70.75
+Rogue Wave;70.75
+Ratking;70.75
+Fantasia;70.75
+Harry Styles;70.75
+Tim Kasher;70.75
+The Posies;70.75
+Circle Jerks;70.75
+Matt Kivel;70.75
+Bleached;70.75
+Middle Kids;70.75
+Avatar;70.75
+Fujiya & Miyagi;70.75
+The Charlatans;70.72727272727273
+Frank Zappa;70.71428571428571
+Smoke Fairies;70.7
+Blood Red Shoes;70.7
+Jamiroquai;70.6875
+Stealing Sheep;70.66666666666667
+Dead Confederate;70.66666666666667
+Hozier;70.66666666666667
+FIDLAR;70.66666666666667
+Noveller;70.66666666666667
+Men At Work;70.66666666666667
+Groove Armada;70.66666666666667
+Lafawndah;70.66666666666667
+Whitney Houston;70.66666666666667
+The Futureheads;70.66666666666667
+Brendan Benson;70.66666666666667
+Pop. 1280;70.66666666666667
+Daniel Johnston;70.625
+J Balvin;70.625
+Django Django;70.625
+San Fermin;70.625
+KT Tunstall;70.6
+The Black Crowes;70.6
+The Xcerts;70.5
+RÃ¸dhÃ¥d;70.5
+Indians;70.5
+Mike Dean;70.5
+Laura Jane Grace & The Devouring Mothers;70.5
+Rome;70.5
+Salt-n-Pepa;70.5
+George Strait;70.5
+Rob Crow;70.5
+Amyl & The Sniffers;70.5
+Gabrielle Aplin;70.5
+Reel Big Fish;70.5
+Camila Fuchs;70.5
+Lauren Jenkins;70.5
+Israel Nash;70.5
+Bebel Gilberto;70.5
+L'Rain;70.5
+Lou The Human;70.5
+Ten FÃ©;70.5
+Sonic Boom;70.5
+Lillie Mae;70.5
+The Young Veins;70.5
+Gentleman Jesse;70.5
+Inc.;70.5
+Larry Gus;70.5
+Angel Du$t;70.5
+Tami Neilson;70.5
+Lockah;70.5
+Suuns and Jerusalem in My Heart;70.5
+W.A.S.P.;70.5
+Sugar Candy Mountain;70.5
+Make Do and Mend;70.5
+Markus Floats;70.5
+Capital Cities;70.5
+Caleb Landry Jones;70.5
+Literature;70.5
+Mando Diao;70.5
+Sumie;70.5
+High Sunn;70.5
+High Plains;70.5
+Tonstartssbandht;70.5
+Smurphy;70.5
+Asaf Avidan;70.5
+Steven Julien;70.5
+JJ Doom;70.5
+Ras G;70.5
+Bent Arcana;70.5
+Rangda;70.5
+Great Ytene;70.5
+Bell Witch And Aerial Ruin;70.5
+Swimming Tapes;70.5
+Trevor Powers;70.5
+Girl Talk & Freeway;70.5
+Tacocat;70.5
+Chilly Gonzales & Jarvis Cocker;70.5
+Homeboy Sandman & Edan;70.5
+IDER;70.5
+Solar Bears;70.5
+Go-Kart Mozart;70.5
+RinÃ´Ã§Ã©rÃ´se;70.5
+Maya Jane Coles;70.5
+Lowtide;70.5
+RY X;70.5
+LindstrÃ¸m;70.5
+Holly Williams;70.5
+Lee Bannon;70.5
+Lil Mama;70.5
+Ben Harper & The Innocent Criminals;70.5
+Renata Zeiguer;70.5
+Ballet School;70.5
+Archspire;70.5
+Grand Archives;70.5
+Tombs;70.5
+Julian Casablancas;70.5
+Black Joe Lewis & The Honeybears;70.5
+Jennifer Touch;70.5
+Â¡Forward, Russia!;70.5
+Yuck;70.5
+Moomin;70.5
+Kleerup;70.5
+The Telescopes;70.5
+Pavo Pavo;70.5
+Fergus & Geronimo;70.5
+Mr. Mitch;70.5
+Blind Melon;70.5
+DVA;70.5
+Paysage d'Hiver;70.5
+Trouble & Mike WiLL Made It;70.5
+Dog Party;70.5
+CyHi The Prynce;70.5
+Monade;70.5
+Dave Harrington Group;70.5
+Denison Witmer;70.5
+The I Don't Cares;70.5
+The Band of Heathens;70.5
+The Haden Triplets;70.5
+The Dirtbombs;70.5
+Evoken;70.5
+Mozart's Sister;70.5
+Vanbot;70.5
+The Soundcarriers;70.5
+Dizzy Wright;70.5
+Boston;70.5
+8ULENTINA;70.5
+Dorian Concept;70.5
+Pillorian;70.5
+Bitchin Bajas;70.5
+Joakim;70.5
+Blackfield;70.5
+Alina Baraz;70.5
+Mr. Mister;70.5
+The Corin Tucker Band;70.5
+Black Rivers;70.5
+Jeff Rosenstock & Laura Stevenson;70.5
+Jenn Champion;70.5
+Joell Ortiz, Fred The Godson & The Heatmakerz;70.5
+Portugal. The Man;70.5
+Emily Reo;70.5
+213;70.5
+Frontier Ruckus;70.5
+Fear Before The March Of Flames;70.5
+The Uncluded;70.5
+Fufanu;70.5
+El Guincho;70.5
+VAST;70.5
+Unlikely Friends;70.5
+Echo Ladies;70.5
+Perfect Son;70.5
+Siskiyou;70.5
+Yello;70.5
+Easy Life;70.5
+Deer Tick;70.5
+The Muffs;70.5
+Tess Roby;70.5
+The Internet;70.5
+Buffalo Tom;70.5
+Deep Sea Diver;70.5
+Vermont;70.5
+King Gizzard & The Lizard Wizard with Mild High Club;70.5
+UB40;70.5
+DMA's;70.5
+Sherwood & Pinch;70.5
+Bliss Signal;70.5
+Nightwish;70.5
+Elf Power;70.5
+Penelope Trappes;70.5
+Miss Red;70.5
+Big Red Machine;70.5
+Kode9;70.5
+The Bronx;70.5
+Vince Gill;70.5
+Darkher;70.5
+Free Throw;70.5
+The Carters;70.5
+Adam and the Ants;70.5
+The Ronettes;70.5
+James Ferraro;70.45833333333333
+Iron Maiden;70.4375
+Girls' Generation;70.41666666666667
+Rhett Miller;70.4
+Down;70.375
+Plan B;70.375
+Mother Mother;70.375
+Twin Shadow;70.375
+La Sera;70.375
+Dropkick Murphys;70.375
+Scissor Sisters;70.375
+Three 6 Mafia;70.35714285714286
+Tricky;70.34615384615384
+Bear's Den;70.33333333333333
+S. Carey;70.33333333333333
+BRONCHO;70.33333333333333
+Gengahr;70.33333333333333
+DZ Deathrays;70.33333333333333
+Hockey Dad;70.33333333333333
+Alessia Cara;70.33333333333333
+Tycho;70.33333333333333
+Connan Mockasin;70.33333333333333
+M83;70.3125
+Grace Jones;70.3
+Phil Collins;70.3
+Brad Paisley;70.3
+Disclosure;70.3
+Little Dragon;70.28571428571429
+Datarock;70.25
+ANAMAI;70.25
+Nosaj Thing;70.25
+Nathaniel Rateliff;70.25
+Adult Jazz;70.25
+Hey Colossus;70.25
+Throwing Snow;70.25
+En Vogue;70.25
+Nachtmystium;70.25
+Sundara Karma;70.25
+Kip Moore;70.25
+The Frights;70.25
+Aloe Blacc;70.25
+Breton;70.25
+Vladislav Delay;70.25
+You Say Party;70.25
+Jacuzzi Boys;70.25
+Underworld;70.25
+Mermaidens;70.25
+Meatbodies;70.25
+Slaughter Beach, Dog;70.25
+UltraÃ­sta;70.25
+Archie Bronson Outfit;70.25
+GoldLink;70.25
+Lily Allen;70.25
+Hooray for Earth;70.25
+Juanita Stein;70.25
+Jackie Lynn;70.25
+Melvins;70.23529411764706
+Lights;70.2
+Soulwax;70.2
+Band of Horses;70.2
+Gonjasufi;70.16666666666667
+TOKiMONSTA;70.16666666666667
+Guided By Voices;70.16666666666667
+Jay Rock;70.16666666666667
+Father;70.16666666666667
+Duckwrth;70.16666666666667
+Balance and Composure;70.16666666666667
+Oh Land;70.16666666666667
+PVT;70.16666666666667
+Joe Budden;70.16666666666667
+Clams Casino;70.16666666666667
+Childish Gambino;70.16666666666667
+Willis Earl Beal;70.125
+Stone Sour;70.08333333333333
+The Avett Brothers;70.08333333333333
+Minus the Bear;70.08333333333333
+Venom;70.08333333333333
+Basement Jaxx;70.07142857142857
+Luke Combs;70.0
+Beacon;70.0
+Can't Swim;70.0
+We Are The Ocean;70.0
+Royal Bangs;70.0
+Peder Mannerfelt;70.0
+Soft Error;70.0
+Jonny;70.0
+Cherry Ghost;70.0
+Starchild & The New Romantic;70.0
+Unleash The Archers;70.0
+The Molochs;70.0
+MED, Blu & Madlib;70.0
+ICE NINE KILLS;70.0
+AMOR;70.0
+Duval Timothy;70.0
+Revocation;70.0
+Ingrid Andress;70.0
+Brandt Brauer Frick;70.0
+IDK;70.0
+Rob Crow's Gloomy Place;70.0
+10cc;70.0
+Patience;70.0
+Rome Fortune;70.0
+Black Star Riders;70.0
+E Ruscha V;70.0
+Nuno Canavarro;70.0
+Barrie;70.0
+IC3PEAK;70.0
+Kal Marks;70.0
+Blancmange;70.0
+Hilary Woods;70.0
+Ride;70.0
+Wallows;70.0
+USA Out of Vietnam;70.0
+The Lox;70.0
+Rick Astley;70.0
+Sean Paul;70.0
+Soul Position;70.0
+Bag Raiders;70.0
+BEA1991;70.0
+The Love-Birds;70.0
+The Longshot;70.0
+Johnny Jewel;70.0
+Little May;70.0
+Deniro Farrar;70.0
+Little Green Cars;70.0
+Katie Malco;70.0
+Hunx;70.0
+Umbra Vitae;70.0
+K-X-P;70.0
+Niia;70.0
+M. Geddes Gengras;70.0
+Roddy Ricch;70.0
+House Shoes;70.0
+Avey Tare's Slasher Flicks;70.0
+Tired Pony;70.0
+Joe Armon-Jones;70.0
+BOY;70.0
+Cosey Fanni Tutti;70.0
+Swet Shop Boys;70.0
+Mrs. Piss;70.0
+La Roux;70.0
+Matrixxman;70.0
+The 1975;70.0
+Jackson Scott;70.0
+Tweens;70.0
+Andras;70.0
+Arcturus;70.0
+Sarah Davachi & Ariel Kalma;70.0
+Swim Deep;70.0
+Silk Road Assassins;70.0
+Rachel Zeffira;70.0
+Apocalyptica;70.0
+The (International) Noise Conspiracy;70.0
+Gaika;70.0
+Grey Daze;70.0
+Cykada;70.0
+Chucky73 & Fetti031;70.0
+Kim Petras;70.0
+Laibach;70.0
+Young Knives;70.0
+CHLLNGR;70.0
+Mark Morton;70.0
+Good Tiger;70.0
+Apex Manor;70.0
+Chuck Ragan;70.0
+Jaguwar;70.0
+Mitochondrial Sun;70.0
+Pure Bathing Culture;70.0
+Busdriver;70.0
+Xenoula;70.0
+Jain;70.0
+Foxygen;70.0
+Gems;70.0
+Yoni & Geti;70.0
+Porter Ray;70.0
+Cold Meat;70.0
+Monkey;70.0
+Colony House;70.0
+Foxes;70.0
+The Babies;70.0
+Quarterbacks;70.0
+Moon Diagrams;70.0
+Gold Fields;70.0
+Croatian Amor;70.0
+Maya Hawke;70.0
+Goldmund;70.0
+Turnover;70.0
+Jan St. Werner;70.0
+Superheaven;70.0
+Piroshka;70.0
+Alex Zhang Hungtai;70.0
+Elephant;70.0
+Daniel Norgren;70.0
+Snarls;70.0
+Al-Namrood;70.0
+Akkord;70.0
+Coucou Chloe;70.0
+Elton John & Leon Russell;70.0
+The S.L.P.;70.0
+Dark Funeral;70.0
+Styles P;70.0
+Yvette;70.0
+Elephant Stone;70.0
+Stromae;70.0
+Hands;70.0
+Redman;70.0
+The Rock*A*Teens;70.0
+Adam Green;70.0
+Audacity;70.0
+New Bums;70.0
+The Ex;70.0
+Persefone;70.0
+Corbin;70.0
+Venetian Snares & Daniel Lanois;70.0
+Heems;70.0
+Islet;70.0
+Mammoth Grinder;70.0
+Method Man, Ghostface Killah & Raekwon;70.0
+Yukon Blonde;70.0
+Milo Greene;70.0
+Ha Ha Tonka;70.0
+Jeff Beck Group;70.0
+Tigran Hamasyan;70.0
+Corb Lund;70.0
+James Pants;70.0
+Project Pablo;70.0
+VÃ©ritÃ©;70.0
+Brooke Bentham;70.0
+The Dangerous Summer;70.0
+Bash & Pop;70.0
+Miles Davis & Robert Glasper;70.0
+Sun Araw;70.0
+Can;69.95454545454545
+Arch Enemy;69.9375
+Parkway Drive;69.91666666666667
+Robert Pollard;69.91666666666667
+Rush;69.86842105263158
+The Get Up Kids;69.85714285714286
+The Pretty Reckless;69.83333333333333
+A Perfect Circle;69.83333333333333
+Cassius;69.83333333333333
+Inspiral Carpets;69.83333333333333
+Menace Beach;69.83333333333333
+6LACK;69.83333333333333
+Sara Bareilles;69.83333333333333
+Johnny Marr;69.83333333333333
+K. Michelle;69.83333333333333
+Rone;69.83333333333333
+Orchestral Manoeuvres In The Dark;69.81818181818181
+Eric Church;69.8
+Sleigh Bells;69.8
+Poppy;69.8
+The Smashing Pumpkins;69.8
+The Gaslight Anthem;69.8
+The Weeknd;69.8
+Blouse;69.75
+Miami Horror;69.75
+Trans Am;69.75
+All We Are;69.75
+LP;69.75
+Nicolas Godin;69.75
+The Game;69.75
+Asia;69.75
+Kevin Krauter;69.75
+The Sidekicks;69.75
+The Heavy;69.75
+The Soft Pack;69.75
+White Hinterland;69.75
+NOFX;69.75
+HONNE;69.75
+Chamillionaire;69.75
+OFF!;69.75
+Arkells;69.75
+Seinabo Sey;69.75
+BÃ˜RNS;69.75
+Graham Coxon;69.75
+Papa M;69.75
+Morgan Delt;69.75
+Will Butler;69.75
+Alicia Keys;69.71428571428571
+Rainbow;69.7
+Thievery Corporation;69.7
+Glen Hansard;69.7
+AFI;69.6875
+Statik Selektah;69.66666666666667
+Betty Who;69.66666666666667
+Big Business;69.66666666666667
+Tiga;69.66666666666667
+Tim Heidecker;69.66666666666667
+Braid;69.66666666666667
+Why?;69.66666666666667
+Lindsey Stirling;69.66666666666667
+Tom Petty and the Heartbreakers;69.625
+Max Cooper;69.625
+Flume;69.625
+Eric Copeland;69.625
+Recondite;69.625
+Jimmy Eat World;69.61111111111111
+The Faint;69.6
+Hanni El Khatib;69.6
+City and Colour;69.58333333333333
+Daryl Hall & John Oates;69.57142857142857
+Spacey Jane;69.5
+Brody Dalle;69.5
+Frank Zappa & Captain Beefheart;69.5
+Porter Robinson;69.5
+Kllo;69.5
+Skinny Pelembe;69.5
+The Minus 5;69.5
+Frigs;69.5
+Tusks;69.5
+Flat Worms;69.5
+Jay-Jay Johanson;69.5
+The Cab;69.5
+Two Fingers;69.5
+Pissgrave;69.5
+Freelance Whales;69.5
+Deaf Wish;69.5
+Slava;69.5
+Milk Maid;69.5
+Trey Anastasio;69.5
+Decrepit Birth;69.5
+Xeno & Oaklander;69.5
+Tanukichan;69.5
+Xibalba;69.5
+Merzbow & HEXA;69.5
+Telegram;69.5
+Jake Shears;69.5
+Andra Day;69.5
+Mija;69.5
+Sam Doores;69.5
+Kurtis Blow;69.5
+The Von Bondies;69.5
+The New Mendicants;69.5
+The Veronicas;69.5
+Krept & Konan;69.5
+Big Joanie;69.5
+PC Worship;69.5
+Dalhous;69.5
+MxPx;69.5
+Jeff Goldblum & The Mildred Snitzer Orchestra;69.5
+Sir Richard Bishop;69.5
+NADINE;69.5
+Â¡Mayday! & MURS;69.5
+Dry The River;69.5
+A.F.R.O. & Marco Polo;69.5
+Black Milk & Nat Turner;69.5
+draag me;69.5
+dvsn;69.5
+Nyx NÃ³tt;69.5
+Donna Summer;69.5
+John Carpenter;69.5
+gobbinjr;69.5
+David Keenan;69.5
+Dolores O'Riordan;69.5
+Ocean Colour Scene;69.5
+The Knife in Collaboration with Mt. Sims and Planningtorock;69.5
+A Camp;69.5
+Dirty Heads;69.5
+Dawn Golden;69.5
+John Paul White;69.5
+Bleachers;69.5
+Shy FX;69.5
+Jo Passed;69.5
+Onyx;69.5
+Yung Baby Tate;69.5
+Palaye Royale;69.5
+Alex Winston;69.5
+Eve 6;69.5
+BjÃ¸rn Torske & Prins Thomas;69.5
+Evan Dando;69.5
+Matthewdavid's Mindflight;69.5
+The Shouting Matches;69.5
+The Shortwave Set;69.5
+Ella Mai;69.5
+Delta Goodrem;69.5
+Jeremih & Ty Dolla $ign;69.5
+Kenny Mason;69.5
+Egyptian Hip Hop;69.5
+Nguzunguzu;69.5
+Zeus;69.5
+Ace Hood;69.5
+People Under the Stairs;69.5
+Nico Muhly;69.5
+Roosevelt;69.5
+Miracle Legion;69.5
+Volumes;69.5
+Marcy Playground;69.5
+J Balvin & Bad Bunny;69.5
+Tim Hecker & Daniel Lopatin;69.5
+Rebecca Foon;69.5
+Wildhoney;69.5
+Haunted Hearts;69.5
+Strong Arm Steady;69.5
+Wildcat! Wildcat!;69.5
+Ben Folds & Nick Hornby;69.5
+Audion;69.5
+Havoc & The Alchemist;69.5
+Children of Alice;69.5
+Lo Moon;69.5
+Wicca Phase Springs Eternal;69.5
+Avantasia;69.5
+Helvetia;69.5
+Ilyas Ahmed;69.5
+Warm Digits;69.5
+Hour of Penance;69.5
+MC Paul Barman;69.5
+Highasakite;69.5
+Hindi Zahra;69.5
+Ricked Wicky;69.5
+Long Distance Calling;69.5
+Honeyblood;69.5
+Loving;69.5
+Ritual Howls;69.5
+Lou Rhodes;69.5
+Certain Creatures;69.5
+Westside Connection;69.5
+Summer Camp;69.5
+Baaba Maal;69.5
+Swollen Members;69.5
+Wasted Shirt;69.5
+Carsten Jost;69.5
+C2C;69.5
+Haerts;69.5
+Thug Entrancer;69.5
+Woodpigeon;69.5
+Mark Peters;69.5
+SWV;69.5
+Little Cub;69.5
+Wise Blood;69.5
+Surf City;69.5
+They Might Be Giants;69.46153846153847
+Weird Al Yankovic;69.45
+Violent Femmes;69.42857142857143
+Badly Drawn Boy;69.41666666666667
+Action Bronson;69.41666666666667
+Enigma;69.375
+The Magic Numbers;69.375
+The Album Leaf;69.375
+Overkill;69.375
+Bolt Thrower;69.375
+Mudhoney;69.375
+Temples;69.33333333333333
+Kimya Dawson;69.33333333333333
+The Zutons;69.33333333333333
+JJ;69.33333333333333
+Guster;69.33333333333333
+Bob Moses;69.33333333333333
+The Proper Ornaments;69.33333333333333
+Trash Talk;69.33333333333333
+I'm From Barcelona;69.33333333333333
+Bad Brains;69.3125
+GZA;69.3
+Chain & The Gang;69.25
+Nightmares On Wax;69.25
+The Messthetics;69.25
+Lee Ranaldo;69.25
+Caroline Says;69.25
+Kane Strang;69.25
+Lemonade;69.25
+Augustines;69.25
+Konx-Om-Pax;69.25
+Mark Pritchard;69.25
+K.Flay;69.25
+Lucius;69.25
+The Drums;69.25
+Ava Luna;69.25
+Palberta;69.25
+Electric Guest;69.25
+Diamond Rings;69.25
+Maria Taylor;69.25
+Nite Jewel;69.25
+Pkew Pkew Pkew;69.25
+The Black Ryder;69.25
+Maddie & Tae;69.25
+The Kissaway Trail;69.25
+Echo & the Bunnymen;69.25
+Night Beds;69.25
+Fog;69.25
+Pink Mountaintops;69.25
+Fol Chen;69.25
+Seeker Lover Keeper;69.25
+Nines;69.25
+UNKLE;69.21428571428571
+Gomez;69.21428571428571
+Mariah Carey;69.20833333333333
+Eternal Summers;69.2
+Rise Against;69.1875
+Stevie Wonder;69.16666666666667
+Teyana Taylor;69.16666666666667
+Porcelain Raft;69.16666666666667
+Bad Suns;69.16666666666667
+Diane Coffee;69.16666666666667
+We Have Band;69.16666666666667
+The Birthday Massacre;69.16666666666667
+Yellow Ostrich;69.16666666666667
+Amy MacDonald;69.16666666666667
+The Maine;69.16666666666667
+Sting;69.15
+Fatboy Slim;69.125
+Darkstar;69.125
+Uniform;69.125
+Vanessa Carlton;69.08333333333333
+RJD2;69.07142857142857
+Enya;69.07142857142857
+Dodie;69.0
+Hundredth;69.0
+Desire;69.0
+The Intelligence;69.0
+Human Highway;69.0
+Starflyer 59;69.0
+Stand Atlantic;69.0
+Carlos NiÃ±o & Friends;69.0
+Diagrams;69.0
+Joy Williams;69.0
+The Infamous Stringdusters;69.0
+Dillon;69.0
+Delroy Edwards;69.0
+Icona Pop;69.0
+Deastro;69.0
+Dodecahedron;69.0
+Discodeine;69.0
+Emptyset;69.0
+Dreezy;69.0
+Drop Nineteens;69.0
+The Surfing Magazines;69.0
+Crystal Fairy;69.0
+Brodka;69.0
+The Asteroids Galaxy Tour;69.0
+Tim Burgess;69.0
+The Anchoress;69.0
+Crash Test Dummies;69.0
+JB Dunckel;69.0
+HalfNoise;69.0
+The 1900s;69.0
+Fun Lovin' Criminals;69.0
+Travis Bretzer;69.0
+Sunn O))) & Ulver;69.0
+GWAR;69.0
+Slim Twig;69.0
+Team Sleep;69.0
+Cindy Wilson;69.0
+Grimes & d'Eon;69.0
+Ginuwine;69.0
+Swizz Beatz;69.0
+Gloria;69.0
+The Sunshine Underground;69.0
+The Broken West;69.0
+Have Mercy;69.0
+Charlie Hilton;69.0
+Statik KXNG;69.0
+Joan As Police Woman & Benjamin Lazar Davis;69.0
+Duck Sauce;69.0
+Sign Libra;69.0
+Hockey;69.0
+Toddla T;69.0
+Eat Lights Become Lights;69.0
+Daughter Of Swords;69.0
+Jerry Lee Lewis;69.0
+Cakes da Killa;69.0
+Farrah Abraham;69.0
+Soft Kill;69.0
+The Eighties Matchbox B-Line Disaster;69.0
+Stick To Your Guns;69.0
+The Russian Futurists;69.0
+Cajun Dance Party;69.0
+Everything Is Recorded;69.0
+Evian Christ;69.0
+Brent Faiyaz;69.0
+Headlights;69.0
+Joe Goddard;69.0
+The Mystery Lights;69.0
+Novelist;69.0
+Bill Frisell;69.0
+Wild Cub;69.0
+Patricia;69.0
+No Joy / Sonic Boom;69.0
+RX-101;69.0
+Vertical Scratchers;69.0
+Nots;69.0
+Scars On Broadway;69.0
+Liela Moss;69.0
+Lil Durk & Tee Grizzley;69.0
+Panda Riot;69.0
+oOoOO & Islamiq Grrrls;69.0
+Orion Sun;69.0
+R. Stevie Moore & Jason Falkner;69.0
+Lil Keke;69.0
+ACTORS;69.0
+Warren G;69.0
+Pelada;69.0
+Bat Fangs;69.0
+Ric Wilson & Terrace Martin;69.0
+Sean Lennon;69.0
+Puro Instinct;69.0
+7 Worlds Collide;69.0
+Nite Fields;69.0
+Black Peaches;69.0
+XX Teens;69.0
+Walter TV;69.0
+Peace;69.0
+AJ Tracey;69.0
+Wild Light;69.0
+LNZNDRF;69.0
+Pale Blue;69.0
+Ramona Lisa;69.0
+Raspberry Bulbs;69.0
+Kyle Forester;69.0
+Microstoria;69.0
+Olympia;69.0
+Psychotic Waltz;69.0
+New Build;69.0
+Sam Outlaw;69.0
+Larrikin Love;69.0
+Kowton;69.0
+Arp;69.0
+Rain Machine;69.0
+Knox Fortune;69.0
+Ben Harper;69.0
+Nothing But Thieves;69.0
+Painkiller;69.0
+Radkey;69.0
+Magnetic Man;69.0
+22-20s;69.0
+Santi;69.0
+Lennon Stella;69.0
+Redd Kross;69.0
+Xylouris White;69.0
+Banoffee;69.0
+Marcus FjellstrÃ¶m;69.0
+Yuksek;69.0
+Karl Hyde;69.0
+Rocket Juice & the Moon;69.0
+(G)I-DLE;69.0
+Low Life;69.0
+Long Beard;69.0
+Van Morrison & Joey DeFrancesco;69.0
+QTY;69.0
+Nat Baldwin;69.0
+Nappy Roots;69.0
+Rites of Spring;69.0
+Juliana Daugherty;69.0
+Wu-Block;69.0
+Military Genius;69.0
+Yung;69.0
+Baloji;69.0
+Neck Deep;69.0
+SinÃ©ad O'Connor;68.95
+Public Image Ltd.;68.9375
+Sepultura;68.93333333333334
+Little Boots;68.9
+Within Temptation;68.9
+Judas Priest;68.88888888888889
+Veil of Maya;68.875
+The Naked and Famous;68.875
+The Ghost Inside;68.83333333333333
+Damaged Bug;68.83333333333333
+The Milk Carton Kids;68.83333333333333
+Ty Dolla $ign;68.83333333333333
+Thousand Foot Krutch;68.83333333333333
+Serj Tankian;68.83333333333333
+SBTRKT;68.83333333333333
+The Music;68.83333333333333
+Choir of Young Believers;68.83333333333333
+Tokyo Police Club;68.8
+Albert Hammond Jr.;68.8
+Lady Gaga;68.78571428571429
+Port O'Brien;68.75
+Prodigy;68.75
+Owls;68.75
+TOBACCO;68.75
+Sun Airway;68.75
+Airbourne;68.75
+Wampire;68.75
+Dom Kennedy;68.75
+Mike Doughty;68.75
+America;68.75
+Peter Murphy;68.75
+AraabMuzik;68.75
+Zach Hill;68.75
+Danielson;68.75
+Sia;68.75
+Handsome Boy Modeling School;68.75
+Bubba Sparxxx;68.75
+Pete Astor;68.75
+Utada Hikaru;68.75
+JosÃ© James;68.75
+Memoryhouse;68.75
+oOoOO;68.75
+WhoMadeWho;68.75
+Michael Nau;68.75
+The Hundred in the Hands;68.75
+Foo Fighters;68.7
+Clap Your Hands Say Yeah;68.7
+Circa Waves;68.7
+The Psychedelic Furs;68.6875
+Mark Ronson;68.66666666666667
+Broken Bells;68.66666666666667
+Teengirl Fantasy;68.66666666666667
+ONE OK ROCK;68.66666666666667
+AminÃ©;68.66666666666667
+Foxy Shazam;68.66666666666667
+Archive;68.64285714285714
+Taking Back Sunday;68.64285714285714
+Red Hot Chili Peppers;68.63636363636364
+Ducktails;68.625
+TEEN;68.625
+Cage the Elephant;68.6
+Seal;68.57142857142857
+Curren$y;68.57142857142857
+Alanis Morissette;68.57142857142857
+MNEK;68.5
+Lali Puna;68.5
+CANT;68.5
+Willamette;68.5
+A Pale Horse Named Death;68.5
+Rosie Thomas;68.5
+The Just Joans;68.5
+Misery Signals;68.5
+Tim Darcy;68.5
+Rex Orange County;68.5
+David Grubbs;68.5
+Dog Is Dead;68.5
+Trementina;68.5
+Steve Buscemi's Dreamy Eyes;68.5
+Lost Horizons;68.5
+Crater;68.5
+Roger Eno & Brian Eno;68.5
+Tigercats;68.5
+Toothless;68.5
+Wymond Miles;68.5
+Summer Walker;68.5
+Lime Cordiale;68.5
+That Kid;68.5
+Lust for Youth;68.5
+Control Denied;68.5
+Morgan Geist;68.5
+Toxe;68.5
+Husky Loops;68.5
+Spin Doctors;68.5
+Dignan Porch;68.5
+The Parrots;68.5
+Rico Nasty;68.5
+Reflections;68.5
+Nightbringer;68.5
+The Vacant Lots;68.5
+Red River Dialect;68.5
+Levek;68.5
+Magic Kids;68.5
+Hellions;68.5
+Told Slant;68.5
+Craig Brown Band;68.5
+Sofi Tukker;68.5
+Legend Of The Seagullmen;68.5
+How to destroy angels_;68.5
+Houses;68.5
+Popcaan;68.5
+Ava Max;68.5
+Harmonium;68.5
+Azusa;68.5
+Donny BenÃ©t;68.5
+Foreigner;68.5
+Slug Guts;68.5
+Amesoeurs;68.5
+Allan Kingdom;68.5
+Cameron Avery;68.5
+The Red Krayola;68.5
+Donald Cumming;68.5
+Horse Thief;68.5
+Crystal Antlers;68.5
+Arlo Guthrie;68.5
+Vincent Gallo;68.5
+College;68.5
+Mystical Weapons;68.5
+Cigarettes After Sex;68.5
+Anteros;68.5
+Boosie Badazz;68.5
+Planet 1999;68.5
+Anemone;68.5
+Radio Moscow;68.5
+Kate Nash;68.5
+Peach Pit;68.5
+The Cranberries;68.5
+Witchcraft;68.5
+Czarface & Ghostface Killah;68.5
+Pia Fraus;68.5
+Daniel Davies;68.5
+Jean-Luc Guionnet & Daichi Yoshikawa;68.5
+Citizen;68.5
+Oscar;68.5
+POLIÃ‡A / s t a r g a z e;68.5
+FC Kahuna;68.5
+Wolf Gang;68.5
+Breakfast in Fur;68.5
+Kerli;68.5
+Versing;68.5
+Fake Laugh;68.5
+Geotic;68.5
+Grace VanderWaal;68.5
+Black Dresses;68.5
+Clairo;68.5
+Body/Head;68.5
+Mush;68.5
+Deptford Goth;68.5
+Cocteau Twins & Harold Budd;68.5
+Ta-ku;68.5
+Dean Hurley;68.5
+Seratones;68.5
+A. G. Cook;68.5
+Trixie Mattel;68.5
+SuperM;68.5
+The Shaggs;68.5
+Umphrey's McGee;68.5
+Duds;68.5
+Bloodiest;68.5
+Wilson Tanner;68.5
+Emile Haynie;68.5
+Gang Colours;68.5
+Poemss;68.5
+Actress x London Contemporary Orchestra;68.5
+Underworld & Iggy Pop;68.5
+Cold Pumas;68.5
+Drinks;68.5
+Samiyam;68.5
+Karen Elson;68.5
+Pyramids;68.5
+The Used;68.42857142857143
+Thin Lizzy;68.41666666666667
+Born Ruffians;68.41666666666667
+Ministry;68.38888888888889
+Prince Rama;68.375
+DJ Shadow;68.35714285714286
+The Cars;68.35714285714286
+Rakim;68.33333333333333
+The Lonely Island;68.33333333333333
+Guilty Simpson;68.33333333333333
+V.V. Brown;68.33333333333333
+Blues Pills;68.33333333333333
+Antwon;68.33333333333333
+Methyl Ethel;68.33333333333333
+T.I.;68.3076923076923
+The Fall Of Troy;68.3
+N.E.R.D.;68.3
+Bass Drum of Death;68.25
+OG Maco;68.25
+The Amazons;68.25
+Emmy the Great;68.25
+The Dirty Nil;68.25
+Naked Giants;68.25
+David Nail;68.25
+Black Kids;68.25
+MARINA;68.25
+David Lynch;68.25
+The Vaccines;68.25
+Gin Wigmore;68.25
+Cullen Omori;68.25
+An Autumn for Crippled Children;68.25
+Styx;68.25
+Arms and Sleepers;68.25
+Pity Sex;68.25
+Morcheeba;68.25
+Colleen Green;68.25
+YACHT;68.25
+Poe;68.25
+2:54;68.25
+The Stills;68.25
+Merzbow;68.25
+Lea Bertucci;68.25
+Lupe Fiasco;68.21428571428571
+J. Cole;68.2
+Girls Aloud;68.2
+Dido;68.2
+Bone Thugs-N-Harmony;68.16666666666667
+Dntel;68.16666666666667
+Ladyhawke;68.16666666666667
+BABYMETAL;68.16666666666667
+Let's Wrestle;68.16666666666667
+Black Flag;68.16666666666667
+Ingrid Michaelson;68.16666666666667
+Delorean;68.16666666666667
+Crocodiles;68.16666666666667
+Michelle Branch;68.16666666666667
+Fleetwood Mac;68.08823529411765
+SÃ©bastien Tellier;68.07142857142857
+Diana Ross;68.0625
+Dougie Poole;68.0
+bEEdEEgEE;68.0
+Holy Motors;68.0
+White Arrows;68.0
+Future Brown;68.0
+Hanne Hukkelberg;68.0
+Garden City Movement;68.0
+Makeness;68.0
+Dreamcar;68.0
+Low Pros;68.0
+BNQT;68.0
+Tallies;68.0
+An Horse;68.0
+The Go-Go's;68.0
+Tall Firs;68.0
+Oasis;68.0
+Horse Jumper Of Love;68.0
+Rizzle Kicks;68.0
+Hooverphonic;68.0
+Har Mar Superstar;68.0
+Zwan;68.0
+Melanie Martinez;68.0
+Project Pat;68.0
+Gossip;68.0
+GFOTY;68.0
+Good Fuck;68.0
+Dave Hause;68.0
+The Go Find;68.0
+Grass Widow;68.0
+Machito;68.0
+Rhymefest;68.0
+Coldbones;68.0
+Rich Homie Quan;68.0
+Amy Shark;68.0
+Team Ghost;68.0
+Guano Apes;68.0
+Harakiri For The Sky;68.0
+Wilko Johnson & Roger Daltrey;68.0
+Martina Topley-Bird;68.0
+Harvey Danger;68.0
+Gold-Bears;68.0
+G Herbo & Southside;68.0
+Rae Sremmurd;68.0
+Aaron Sprinkle;68.0
+Cloud Boat;68.0
+Majid Jordan;68.0
+Matt Pond;68.0
+The Dig;68.0
+Fyfe;68.0
+Coco Hames;68.0
+Harlem Shakes;68.0
+ZillaKami & SosMula;68.0
+Jill Cunniff;68.0
+Kiran Leonard;68.0
+The Lone Bellow;68.0
+Soft Metals;68.0
+Moon King;68.0
+The Pack A.D.;68.0
+Sam Sparro;68.0
+The Little Ones;68.0
+Seahaven;68.0
+Solids;68.0
+The Band Perry;68.0
+Nick Grant;68.0
+Vinyl Theatre;68.0
+Monolithe;68.0
+Bedwetter;68.0
+In Vain;68.0
+Black Knights;68.0
+Oscar and the Wolf;68.0
+Delays;68.0
+Eve;68.0
+Cut Chemist;68.0
+Frank Iero and The Future Violents;68.0
+Bored Nothing;68.0
+Bell X1;68.0
+Ryn Weaver;68.0
+Peter Wolf Crier;68.0
+Sightless Pit;68.0
+Starcrawler;68.0
+Dethklok;68.0
+Berner;68.0
+Kehlani;68.0
+Devourment;68.0
+Key!;68.0
+Jeff Lynne's ELO;68.0
+Flo Morrissey;68.0
+You+Me;68.0
+Voxtrot;68.0
+Sea Girls;68.0
+Palm;68.0
+Nice & Smooth;68.0
+Agnostic Front;68.0
+Kula Shaker;68.0
+The Teenagers;68.0
+Laura Jean;68.0
+De Staat;68.0
+Perfume;68.0
+So Pitted;68.0
+The Both;68.0
+Del Paxton;68.0
+Sorry Girls;68.0
+Lil Tjay;68.0
+About Group;68.0
+Mt. St. Helens Vietnam Band;68.0
+Oxford Collapse;68.0
+St. Lucia;68.0
+King Los;68.0
+EXO;68.0
+Mint Julep;68.0
+Mull Historical Society;68.0
+Turbonegro;68.0
+Spinning Coin;68.0
+Obey The Brave;68.0
+Skylar Spence;68.0
+Zavala;68.0
+Howler;68.0
+Sergio Mendes;68.0
+Rod Wave;68.0
+Skepta, Chip & Young Adz;68.0
+Sprain;68.0
+Lola Kirke;68.0
+DJ Nate;68.0
+Phoebe Ryan;68.0
+Sega Bodega;68.0
+Earlimart;68.0
+Phase Fatale;68.0
+Young Dreams;68.0
+Shadow Show;68.0
+DJ Jenifa;68.0
+Milosh;68.0
+Lil' Kim;68.0
+Kinky;68.0
+The So So Glos;68.0
+Î£tella;68.0
+The Utopia Strong;68.0
+Soulfly;67.9375
+A Day To Remember;67.91666666666667
+The Killers;67.91666666666667
+Enter Shikari;67.91666666666667
+Skepta;67.9
+Lou Reed;67.89473684210526
+Travis;67.88888888888889
+E-40;67.875
+Estelle;67.875
+Peter Doherty;67.83333333333333
+Small Black;67.83333333333333
+Slaves;67.83333333333333
+Violent Soho;67.83333333333333
+Doon Kanda;67.83333333333333
+Shania Twain;67.8
+As Cities Burn;67.75
+High Highs;67.75
+Dead Gaze;67.75
+Mura Masa;67.75
+Black Atlass;67.75
+Duffy;67.75
+Monica;67.75
+Elliphant;67.75
+Bear Hands;67.75
+Day Wave;67.75
+The Buggles;67.75
+John Mayall;67.75
+Rainbow Arabia;67.75
+Porches;67.75
+Those Dancing Days;67.75
+Palace;67.75
+September Girls;67.75
+stellastarr*;67.75
+Dave Gahan;67.75
+Cypress Hill;67.72222222222223
+Misfits;67.71428571428571
+Prince;67.70370370370371
+Noel Gallagher's High Flying Birds;67.7
+Little Mix;67.7
+Fall Out Boy;67.6875
+Paolo Nutini;67.66666666666667
+Club 8;67.66666666666667
+The Airborne Toxic Event;67.66666666666667
+Pete Yorn;67.66666666666667
+All Saints;67.66666666666667
+Young Magic;67.66666666666667
+Maps;67.66666666666667
+Craft Spells;67.66666666666667
+The Bug;67.66666666666667
+Best Coast;67.6
+Grateful Dead;67.57692307692308
+Morrissey;67.57692307692308
+Genesis;67.56666666666666
+Muse;67.5625
+Bee Gees;67.54166666666667
+Dude York;67.5
+Megapuss;67.5
+Talos;67.5
+VCMG;67.5
+KAZU;67.5
+Colbie Caillat;67.5
+Phenomenal Handclap Band;67.5
+Giant Drag;67.5
+Bishop Briggs;67.5
+Wizkid;67.5
+Elle King;67.5
+Antemasque;67.5
+Dej Loaf;67.5
+Graffiti6;67.5
+RBD;67.5
+Murcof;67.5
+FEVER 333;67.5
+George Clanton & Nick Hexum;67.5
+Keep Shelly In Athens;67.5
+Good Shoes;67.5
+Via Audio;67.5
+Brandon Flowers;67.5
+Far From Alaska;67.5
+ADULT.;67.5
+Velvet Revolver;67.5
+Geowulf;67.5
+PAPA;67.5
+Your Friend;67.5
+Bran Van 3000;67.5
+Lost Under Heaven;67.5
+Kisses;67.5
+Spector;67.5
+White Sea;67.5
+Eagles of Death Metal;67.5
+Rich Brian;67.5
+Post War Years;67.5
+The Interrupters;67.5
+Sound of Ceres;67.5
+Of Monsters and Men;67.5
+MJ Guider;67.5
+Chet Faker;67.5
+Chevel;67.5
+Helmet;67.5
+Molina & Johnson;67.5
+Sore Eros;67.5
+Cane Hill;67.5
+Heatsick;67.5
+Aloha;67.5
+Spectrals;67.5
+Havoc;67.5
+The Postelles;67.5
+Rkss;67.5
+Chad Valley;67.5
+Robbie Robertson;67.5
+Hot Mulligan;67.5
+EOB;67.5
+Tommy Genesis;67.5
+Penguin Prison;67.5
+Tonetta;67.5
+iLoveMakonnen;67.5
+The Kid LAROI;67.5
+Lumerians;67.5
+Cozz;67.5
+jennylee;67.5
+"Lisa ""Left Eye"" Lopes";67.5
+Lion Babe;67.5
+Mary Chapin Carpenter;67.5
+Eat Skull;67.5
+Trailer Trash Tracys;67.5
+Kronos Quartet;67.5
+Christian LÃ¶ffler;67.5
+Sallie Ford;67.5
+Drake;67.5
+Dream Police;67.5
+Tricky / DJ Muggs / Grease;67.5
+Gardens & Villa;67.5
+The Hidden Cameras;67.5
+The Blow;67.5
+Communions;67.5
+Public Memory;67.5
+Armor For Sleep;67.5
+Surfer Blood;67.5
+Britta Phillips;67.5
+Mr. Tophat;67.5
+Subjective;67.5
+Vive la Void;67.5
+Mors Principium Est;67.5
+Will Long;67.5
+Slugabed;67.5
+Jackson and His Computerband;67.5
+Dr. Octagon;67.5
+It Looks Sad.;67.5
+Hard-Fi;67.5
+Hard Working Americans;67.5
+Laser;67.5
+Nihiloxica;67.5
+Lady Sovereign;67.5
+Pattern Is Movement;67.5
+Atlas Genius;67.5
+Eagles;67.42857142857143
+Teen Daze;67.41666666666667
+No Doubt;67.41666666666667
+Jadakiss;67.4
+Def Leppard;67.4
+John Vanderslice;67.4
+YG;67.4
+Ellie Goulding;67.375
+Zero 7;67.375
+Emerson, Lake & Palmer;67.375
+Dierks Bentley;67.375
+STRFKR;67.33333333333333
+Tweet;67.33333333333333
+Miike Snow;67.33333333333333
+The Lumineers;67.33333333333333
+Eazy-E;67.33333333333333
+The Ruby Suns;67.33333333333333
+Fat White Family;67.33333333333333
+Bishop Allen;67.33333333333333
+Mobb Deep;67.3125
+John Frusciante;67.3076923076923
+Cee-Lo Green;67.3
+Run-D.M.C.;67.28571428571429
+Chevelle;67.28571428571429
+Plants and Animals;67.25
+Does It Offend You, Yeah?;67.25
+Wild Belle;67.25
+SOB X RBE;67.25
+Vitalic;67.25
+Saweetie;67.25
+Beth Hart;67.25
+Husky Rescue;67.25
+Jesu/Sun Kil Moon;67.25
+Tilly and the Wall;67.25
+Silversun Pickups;67.25
+Shamir;67.25
+NEEDTOBREATHE;67.25
+Everclear;67.25
+The Good Life;67.25
+Living Hour;67.25
+Goldfinger;67.25
+Trey Songz;67.2
+Kelly Clarkson;67.1875
+Dave Matthews Band;67.16666666666667
+JR JR;67.16666666666667
+The Academy Is...;67.16666666666667
+AC/DC;67.13888888888889
+Body Count;67.125
+Mozzy;67.125
+2 Chainz;67.1
+Ian Brown;67.07142857142857
+1990s;67.0
+Jhene Aiko;67.0
+Ski Mask The Slump God;67.0
+Minor Alps;67.0
+White Ring;67.0
+Test Icicles;67.0
+Stagnant Pools;67.0
+ionnalee;67.0
+Fun.;67.0
+Prince & The New Power Generation;67.0
+Priestess;67.0
+Silk Rhodes;67.0
+Polysick;67.0
+Lower Than Atlantis;67.0
+Yusuf;67.0
+Scott Weiland;67.0
+Agent Fresco;67.0
+Izzy Bizu;67.0
+Two Door Cinema Club;67.0
+Mulatto;67.0
+Age Coin;67.0
+Calvin Johnson;67.0
+ZOOEY;67.0
+Indian Handcrafts;67.0
+Dengue Dengue Dengue;67.0
+Lil Keed;67.0
+The Middle East;67.0
+Big Troubles;67.0
+Nelly Furtado;67.0
+Keren Ann;67.0
+Freeway;67.0
+Powell;67.0
+DNCE;67.0
+Simone Felice;67.0
+Bas;67.0
+The Amazing Snakeheads;67.0
+David Toop;67.0
+Roll The Dice;67.0
+Jim Jones;67.0
+Breakfast Muff;67.0
+Cassy;67.0
+SHIRT;67.0
+Caveman;67.0
+Charmer;67.0
+Ivan Dorn;67.0
+Alex Smoke;67.0
+Sleeper;67.0
+Alex Calder;67.0
+Nasty Cherry;67.0
+Klaatu;67.0
+The Postmarks;67.0
+Armani Caesar;67.0
+Dent May;67.0
+The Professionals;67.0
+Radiation City;67.0
+Eric Clapton;67.0
+Taylor Hawkins & The Coattail Riders;67.0
+Collective Soul;67.0
+Ariel Pink & Weyes Blood;67.0
+Thom Sonny Green;67.0
+Matty;67.0
+Flight Facilities;67.0
+Natalie Merchant;67.0
+Tanlines;67.0
+Bobby McFerrin;67.0
+Bruno Mars;67.0
+Coldair;67.0
+Sam Patch;67.0
+VANT;67.0
+Angus Stone;67.0
+Jamie Cullum;67.0
+The Matthew Herbert Big Band;67.0
+Deem Spencer;67.0
+Anika;67.0
+Viola Beach;67.0
+Thumpers;67.0
+Mark Ronson & The Business Intl;67.0
+Danzig;67.0
+Phaeleh;67.0
+Higher Brothers;67.0
+Cotton Jones;67.0
+Sisyphus;67.0
+MJ Cole;67.0
+Shy Girls;67.0
+Evangelicals;67.0
+Boy & Bear;67.0
+Profligate;67.0
+Hamerkop;67.0
+Summoning;67.0
+Karol G;67.0
+Conor Maynard;67.0
+Haleek Maul;67.0
+John Carroll Kirby;67.0
+Arthur Beatrice;67.0
+Gang of Four;67.0
+Bonde Do RolÃª;67.0
+Nancy Elizabeth;67.0
+Biffy Clyro;66.9375
+Carpenters;66.92857142857143
+Tech N9ne;66.88888888888889
+Holy Ghost!;66.875
+Coldplay;66.86363636363636
+Peter Bjorn and John;66.85714285714286
+Azure Ray;66.83333333333333
+Birdy;66.83333333333333
+City Girls;66.83333333333333
+The Orwells;66.83333333333333
+GUM;66.83333333333333
+Live;66.83333333333333
+Scritti Politti;66.83333333333333
+Joywave;66.83333333333333
+Eurythmics;66.8125
+Wiley;66.78571428571429
+Little Big Town;66.78571428571429
+Billy Idol;66.78571428571429
+Janet Jackson;66.77272727272727
+Mr. Oizo;66.75
+SHONEN KNIFE;66.75
+Cub Sport;66.75
+Giorgio Moroder;66.75
+Ben E King;66.75
+David Gilmour;66.75
+Giggs;66.75
+Bloc Party;66.75
+Emeli SandÃ©;66.75
+George Ezra;66.75
+Kacy Hill;66.75
+Witch;66.75
+David Banner;66.75
+Chapel Club;66.75
+Overcoats;66.75
+The Slits;66.75
+CocoRosie;66.71428571428571
+Chromeo;66.7
+Rob Zombie;66.7
+Alter Bridge;66.7
+Kesha;66.7
+Smoke DZA;66.66666666666667
+Editors;66.66666666666667
+Edward Sharpe & the Magnetic Zeros;66.625
+Turin Brakes;66.58333333333333
+Switchfoot;66.58333333333333
+New Found Glory;66.55
+Erasure;66.54545454545455
+DRC Music;66.5
+JÃ³nsi & Alex;66.5
+Family of the Year;66.5
+Fenech-Soler;66.5
+Mr. Scruff;66.5
+Blossoms;66.5
+Kings of Leon;66.5
+Boats;66.5
+John Denver;66.5
+Young Nudy & Pi'erre Bourne;66.5
+Kitten;66.5
+Semisonic;66.5
+Alec Ounsworth;66.5
+Van Halen;66.5
+Karen O;66.5
+21 Savage;66.5
+Jaws;66.5
+Black Prairie;66.5
+Electric Youth;66.5
+Information Flash;66.5
+Adam Lambert;66.5
+Autobahn;66.5
+Randy Rogers Band;66.5
+Raury;66.5
+Chon;66.5
+Dot Allison;66.5
+Tensnake;66.5
+Heaven Shall Burn;66.5
+Hefner;66.5
+Mike Oldfield;66.5
+Obie Trice;66.5
+Dylan Leblanc;66.5
+Doja Cat;66.5
+Big Grams;66.5
+Stefflon Don;66.5
+The Ventures;66.5
+Ceremony;66.5
+Living Things;66.5
+Chris Young;66.5
+Chrissie Hynde;66.5
+Randy Houser;66.5
+HIM;66.5
+Girl In Red;66.5
+Cody Johnson;66.5
+Megan Thee Stallion;66.5
+Megadeth;66.5
+Me & That Man;66.5
+Max Jury;66.5
+Tanya Donelly;66.5
+Pulse Emitter;66.5
+Grave Babies;66.5
+Chuck Strangers;66.5
+Dave Gahan & Soulsavers;66.5
+Throws;66.5
+Dusky;66.5
+Teen Men;66.5
+Supa Bwe;66.5
+Friends;66.5
+Cradle of Filth;66.5
+IAMX;66.5
+Ignite;66.5
+Big Baby Scumbag;66.5
+Jake Owen;66.5
+The Madden Brothers;66.5
+Eddie Vedder;66.5
+Flowers;66.5
+Pom Pom;66.5
+Diamond Rugs;66.5
+The Feeling;66.5
+Traveler;66.5
+Crescent;66.5
+Liam Hayes;66.5
+The Autumn Defense;66.5
+Creepoid;66.5
+Creep Show;66.5
+Seven Davis Jr.;66.5
+77:78;66.5
+Frankmusik;66.5
+Nick Mason;66.5
+Bastille;66.5
+South;66.5
+Alma;66.5
+Anthrax;66.45454545454545
+Brian Wilson;66.41666666666667
+Com Truise;66.4
+Queen;66.35714285714286
+Joss Stone;66.35714285714286
+Walk the Moon;66.33333333333333
+Crystal Fighters;66.33333333333333
+Wham!;66.33333333333333
+Sevendust;66.33333333333333
+Phantom Planet;66.33333333333333
+Seasick Steve;66.33333333333333
+John Legend;66.33333333333333
+Annie Lennox;66.3
+Young Dolph;66.3
+Roxette;66.3
+Chelsea Grin;66.3
+JEFF the Brotherhood;66.3
+Oliver Tree;66.25
+Baio;66.25
+Carly Pearce;66.25
+NF;66.25
+Texas;66.25
+Wyclef Jean;66.25
+Briana Marela;66.25
+Liam Gallagher;66.25
+Nick Murphy;66.25
+Eno â€¢ Hyde;66.25
+The Big Pink;66.25
+Ace of Base;66.25
+Mi Ami;66.25
+Deadmau5;66.25
+Babyshambles;66.25
+Darren Hayman;66.25
+Breakbot;66.25
+Mass Gothic;66.25
+Mark Kozelek;66.25
+Ozzy Osbourne;66.22727272727273
+Paul McCartney;66.21875
+Band of Skulls;66.2
+Burzum;66.2
+Digitalism;66.16666666666667
+Christopher Owens;66.16666666666667
+The Garden;66.16666666666667
+The Fresh & Onlys;66.125
+Andrew W.K.;66.1
+Ludacris;66.0625
+Future;66.05555555555556
+Nine Black Alps;66.0
+Art Feynman;66.0
+Guardian Alien;66.0
+Snow Patrol;66.0
+Paul Wall;66.0
+Mauno;66.0
+Maximo Park;66.0
+Jack PeÃ±ate;66.0
+SL;66.0
+Gladie;66.0
+Girl Unit;66.0
+Tech N9ne Collabos;66.0
+Spiral Stairs;66.0
+Lady Lazarus;66.0
+Omega;66.0
+Terius Nash;66.0
+Jaill;66.0
+The High Llamas;66.0
+Dragonette;66.0
+Pan American;66.0
+Carrie Underwood;66.0
+Obits;66.0
+Houndmouth;66.0
+Hype Williams;66.0
+The Juliana Hatfield Three;66.0
+HÃ¶gni;66.0
+Cashmere Cat;66.0
+Ricky Martin;66.0
+OK Go;66.0
+Lil Uzi Vert;66.0
+A Great Big World;66.0
+M Huncho;66.0
+Sam Smith;66.0
+MG;66.0
+Chief Keef & Zaytoven;66.0
+Remo Drive;66.0
+Stuart A. Staples;66.0
+Harper Simon;66.0
+Nataly Dawn;66.0
+Real Friends;66.0
+Lewis Watson;66.0
+A$AP Twelvyy;66.0
+Is Tropical;66.0
+Vistas;66.0
+Catherine Wheel;66.0
+Brazos;66.0
+Flor;66.0
+Sea Pinks;66.0
+Dean Lewis;66.0
+Keuning;66.0
+Alexander;66.0
+Jidenna;66.0
+Pontiak;66.0
+Pierce The Veil;66.0
+Ady Suleiman;66.0
+Cryptacize;66.0
+The Birds of Satan;66.0
+Fat Joe;66.0
+Curls;66.0
+The Blue Hearts;66.0
+Firewater;66.0
+The Baptist Generals;66.0
+Pop Smoke;66.0
+Del The Funky Homosapien & Parallel Thought;66.0
+Francis Lung;66.0
+Set It Off;66.0
+Francis and the Lights;66.0
+The Rumble Strips;66.0
+Acceptance;66.0
+Death Valley Girls;66.0
+Planningtorock;66.0
+Montero;66.0
+The Babe Rainbow;66.0
+Cyndi Lauper;65.94444444444444
+BTS;65.91666666666667
+Kasabian;65.91666666666667
+Mark Knopfler;65.9
+The Cave Singers;65.9
+Noah and The Whale;65.875
+George Harrison;65.86363636363636
+Lil Durk;65.83333333333333
+Ice Cube;65.81818181818181
+Method Man;65.8
+Bryan Ferry;65.76923076923077
+Calla;65.75
+Mr. Muthafuckin' eXquire;65.75
+Supreme Cuts;65.75
+Mt. Joy;65.75
+Doug Tuttle;65.75
+Filthy Friends;65.75
+Gap Dream;65.75
+She & Him;65.75
+Skindred;65.75
+Telepathe;65.75
+Omar RodrÃ­guez-LÃ³pez;65.75
+Pale Waves;65.75
+Matthewdavid;65.75
+Third Eye Blind;65.71428571428571
+Silverchair;65.7
+Azealia Banks;65.66666666666667
+PINS;65.66666666666667
+Volbeat;65.66666666666667
+Major Lazer;65.66666666666667
+Eugene McGuinness;65.66666666666667
+Princess Nokia;65.66666666666667
+Dune Rats;65.66666666666667
+Pennywise;65.66666666666667
+Paloma Faith;65.625
+Alice Cooper;65.625
+Master P;65.625
+Moby;65.53846153846153
+Cate Le Bon & Bradford Cox;65.5
+Tonight Alive;65.5
+Kap Bambino;65.5
+Dirty Pretty Things;65.5
+Jordin Sparks;65.5
+Vanna;65.5
+Body-San;65.5
+The Pipettes;65.5
+John Abercrombie Quartet;65.5
+Soul Asylum;65.5
+Painted Palms;65.5
+Illa J;65.5
+Keel Her;65.5
+Knife Knights;65.5
+Klaxons;65.5
+Salem;65.5
+Kid Sister;65.5
+Dead Or Alive;65.5
+Jack Johnson;65.5
+Jack Garratt;65.5
+Vtgnike;65.5
+LaumÄ—;65.5
+3teeth;65.5
+Indiana;65.5
+Lauv;65.5
+Bridgit Mendler;65.5
+Lawrence Rothman;65.5
+The Moldy Peaches;65.5
+Waka Flocka Flame;65.5
+Shy Boys;65.5
+Black Label Society;65.5
+Boston Spaceships;65.5
+Inspectah Deck;65.5
+The Shacks;65.5
+The Presets;65.5
+Hush Arbors;65.5
+Freddie Gibbs & The Worlds Freshest;65.5
+Golden Grrrls;65.5
+Gift Wrap;65.5
+Ghost Wave;65.5
+Teddy Thompson;65.5
+Gary Glitter;65.5
+Mika Miko;65.5
+Pearl Charles;65.5
+G.O.O.D. Music;65.5
+Mike WiLL Made It;65.5
+Zomes;65.5
+Miniature Tigers;65.5
+The Unsemble;65.5
+Freak Heat Waves;65.5
+Aries;65.5
+Formation;65.5
+You Tell Me;65.5
+Morning Glory;65.5
+The Blaze;65.5
+The Elected;65.5
+Fazer;65.5
+Alice Jemima;65.5
+Elliot Moss;65.5
+Negativland;65.5
+Naglfar;65.5
+Alex Izenberg;65.5
+Nancy Sinatra;65.5
+Good Old War;65.5
+GIRLI;65.5
+Mayday Parade;65.5
+Hodgy;65.5
+H.E.R.;65.5
+Bad Meets Evil;65.5
+MOTHXR;65.5
+Hook;65.5
+Grieves;65.5
+Chemtrails;65.5
+Halsey;65.5
+Lushlife & CSLSX;65.5
+William Patrick Corgan;65.5
+BOOTS;65.5
+Tim Cohen;65.5
+Domo Genesis;65.5
+Stray Cats;65.5
+Faithless;65.4
+JoJo;65.375
+The Polyphonic Spree;65.375
+Feeder;65.33333333333333
+As I Lay Dying;65.33333333333333
+The Holydrug Couple;65.33333333333333
+Hot Hot Heat;65.3
+Nick Jonas;65.25
+Seapony;65.25
+The Boomtown Rats;65.25
+Kirk Knight;65.25
+Citizens!;65.25
+The Magpie Salute;65.25
+Jacquees;65.25
+Less Than Jake;65.25
+Minks;65.25
+Meek Mill;65.25
+Glasvegas;65.25
+Motionless in White;65.2
+Incubus;65.1875
+Fifth Harmony;65.16666666666667
+Alexis Taylor;65.16666666666667
+DMX;65.16666666666667
+Howlin' Rain;65.16666666666667
+Echosmith;65.16666666666667
+Blondie;65.13636363636364
+Cold;65.0
+Young Prisms;65.0
+Daniel Lanois;65.0
+$uicideboy$ & Travis Barker;65.0
+Be Forest;65.0
+Zulu Winter;65.0
+Bea Miller;65.0
+Chinawoman;65.0
+Audioslave;65.0
+Amazing Baby;65.0
+Tobi Lou;65.0
+The Teskey Brothers;65.0
+Alpine;65.0
+Axxa/Abraxas;65.0
+Bishop Nehru;65.0
+Chester French;65.0
+Tee Grizzley;65.0
+Lostprophets;65.0
+Kieran Hebden & Steve Reid;65.0
+Hilltop Hoods;65.0
+Summer Moon;65.0
+Nice As Fuck;65.0
+Rihanna;65.0
+G Flip;65.0
+Neil Young & Promise of the Real;65.0
+Kindness;65.0
+Sugarland;65.0
+Kash Doll;65.0
+Lovage;65.0
+Sabrina Claudio;65.0
+Don Toliver;65.0
+Salvia Plath;65.0
+Kool G Rap;65.0
+Lindsey Buckingham & Christine McVie;65.0
+James K;65.0
+Miss May I;65.0
+Seth Lakeman;65.0
+Offset;65.0
+San Cisco;65.0
+Ghetts;65.0
+Modestep;65.0
+Knife Party;65.0
+Nudge;65.0
+Sarabeth Tucek;65.0
+Paul Revere & The Raiders;65.0
+Taylor Bennett;65.0
+Jacob Banks;65.0
+Marian Hill;65.0
+Nile Rodgers & Chic;65.0
+Kaleo;65.0
+Shlohmo & Jeremih;65.0
+The Little Willies;65.0
+Rod Picott;65.0
+Grapetooth;65.0
+Eyedress;65.0
+Rusko;65.0
+Iced Earth;65.0
+Senses Fail;65.0
+Jarren Benton;65.0
+Skaters;65.0
+Shone;65.0
+Ciara;64.92857142857143
+Yelawolf;64.91666666666667
+Green Day;64.88461538461539
+Cam'ron;64.83333333333333
+Stone Temple Pilots;64.83333333333333
+Natalie Imbruglia;64.83333333333333
+Tori Kelly;64.83333333333333
+Mustard;64.83333333333333
+Pantera;64.8125
+Kylie Minogue;64.78571428571429
+Wale;64.75
+Black Rebel Motorcycle Club;64.75
+Matt Martians;64.75
+Rat Boy;64.75
+Benjamin Francis Leftwich;64.75
+Kongos;64.75
+Maserati;64.75
+Chase and Status;64.75
+Jeff Bridges;64.75
+Javelin;64.75
+Goo Goo Dolls;64.7
+Diana Krall;64.66666666666667
+BLACKPINK;64.66666666666667
+Blu;64.66666666666667
+Mandy Moore;64.625
+Pink;64.625
+Suicide Silence;64.6
+Justin Timberlake;64.6
+Sophie Ellis-Bextor;64.58333333333333
+Ne-Yo;64.58333333333333
+Placebo;64.5625
+Count Five;64.5
+H.Grimace;64.5
+Bleeding Rainbow;64.5
+Boys Noize;64.5
+Lemuria;64.5
+Chuck Inglish;64.5
+Dance Gavin Dance;64.5
+Laura Welsh;64.5
+2KBABY;64.5
+Andrew McMahon in the Wilderness;64.5
+Jemina Pearl;64.5
+NLE Choppa;64.5
+Colin Stetson & Mats Gustafsson;64.5
+De Lux;64.5
+NYPC;64.5
+Natalia Kills;64.5
+Calpurnia;64.5
+Philip Selway;64.5
+Lloyd Banks;64.5
+Patterns;64.5
+Quinn XCII;64.5
+Tom Odell;64.5
+Orange Goblin;64.5
+RAC;64.5
+Halestorm;64.5
+Free Energy;64.5
+Brodinski;64.5
+Kiesza;64.5
+Audio Push;64.5
+Pop Levi;64.5
+Agoria;64.5
+Lo-Fang;64.5
+CEP;64.5
+The Presidents of the United States of America;64.5
+Mr Hudson;64.5
+Big Black Delta;64.5
+Kassel Jaeger & Jim O'Rourke;64.5
+Cuco;64.5
+Sleepwave;64.5
+Julian Plenti;64.5
+The Strumbellas;64.5
+Grace Potter;64.5
+Tess Parks & Anton Newcombe;64.5
+Sufjan Stevens & Lowell Brams;64.5
+BONES UK;64.5
+Kadavar;64.5
+NehruvianDOOM;64.5
+N.A.S.A.;64.5
+IshDARR;64.5
+David Torn, Tim Berne & Ches Smith;64.5
+Discovery;64.5
+Mike Shinoda;64.5
+Paul Banks;64.5
+A Grave With No Name;64.5
+Skylar Grey;64.5
+Felix da Housecat;64.5
+Jeezy;64.4
+Sabaton;64.4
+Of Mice & Men;64.375
+Evanescence;64.375
+Paula Abdul;64.33333333333333
+Miles Kane;64.33333333333333
+Young Thug;64.33333333333333
+Demi Lovato;64.33333333333333
+Yellowcard;64.3
+Macy Gray;64.28571428571429
+Silverstein;64.27777777777777
+KMD;64.25
+LANY;64.25
+Alien Ant Farm;64.25
+Naomi Punk;64.25
+Alberta Cross;64.25
+A$AP Mob;64.25
+Bring Me The Horizon;64.1875
+Cake;64.16666666666667
+Panic! at the Disco;64.16666666666667
+Kelly Rowland;64.16666666666667
+Avenged Sevenfold;64.14285714285714
+Fischerspooner;64.125
+Grouplove;64.125
+Destiny's Child;64.1
+Sugababes;64.1
+Ra Ra Riot;64.0
+Juliette and the Licks;64.0
+Moneybagg Yo;64.0
+Jerry Cantrell;64.0
+Huey Lewis & The News;64.0
+The Head and The Heart;64.0
+Jimi Goodwin;64.0
+Empire of The Sun;64.0
+Orgy;64.0
+Irist;64.0
+Cheena;64.0
+The Jacksons;64.0
+Luis Fonsi;64.0
+Tamar Braxton;64.0
+Young Guns;64.0
+A Pleasure;64.0
+The Paper Chase;64.0
+Scott H. Biram;64.0
+British Lion;64.0
+Rick Ross;64.0
+98Â°;64.0
+RaeLynn;64.0
+Vulfpeck;64.0
+Fleur East;64.0
+William Shatner;64.0
+Cappadonna;64.0
+Travie McCoy;64.0
+D Double E;64.0
+The Bohicas;64.0
+Baltra;64.0
+Loincloth;64.0
+Zhu;64.0
+Busta Rhymes;64.0
+Melii;64.0
+MellowHype;64.0
+Mick Jagger;64.0
+Eric Clapton & Friends;64.0
+Shooter Jennings;64.0
+Cash Cash;64.0
+The Automatic;64.0
+Fran Healy;64.0
+Ben Sollee;64.0
+Take That;63.92857142857143
+Deep Purple;63.88095238095238
+Marilyn Manson;63.875
+AWOLNATION;63.875
+Young the Giant;63.875
+The Whigs;63.833333333333336
+Foster the People;63.833333333333336
+Rob Thomas;63.833333333333336
+Anti-Flag;63.833333333333336
+Example;63.833333333333336
+Will Smith;63.833333333333336
+Blink-182;63.77777777777778
+Camila Cabello;63.75
+Hootie & The Blowfish;63.75
+D12;63.75
+Nouvelle Vague;63.75
+MS MR;63.75
+Escort;63.75
+NIKI;63.75
+Usher;63.75
+Billy Talent;63.7
+The Temper Trap;63.666666666666664
+Neon Trees;63.625
+Migos;63.625
+Juicy J;63.625
+James Morrison;63.5
+Vanessa Hudgens;63.5
+Got A Girl;63.5
+Herva;63.5
+Portico;63.5
+Wiz Khalifa & Curren$y;63.5
+Stevie Jackson;63.5
+Duke Dumont;63.5
+Hunter Hayes;63.5
+Better Than Ezra;63.5
+Kassel Jaeger;63.5
+Elefant;63.5
+Fake Names;63.5
+Batushka;63.5
+Tony Bennett & Lady Gaga;63.5
+Eleventh Dream Day;63.5
+Wretch 32;63.5
+Mike Jones;63.5
+Puscifer;63.5
+Carter Tanton;63.5
+Andrew Weatherall;63.5
+Daniel Martin Moore;63.5
+Chris Spedding;63.5
+Theophilus London;63.5
+Jennifer Hudson;63.5
+44;63.5
+Odd Future;63.5
+August Alsina;63.5
+G. Love & Special Sauce;63.5
+GRMLN;63.5
+Static-X;63.5
+Macklemore & Ryan Lewis;63.5
+Mad Season;63.5
+Davido;63.5
+Vacationer;63.5
+Justine Skye;63.5
+Cayucas;63.5
+Seabear;63.5
+Seafret;63.5
+GTA;63.5
+Part Time;63.5
+Chatham County Line;63.5
+Blues Control;63.5
+Britney Spears;63.44444444444444
+Brett Anderson;63.333333333333336
+Gwen Stefani;63.333333333333336
+Gesaffelstein;63.25
+Leona Lewis;63.25
+Born of Osiris;63.25
+The View;63.25
+Palma Violets;63.25
+Darwin Deez;63.25
+Katie Melua;63.25
+Sarah McLachlan;63.2
+Dashboard Confessional;63.2
+Jethro Tull;63.166666666666664
+Henning Schmiedt;63.0
+Skank;63.0
+Drose;63.0
+Disillusion;63.0
+A$AP Ferg;63.0
+Mika;63.0
+Enterprise Earth;63.0
+Airhead;63.0
+Alice Glass;63.0
+Jakob Dylan;63.0
+ANGEL-HO;63.0
+Hoodie Allen;63.0
+American Nightmare;63.0
+Jib Kidder;63.0
+Daron Malakian and Scars On Broadway;63.0
+Dio;63.0
+Days Of The New;63.0
+Yellow Days;63.0
+Chiddy Bang;63.0
+Teenage Time Killers;63.0
+Selena Gomez;63.0
+Zara Larsson;63.0
+Theme Park;63.0
+Nick J.D. Hodgson;63.0
+Lil Tracy;63.0
+Quiet Slang;63.0
+Jack Ãœ;63.0
+Sheck Wes;63.0
+Marianas Trench;63.0
+Paris Suit Yourself;63.0
+Finneas;63.0
+DJ Esco;63.0
+Bobby Shmurda;63.0
+Unearth;63.0
+Lloyd;63.0
+The Subways;63.0
+Lip Talk;63.0
+Ashley Tisdale;63.0
+Guards;63.0
+Mack 10;63.0
+Lee Ranaldo & RaÃ¼l Refree;63.0
+Lunice;63.0
+Only Real;63.0
+Y Kant Tori Read;63.0
+The Amity Affliction;63.0
+MC Shan;63.0
+Nevermen;63.0
+Starsailor;63.0
+Mahjongg;63.0
+Black Yaya;63.0
+Gucci Mane;62.96666666666667
+All Time Low;62.92857142857143
+Big Sean;62.9
+The Wombats;62.875
+The Pigeon Detectives;62.833333333333336
+Galantis;62.833333333333336
+Xzibit;62.833333333333336
+Lil Peep;62.833333333333336
+Architecture in Helsinki;62.8
+Supertramp;62.785714285714285
+Andy Black;62.75
+Dan Croll;62.75
+Gauntlet Hair;62.75
+Liz Phair;62.75
+Tribes;62.75
+The Donnas;62.75
+Yes;62.73809523809524
+The Dandy Warhols;62.72222222222222
+In This Moment;62.666666666666664
+We Are Scientists;62.666666666666664
+Kyle;62.666666666666664
+Stereophonics;62.65
+Wolfmother;62.625
+The Darkness;62.583333333333336
+Black Sabbath;62.578947368421055
+Cher;62.523809523809526
+Kane Brown;62.5
+Nonpareils;62.5
+Juice WRLD;62.5
+Imperial Teen;62.5
+Iggy & The Stooges;62.5
+Canibus;62.5
+Spice Girls;62.5
+Caesars;62.5
+Blackstreet;62.5
+CRX;62.5
+Keane;62.5
+Jon Pardi;62.5
+CLOSE;62.5
+Illenium;62.5
+Jensen Sportag;62.5
+Clock Opera;62.5
+Dinner;62.5
+Christina Perri;62.5
+03 Greedo & Nef The Pharaoh;62.5
+Thomas Rhett;62.5
+t.A.T.u.;62.5
+Deap Lips;62.5
+Rixton;62.5
+ZelooperZ;62.5
+PhÃ¨dre;62.5
+The Donkeys;62.5
+Pharrell;62.5
+Mabel;62.5
+Nervosa;62.5
+The Academic;62.5
+Melissa Etheridge;62.5
+Freya Ridings;62.5
+Red Fang;62.5
+Melanie C;62.5
+Mapei;62.5
+Willy Moon;62.5
+Asa Tone;62.5
+Figurines;62.5
+Fastball;62.5
+Rui Ho;62.5
+Wolves Like Us;62.5
+nothing,nowhere.;62.5
+Diana Vickers;62.5
+Young M.A;62.5
+Sugar Ray;62.5
+Mudvayne;62.5
+Satellite Party;62.5
+Nedarb;62.5
+Big Freedia;62.5
+Lady Antebellum;62.5
+LOOÎ Î”;62.5
+Hemlock Ernst & Kenny Segal;62.5
+Dub Trio;62.5
+Hobo Johnson;62.5
+Phish;62.458333333333336
+Atari Teenage Riot;62.333333333333336
+The Saturdays;62.333333333333336
+Neil Diamond;62.333333333333336
+Chief Keef;62.3
+White Lies;62.3
+Clare Maguire;62.25
+Walking On Cars;62.25
+Jake Bugg;62.25
+Kent;62.25
+Reptar;62.25
+18+;62.25
+Kiiara;62.25
+Rita Ora;62.25
+John Newman;62.25
+Kid Cudi;62.25
+Ray Davies;62.25
+Wet;62.25
+Aerosmith;62.214285714285715
+MÃ¶tley CrÃ¼e;62.214285714285715
+Weezer;62.19230769230769
+Garth Brooks;62.166666666666664
+Yung Lean;62.166666666666664
+Kele;62.166666666666664
+Scorpions;62.13157894736842
+Nicki Minaj;62.125
+Iggy Pop;62.088235294117645
+Avril Lavigne;62.083333333333336
+Eminem;62.083333333333336
+Robin Thicke;62.083333333333336
+Christina Aguilera;62.07142857142857
+DJ Manny;62.0
+Natalie Maines;62.0
+David Vandervelde;62.0
+Preston School of Industry;62.0
+Psychic Ills;62.0
+Dan Wilson;62.0
+Mike & The Melvins;62.0
+The Fire Theft;62.0
+Yo Gotti;62.0
+Prince & 3RDEYEGIRL;62.0
+Electric WÃ¼rms;62.0
+The Rasmus;62.0
+Ying Yang Twins;62.0
+Ameer Vann;62.0
+Buckcherry;62.0
+Amanda Palmer & Edward Ka-Spel;62.0
+Brandon Can't Dance;62.0
+Jax Jones;62.0
+Rachel Platten;62.0
+Strange Wilds;62.0
+Lil Jon & The East Side Boyz;62.0
+Lifehouse;62.0
+Van She;62.0
+Sunday Service Choir;62.0
+SOB X RBE & Hit-Boy;62.0
+Brian Eno & Rick Holland;62.0
+Kat Dahlia;62.0
+Glitterbust;62.0
+Husky;62.0
+Hellyeah;62.0
+Tomorrows Tulips;62.0
+Tiny Masters of Today;62.0
+Howes;62.0
+Todd Rundgren, Emil Nikolaisen, Hans-Peter LindstrÃ¸m;62.0
+Mark Kozelek & Sean Yeaton;62.0
+Naughty Boy;62.0
+Immortal Technique & DJ Green Lantern;62.0
+Release the Sunbird;62.0
+Fight Like Apes;62.0
+As It Is;62.0
+Snot;62.0
+Delphic;62.0
+Isaac Gracie;62.0
+Tha Alkaholiks;62.0
+Nina Persson;62.0
+Craft;62.0
+Broadside;62.0
+Mac Mall;62.0
+MAMAMOO;62.0
+Ghostface Killah & Apollo Brown;62.0
+Gift of Gab;62.0
+Kenny Chesney;61.92857142857143
+Lenny Kravitz;61.90909090909091
+Zac Brown Band;61.833333333333336
+Selena Gomez & The Scene;61.833333333333336
+G Herbo;61.833333333333336
+Nero;61.75
+James Bay;61.75
+Shy Glizzy;61.75
+The Stepkids;61.75
+Matisyahu;61.75
+MONSTA X;61.75
+Gone Is Gone;61.75
+Casey Veggies;61.75
+The Fratellis;61.7
+LL Cool J;61.7
+Asking Alexandria;61.666666666666664
+Khalid;61.666666666666664
+Akon;61.666666666666664
+Celine Dion;61.65625
+5 Seconds of Summer;61.625
+Vic Mensa;61.625
+Old Sea Brigade;61.5
+MUTEMATH;61.5
+The Advisory Circle;61.5
+Hey Mercedes;61.5
+Alison Wonderland;61.5
+Big Talk;61.5
+Drowners;61.5
+Peeping Tom;61.5
+Busdriver / Radioinactive / Daedelus;61.5
+Conor Oberst and the Mystic Valley Band;61.5
+Odawas;61.5
+I Blame Coco;61.5
+Nina Nesbitt;61.5
+Seether;61.5
+Dalai Lama;61.5
+Pure Love;61.5
+Amy Millan;61.5
+88rising;61.5
+Julia Michaels;61.5
+DevontÃ© Hynes & Third Coast Percussion;61.5
+Palmistry;61.5
+Guapdad 4000;61.5
+Slaughterhouse;61.5
+Takeoff;61.5
+CSS;61.375
+Soft Cell;61.375
+Keith Urban;61.375
+Mike Posner;61.333333333333336
+Logic;61.333333333333336
+Jeremih;61.333333333333336
+Joji;61.333333333333336
+Sum 41;61.3125
+The Kooks;61.3
+Phillip Phillips;61.25
+Matchbox Twenty;61.25
+Gus Dapperton;61.25
+Snoop Dogg;61.21875
+Willow;61.166666666666664
+Ben Lee;61.166666666666664
+Cold War Kids;61.142857142857146
+The Offspring;61.05555555555556
+Banks & Steelz;61.0
+Fabolous & Jadakiss;61.0
+Sebastien Grainger;61.0
+Gay Dad;61.0
+Spillage Village;61.0
+Electric Six;61.0
+The Dwarfs of East Agouza;61.0
+See Through Dresses;61.0
+Nate Ruess;61.0
+Memphis May Fire;61.0
+Robin Schulz;61.0
+Lil Wayne & 2 Chainz;61.0
+Paul De Jong;61.0
+Slowly Slowly;61.0
+Poor Moon;61.0
+Oh Wonder;61.0
+Hailee Steinfeld;61.0
+Pillowfight;61.0
+Alexi Murdoch;61.0
+Don Broco;61.0
+Gunplay;61.0
+Pete Yorn & Scarlett Johansson;61.0
+Heaven & Hell;61.0
+Maluma;61.0
+Boy Kill Boy;61.0
+Gorgon City;61.0
+Kirk Windstein;61.0
+What Made Milwaukee Famous;61.0
+Luke Vibert;61.0
+RL Grime;61.0
+Patrick Stump;61.0
+Shinedown;60.916666666666664
+Wings;60.875
+INXS;60.85
+Rudimental;60.833333333333336
+DaBaby;60.833333333333336
+One Direction;60.8
+G-Unit;60.75
+Katzenjammer;60.75
+Kid Ink;60.75
+Lil Baby;60.75
+tÄ“tÄ“ma;60.75
+Reverend and the Makers;60.75
+Fabolous;60.75
+Turnstile;60.75
+The I.L.Y.'s;60.75
+Embrace;60.75
+Moby & The Void Pacific Choir;60.75
+The Neighbourhood;60.75
+Duran Duran;60.73076923076923
+Roy Wood$;60.666666666666664
+Tony Yayo;60.5
+The Prettiots;60.5
+Dark Angel;60.5
+Funeral Party;60.5
+Cerrone;60.5
+TÃ©lÃ©popmusik;60.5
+Twista;60.5
+Magic Wands;60.5
+Iamsu!;60.5
+Cavetown;60.5
+Deaf Havana;60.5
+Tenacious D;60.5
+Brilliant Colors;60.5
+Carl BarÃ¢t & The Jackals;60.5
+Niall Horan;60.5
+Teddybears;60.5
+Conrad Keely;60.5
+Fit For A King;60.5
+ORB;60.5
+Issues;60.5
+Tinie Tempah;60.5
+Arbor Labor Union;60.5
+David Byrne & Fatboy Slim;60.5
+Internet Money;60.5
+The Datsuns;60.5
+PARTYNEXTDOOR;60.4
+Shawn Mendes;60.333333333333336
+Rascal Flatts;60.333333333333336
+Tin Machine;60.25
+Gym Class Heroes;60.25
+Sonata Arctica;60.25
+T-Pain;60.25
+a-ha;60.166666666666664
+*NSYNC;60.125
+All That Remains;60.111111111111114
+Elton John;60.107142857142854
+Hilary Duff;60.1
+Laster;60.0
+Post Malone;60.0
+Rooney;60.0
+Anavae;60.0
+Pterodactyl;60.0
+$uicideboy$;60.0
+Nelson Can;60.0
+Razorlight;60.0
+Zayn;60.0
+Beast Coast;60.0
+Craig Armstrong;60.0
+Get Cape. Wear Cape. Fly.;60.0
+Noah Gundersen;60.0
+Celebration;60.0
+Alex Clare;60.0
+Dog Bite;60.0
+Lukas Graham;60.0
+New Kids On The Block;60.0
+Benjamin Gibbard;60.0
+Korn;59.88461538461539
+The Courteeners;59.833333333333336
+OneRepublic;59.75
+John Fogerty;59.75
+The Sounds;59.7
+Bryson Tiller;59.666666666666664
+Linkin Park;59.642857142857146
+The Crystal Method;59.625
+Nelly;59.6
+The Beach Boys;59.53448275862069
+Thank You;59.5
+Twenty88;59.5
+Slim Jxmmi;59.5
+Lil Skies;59.5
+James Arthur;59.5
+3 Inches of Blood;59.5
+Krewella;59.5
+SONIKKU;59.5
+Masta Killa;59.5
+The Bravery;59.5
+Olly Murs;59.5
+The C.I.A.;59.5
+Roxanne ShantÃ©;59.5
+Transplants;59.5
+Quando Rondo;59.5
+Angel Haze;59.5
+Dan + Shay;59.5
+Joell Ortiz;59.5
+The Glitch Mob;59.5
+Juelz Santana;59.5
+Pretty Lights;59.5
+10 Years;59.5
+Implodes;59.5
+Towkio;59.5
+Birdman & Lil Wayne;59.5
+DJ Snake;59.5
+The D4;59.5
+Jonathan Rado;59.5
+The Human League;59.375
+Jonas Brothers;59.375
+Mumford & Sons;59.3
+Hurts;59.3
+Robbie Williams;59.25
+Vance Joy;59.25
+Chris Cornell;59.25
+YoungBoy Never Broke Again;59.25
+Keri Hilson;59.25
+Matt & Kim;59.25
+Dominic Fike;59.25
+YFN Lucci;59.25
+Avicii;59.166666666666664
+Darius Rucker;59.0
+Sixpence None the Richer;59.0
+Fat Joe & Remy Ma;59.0
+bis;59.0
+Sleeping with Sirens;59.0
+Gerry Cinnamon;59.0
+Shaggy;59.0
+Iann Dior;59.0
+Jonathan Davis;59.0
+I Prevail;59.0
+Demon Hunter;59.0
+MellowHigh;59.0
+Jewel;59.0
+Ivete Sangalo;59.0
+Blood Youth;59.0
+Calvin Harris;59.0
+Smash Mouth;59.0
+BjÃ¶rk GuÃ°mundsdÃ³ttir & trÃ­Ã³ GuÃ°mundar IngÃ³lfssonar;59.0
+Anvil;59.0
+Scarlett Johansson;59.0
+Devin The Dude;59.0
+Quavo & Travis Scott;59.0
+Alphabeat;59.0
+Joan of Arc;58.833333333333336
+Bullet For My Valentine;58.75
+Craig David;58.75
+Kansas;58.75
+EDEN;58.75
+Keyshia Cole;58.75
+Catfish & The Bottlemen;58.666666666666664
+The Monochrome Set;58.666666666666664
+Backstreet Boys;58.666666666666664
+Devlin;58.666666666666664
+Zacari;58.5
+Grizfolk;58.5
+Mikky Ekko;58.5
+Yungblud;58.5
+Juicy J & Wiz Khalifa;58.5
+Bebe Rexha;58.5
+Jay Park;58.5
+Mastery;58.5
+The Strypes;58.5
+Her;58.5
+Fat Joe & Dre;58.5
+Mona;58.5
+Apostle of Hustle;58.5
+Saint Asonia;58.5
+Anuel AA;58.5
+Meat Loaf;58.5
+MSTRKRFT;58.5
+Anne-Marie;58.5
+Joker's Daughter;58.5
+Amanda Blank;58.5
+Buck 65;58.5
+Daya;58.5
+Chrysta Bell;58.5
+Right Said Fred;58.5
+BLARF;58.5
+Angels & Airwaves;58.5
+Devo;58.3125
+Breaking Benjamin;58.285714285714285
+Fergie;58.25
+The All-American Rejects;58.25
+Zedd;58.25
+Kygo;58.25
+Kaiser Chiefs;58.214285714285715
+Ziggy Marley;58.166666666666664
+Sleepy Brown;58.0
+The Wanted;58.0
+Hardwell;58.0
+RZA;58.0
+Jonatan Leandoer127;58.0
+LeAnn Rimes;58.0
+LSD;58.0
+Pentatonix;58.0
+Eskmo;58.0
+Catherine McGrath;58.0
+American Hi-Fi;58.0
+Fetty Wap;58.0
+Jess Glynne;58.0
+Lovvers;58.0
+Skillet;58.0
+Stabbing Westward;58.0
+Watsky;58.0
+Cerebral Ballzy;58.0
+Soho Rezanejad;58.0
+Clean Bandit;58.0
+JLS;58.0
+Ashlee Simpson;57.833333333333336
+Blake Shelton;57.8
+X Ambassadors;57.75
+Kodaline;57.75
+Twin Atlantic;57.625
+You Me At Six;57.583333333333336
+Pendulum;57.5
+Miranda Cosgrove;57.5
+Wild Child;57.5
+Shoreline Mafia;57.5
+Dan Black;57.5
+Onra;57.5
+Roger Daltrey;57.5
+Dillon Francis;57.5
+Jon Bellion;57.5
+Andrew Hung;57.5
+PnB Rock;57.5
+Crass;57.5
+ROAM;57.5
+Dustin Lynch;57.5
+Sango;57.5
+DJ Food;57.5
+Escape The Fate;57.5
+Dams of the West;57.5
+Mase;57.5
+Darkel;57.5
+Jefe;57.5
+Golden Smog;57.5
+King Buzzo;57.5
+Brooke Candy;57.5
+Ghost Beach;57.5
+Anitta;57.5
+Hawthorne Heights;57.333333333333336
+Aqua;57.25
+The Fray;57.25
+Die Antwoord;57.25
+Trippie Redd;57.25
+Kodak Black;57.25
+50 Cent;57.2
+Bon Jovi;57.17857142857143
+Lil Wayne;57.11538461538461
+Katy Perry;57.1
+B.o.B.;57.083333333333336
+Tim McGraw;57.0
+Joey Ramone;57.0
+Mushroomhead;57.0
+Danko Jones;57.0
+Mary Lambert;57.0
+Miley Cyrus;57.0
+Moon Taxi;57.0
+Foxy Brown;57.0
+Spinnerette;57.0
+Famous Dex;57.0
+VHS or Beta;57.0
+Andrew Stockdale;57.0
+Cole Swindell;57.0
+Gucci Mane & Waka Flocka Flame;57.0
+Benji Hughes;57.0
+The Mowgli's;57.0
+Skrillex;57.0
+Black Eyed Peas;56.9375
+Rich The Kid;56.833333333333336
+Yung Bans;56.75
+Above & Beyond;56.75
+Dan Le Sac vs Scroobius Pip;56.75
+Jaden;56.75
+Jaguar Love;56.75
+Jason Mraz;56.666666666666664
+Disturbed;56.57142857142857
+Thieves Like Us;56.5
+Avey Tare & KrÃ­a Brekkan;56.5
+Lil B;56.5
+Lindemann;56.5
+Daz-n-Snoop;56.5
+Nonono;56.5
+Creeper Lagoon;56.5
+Courtney Love;56.5
+Sage the Gemini;56.5
+Spank Rock;56.5
+MadeinTYO;56.5
+Nico & Vinz;56.5
+Bugzy Malone;56.5
+Magnetic Morning;56.5
+Radio 4;56.333333333333336
+SCARLXRD;56.25
+Relient K;56.25
+She Wants Revenge;56.25
+Beady Eye;56.25
+P.O.D.;56.25
+Cheryl Cole;56.125
+Hammerfall;56.0
+Maroon 5;56.0
+Las Ketchup;56.0
+Karl Bartos;56.0
+The Cadillac Three;56.0
+Perry Farrell;56.0
+Lil Nas X;56.0
+The Ordinary Boys;56.0
+Uncommon Nasa & Kount Fif;56.0
+Sweven;56.0
+Far East Movement;56.0
+Computer Magic;56.0
+R. Kelly;55.92307692307692
+Ed Sheeran;55.9
+Puff Daddy;55.833333333333336
+Bush;55.8125
+Steve Angello;55.75
+The Moondoggies;55.5
+YNW Melly;55.5
+Kevin Rudolf;55.5
+s / s / s;55.5
+Mark Kozelek & Petra Haden;55.5
+Gary Barlow;55.5
+Latyrx;55.5
+Atreyu;55.5
+Fredo;55.5
+Cher Lloyd;55.5
+Richard Ashcroft;55.3
+Lindsay Lohan;55.25
+Diplo;55.1
+John Cena & Tha Trademark;55.0
+Infant Annihilator;55.0
+Three Days Grace;55.0
+Mark Kozelek, Ben Boye & Jim White;55.0
+Nicole Scherzinger;55.0
+The Finn Brothers;55.0
+Journey;55.0
+Aeroplane;55.0
+White Williams;55.0
+Claudia Leitte;55.0
+American Authors;55.0
+TOYOMU;55.0
+Austin Mahone;55.0
+Necro;55.0
+Japanther;55.0
+Toby Keith;54.833333333333336
+Daughtry;54.8
+G-Eazy;54.8
+Trickfinger;54.75
+Creed;54.75
+The Family Rain;54.5
+Nitin Sawhney;54.5
+Barry Gibb;54.5
+T-Rextasy;54.5
+Brian Eno & Jah Wobble;54.5
+Slash;54.5
+Nickel Eye;54.5
+The Firm;54.5
+Poison;54.5
+Tom Walker;54.5
+Smokepurpp;54.5
+Ringo Starr;54.45454545454545
+Barenaked Ladies;54.42857142857143
+The Vines;54.416666666666664
+The Ting Tings;54.375
+Pixie Lott;54.333333333333336
+Gunna;54.25
+James Blunt;54.2
+Behold... The Arctopus;54.0
+Token;54.0
+Hilly Eye;54.0
+Lewis Capaldi;54.0
+The D.O.T;54.0
+Uffie;54.0
+Lea Michele;54.0
+Wifisfuneral;54.0
+Katy Hudson;54.0
+Tory Lanez;54.0
+Will Young;54.0
+Man Without Country;54.0
+Neil Young & The Bluenotes;54.0
+311;53.9375
+The Pussycat Dolls;53.75
+Fitz & the Tantrums;53.75
+Wiz Khalifa;53.666666666666664
+City Center;53.5
+T.R.U. & 2 Chainz;53.5
+New Years Day;53.5
+Neon Jungle;53.5
+Kris Wu;53.5
+Rag'n'Bone Man;53.5
+Lieutenant;53.5
+Machine Gun Kelly;53.416666666666664
+David Guetta;53.357142857142854
+Russ;53.333333333333336
+Justin Bieber;53.3
+Drowning Pool;53.25
+Ja Rule;53.25
+A Boogie Wit da Hoodie;53.25
+Owl City;53.07142857142857
+Greta Van Fleet;53.0
+Irma Vep;53.0
+Silkk The Shocker;53.0
+Jason Aldean;53.0
+MC Hammer;53.0
+Thunderheist;53.0
+Valee;53.0
+P. Diddy & The Bad Boy Family;53.0
+RMR;53.0
+Train;52.833333333333336
+Jennifer Lopez;52.8125
+Five Finger Death Punch;52.666666666666664
+Steel Panther;52.625
+DJ Khaled;52.625
+Jay-Z & Linkin Park;52.5
+Sam Hunt;52.5
+Jet;52.5
+Louis Tomlinson;52.5
+Finger Eleven;52.5
+Enrique Iglesias;52.5
+10k.caash;52.5
+Powerman 5000;52.5
+Good Charlotte;52.42857142857143
+Asher Roth;52.25
+Bloodhound Gang;52.25
+New Politics;52.0
+Jessica Simpson;52.0
+Big Sean & Metro Boomin;52.0
+Pi'erre Bourne;52.0
+Paris Hilton;52.0
+Coasts;52.0
+Snoop Lion;52.0
+3 Doors Down;51.9
+Papa Roach;51.875
+Usher & Zaytoven;51.5
+The Whip;51.5
+Lost Horizon;51.5
+Future & Juice WRLD;51.5
+Lil Jon;51.5
+Godsmack;51.5
+Smokepurpp & Murda Beatz;51.5
+Charlie Puth;51.5
+The Script;51.416666666666664
+Toto;51.388888888888886
+Athlete;51.333333333333336
+Jamie Foxx;51.333333333333336
+Pitbull;51.166666666666664
+Jason Derulo;51.166666666666664
+WZRD;51.0
+POP ETC;51.0
+Street Sweeper Social Club;51.0
+Corey Taylor;51.0
+KISS;50.921052631578945
+TiÃ«sto;50.75
+Timbaland;50.5
+30 Seconds To Mars;50.5
+Alesso;50.5
+Matt Ox;50.5
+ITSOKTOCRY;50.5
+Ashanti;50.375
+Blueface;50.0
+The Isley Brothers & Santana;50.0
+DJ Drama;50.0
+Chance The Rapper;50.0
+The Vamps;50.0
+Jessie J;49.833333333333336
+Flo Rida;49.8
+Florida Georgia Line;49.625
+Twilight Force;49.5
+Crazy Town;49.5
+Stunna 4 Vegas;49.5
+Gnash;49.5
+Candice Glover;49.5
+Chingy;49.5
+Bria Valente;49.5
+Meghan Trainor;49.4
+Black Veil Brides;49.333333333333336
+Lil Pump;49.25
+Staind;49.25
+Audio Bullys;49.25
+Hoobastank;49.166666666666664
+Limp Bizkit;49.0
+Louis C.K.;49.0
+KSI;49.0
+Macklemore;49.0
+Luke Bryan;49.0
+AJR;49.0
+Lil Yachty;48.875
+Iggy Azalea;48.75
+Simple Plan;48.7
+Imagine Dragons;48.625
+Lance Skiiiwalker;48.5
+Insane Clown Posse;48.5
+The West Coast Pop Art Experimental Band;48.5
+Hopsin;48.5
+Gavin Rossdale;48.5
+SuperHeavy;48.5
+Paul Smith;48.5
+Quavo;48.5
+Hollywood Undead;48.375
+Bladee;48.25
+Swedish House Mafia;48.0
+Hurricane Chris;48.0
+The Entrance Band;48.0
+Wolfgang Voigt;48.0
+Twilight;48.0
+Attack Attack!;47.75
+Wheatus;47.5
+Birdman;47.5
+Blessthefall;47.5
+Kreayshawn;47.5
+Vanilla Ice;47.0
+Steven Tyler;47.0
+Horsebeach;47.0
+YK Osiris;47.0
+Chris Brown & Tyga;46.5
+Prophets of Rage;46.5
+OMI;46.5
+Judah & The Lion;46.0
+Morningwood;46.0
+REASON;46.0
+Big Narstie;46.0
+Ugly God;45.75
+Riff Raff;45.666666666666664
+Louis XIV;45.5
+John Lennon & Yoko Ono;45.416666666666664
+Falling In Reverse;45.25
+Kid Rock;45.083333333333336
+Taio Cruz;45.0
+French Montana;45.0
+Tom Morello;45.0
+Magic!;45.0
+Lee Brice;45.0
+The Enemy;44.833333333333336
+Chris Brown;44.833333333333336
+The Calling;44.5
+Yoko Ono / Kim Gordon / Thurston Moore;44.5
+Joyner Lucas;44.5
+Hollywood Vampires;44.5
+Nickelback;44.333333333333336
+Lil Tecca;44.0
+The X-Ecutioners;44.0
+XXXTENTACION;43.75
+Tyga;43.583333333333336
+Robert Downey, Jr.;43.5
+Desiigner;43.5
+Professor Green;43.5
+Gene Simmons;43.5
+Steve Aoki;43.5
+James Iha;43.0
+Troy Ave;43.0
+Cute Is What We Aim For;43.0
+Afrojack;43.0
+Theory of a Deadman;42.75
+Wage War;42.5
+Nav;42.25
+Tinted Windows;42.0
+Swae Lee;41.5
+Nav and Metro Boomin;41.5
+Six Feet Under;41.5
+Nick Jonas & The Administration;41.0
+Hinder;41.0
+Lou Reed & Metallica;41.0
+Hadouken!;40.5
+will.i.am;40.5
+Lil Dicky;40.5
+blackbear;40.5
+The Hunna;40.0
+R. Kelly & Jay-Z;39.75
+Soulja Boy Tell 'Em;39.625
+Shwayze;39.5
+The Chainsmokers;39.5
+3OH!3;39.333333333333336
+Yung Joc;39.0
+Sting & Shaggy;38.5
+Faith Evans & The Notorious B.I.G.;38.5
+Puddle of Mudd;38.5
+Dec. 99th;37.5
+Tulisa;37.0
+Milli Vanilli;36.5
+Grandmaster Flash;35.5
+LMFAO;35.25
+Starship;35.0
+Thirty Seconds to Mars;35.0
+Cokie the Clown;34.5
+Liam Payne;34.0
+Bret Michaels;34.0
+Ghostland Observatory;33.0
+Queen + Paul Rodgers;33.0
+Pope Francis;31.5
+Crazy Frog;31.5
+Viva Brother;31.0
+Trapt;31.0
+6ix9ine;30.75
+Attila;30.5
+Lil Xan;30.5
+Half-Handed Cloud;29.5
+Marshmello;29.0
+Peter Criss;27.5
+Nick Cannon;26.0
+Gucci Mane & V-Nasty;24.0
+Gary Go;23.0
+Kevin Federline;11.5
+93PUNX;10.5
