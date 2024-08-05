@@ -1,2 +1,2 @@
-# Data-Science-Works
-Here are my data science works that I've made in Jupyter Notebooks.
+# Data Science 
+Here are my data science projects that I've made in Jupyter Notebooks.
